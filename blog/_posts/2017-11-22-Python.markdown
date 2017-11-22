@@ -1,11 +1,51 @@
-# Python
+---
+layout: post
+title:  "Python : prémices"
+date:   2017-11-22 19:25:00 +0100
+categories: python
+---
 
-{% highlight python %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
+Bonjour à tous et toutes !
+
+Aujourd'hui, faisons un peu de Python !
+
+
+# Python ? Kékecé ?
+
+Python est un langage de programmation. Donc de l'informatique. Rien à voir avec un animal rampant.
+
+Si pour vous programmer correspond à une fonction de la télévision pour enregistrer Derrick, je ne pourrai pas grand chose pour vous
+
+Dans le cas contraire, vous allez apprendre à jouer avec Python !!!
+à
+# C'est pas un animal dangereux le python ?
+
+J'ai déjà dit que nous n'allions pas parler d'animaux rampants ici...
+
+Bon, pourquoi Python ? Contrairement à d'autres langages qui pour le coup sont des prédateurs pour les débutants (#balancetonjava), Python est doux, mignon et fait même le café.
+
+Plus sérieusement, Python a un certain nombre d'avantages :
+
+* c’est un langage facile à apprendre, à lire, à comprendre et à écrire ;
+* il est portable (fonctionne sous de nombreux systèmes d'exploitation) ;
+* doté d’une communauté active (si je vous assure ça aide)
+
+et encore d'autres (que vous découvrirez dans peu de temps ;) )
+
+# Je voudrai un python s'il-vous-plait.
+
+Ok, c'est ici que ça se passe -> [Python]({{ "https://www.python.org/downloads/release/python-363/" | absolute_url }})
+
+Descendez sur la page et choisissez votre nouvel animal de compagnie.
+
+![Python choix]({{ "/assets/python-choice.png" | absolute_url }})
+
+Choisissez alors la version qui vous convient : win pour Windows, OSX pour Mac OSX et les sources pour Linux (mais il est très probable que python soir déjà installé dans ce cas).
+
+Suivez les étapes de l'installateur et tout devrait aller pour le mieux.
+
+Une fois que tout est fini (après un éventuel redémarrage), nous allons commencer à jouer avec Python.
+
+Sous Windows, vous trouverez dans la liste des applications un dossier **Python 3.6** : ouvrez-le.
+Puis cliquez sur **Python (Command Line)**
+
