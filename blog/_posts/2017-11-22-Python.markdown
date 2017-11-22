@@ -1,0 +1,235 @@
+---
+layout: post
+title:  "Python : prémices"
+date:   2017-11-22 19:25:00 +0100
+categories: python
+---
+
+Bonjour à tous et toutes !
+
+Aujourd'hui, faisons un peu de Python !
+
+
+# Python ? Kékecé ?
+
+Python est un langage de programmation. Donc de l'informatique. Rien à voir avec un animal rampant.
+
+Si pour vous programmer correspond à une fonction de la télévision pour enregistrer Derrick, je ne pourrai pas grand chose pour vous
+
+Dans le cas contraire, vous allez apprendre à jouer avec Python !!!
+à
+# C'est pas un animal dangereux le python ?
+
+J'ai déjà dit que nous n'allions pas parler d'animaux rampants ici...
+
+Bon, pourquoi Python ? Contrairement à d'autres langages qui pour le coup sont des prédateurs pour les débutants (#balancetonjava), Python est doux, mignon et fait même le café.
+
+Plus sérieusement, Python a un certain nombre d'avantages :
+
+* c’est un langage facile à apprendre, à lire, à comprendre et à écrire ;
+* il est portable (fonctionne sous de nombreux systèmes d'exploitation) ;
+* doté d’une communauté active (si je vous assure ça aide)
+
+et encore d'autres (que vous découvrirez dans peu de temps ;) )
+
+# Je voudrai un python s'il-vous-plait.
+
+Ok, c'est ici que ça se passe -> [Python]({{ "https://www.python.org/downloads/release/python-363/" | absolute_url }})
+
+Descendez sur la page et choisissez votre nouvel animal de compagnie.
+
+![Python choix]({{ "/assets/python-choice.png" | absolute_url }})
+
+Choisissez alors la version qui vous convient : win pour Windows, OSX pour Mac OSX et les sources pour Linux (mais il est très probable que python soir déjà installé dans ce cas).
+
+Suivez les étapes de l'installateur et tout devrait aller pour le mieux.
+
+Une fois que tout est fini (après un éventuel redémarrage), nous allons commencer à jouer avec Python.
+
+Sous Windows, vous trouverez dans la liste des applications un dossier **Python 3.6** : ouvrez-le.
+Puis cliquez sur **Python (Command Line)**.
+
+Si vous êtes sous Linux, lancez un terminal.
+
+Si vous êtes sous Mac, trouvez quelqu'un d'autre, je n'ai pas les moyens.
+
+#### *Mais c'est quoi cette atrocité ?!*
+
+Cette atrocité est une **invite de commande**. Promis, nous ferons beaucoup de graphique après.
+
+Bon, quoi qu'il en soit taper dans l'invite :
+
+{% highlight shell_session %}
+python3
+{%endhighlight%}
+
+ ![Python choix]({{ "/assets/python-cmd.png" | absolute_url }})
+
+*Pourquoi ça ne s'affiche pas exactement pareil chez moi ?*
+
+Un peu d'explication de l'écosystème Python s'impose. 
+
+La version que vous avez installée est une version "Vanilla", comprendre que vous avez installé seulement Python. Anaconda est le nom d'une distribution Python, autrement dit un package dans lequel sont présents tout plein de modules différents et des fonctionnalités supplémentaires.
+
+Ne vous inquiétez pas, nous n'allons pour le moment pas les utiliser. Apprenons déjà à maitriser le Python avant l'Anaconda.
+
+Dans l'invite de commande tapez :
+
+{% highlight python %}
+1
+{%endhighlight%}
+
+et appuyer sur **Entrée**.
+
+*Il est pas très malin, il répète ce que j'écris*
+
+Taper votre nom maintenant, puis **Entrée**.
+{% highlight python %}
+votre nom
+{%endhighlight%}
+
+*Attends, il vient de dire que je suis une "Syntax Error" ? Quel goujat...*
+
+Rappelez vous le début (et oui je sais que c'est loin). Nous avions parler de **langage de programmation**. C'est là que vient le problème, nous n'avons pas utilisé la bonne syntaxe.
+
+Essayez maintenant avec : 
+{% highlight python %}
+"votre nom"
+{%endhighlight%}
+
+*Ca a marché ! Mais il fait toujours que répéter ce que je lui écris.... Vraiment pas malin.*
+
+Et avec :
+{% highlight python %}
+1+1
+{%endhighlight%}
+
+*2 ? Rien de choquant. Attends, un python qui sait calculer ?!*
+
+Oui, Python sait calculer. Il n'est pas inutile de rappeler qu'un ordinateur n'est qu'une grosse calculette.
+
+# Mathématiques et Python
+
+ ![Im afraid we need to use math]({{ "/assets/math.png" | absolute_url }})
+
+
+*Vade retro Villani !!!*
+
+Pas la peine de se braquer comme ça. Les maths de Python sont très simples, des souvenirs de primaire devraient suffire.
+
+Comme nous l'avons vu juste avant, Python sait faire les additions et même avec des nombres à virgule.
+
+{% highlight python %}
+1+1.1
+{%endhighlight%}
+{% highlight python %}
+1-1.1
+{%endhighlight%}
+
+*2.1 et -0.1. Il est fort ce Python.*
+
+Et Python sait même des multiplications et des divisions :
+
+{% highlight python %}
+1*1.1
+{%endhighlight%}
+
+et
+{% highlight python %}
+1*-1.1
+{%endhighlight%}
+
+*Mais on m'avait dit en cours que ce n'était pas possible de mettre un x et un - l'un à côté de l'autre*
+
+Bienvenue dans le monde des **pythoneries**, des lignes qui fonctionnent en Python quand la majorité des autres langages vous aurait déjà insulté copieusement.
+
+Python est très (trop) souple avec ce genre d'"erreurs" ce qui pourra amener à des mauvaises habitudes. On écrira donc : 
+{% highlight python %}
+1*(-1.1)
+{%endhighlight%}
+
+Pas d'ambiguité. Pas de problème.
+
+Maintenant quelques divisions :
+
+{% highlight python %}
+1/3
+{%endhighlight%}
+
+Ici aussi une pythonerie, une **conversion de type implicite**. Mais ce n'est pas au programme d'aujourd'hui.
+
+{% highlight python %}
+1/0
+{%endhighlight%}
+
+*Ca ne marchera jamais...*
+
+Appuyer sur **Entrée**
+
+*Et ça n'a pas marché*
+
+Et oui, Python ne connait pas la division par 0. Comme tout le monde.
+
+De manière générale, Python explique bien les raisons qui l'ont poussé à générer une erreur, ici **ZeroDivisionError**.
+
+*Ah c'est bon, c'est fini...*
+
+Non... Il reste encore deux opérations à voir : la division entière et le modulo.
+
+*C'est quoi ?*
+
+Rappelez vous l'école primaire avec les divisions avec reste. Et bien c'est la même chose.
+
+{% highlight python %}
+>>> 1//3
+0
+>>> 1%3
+1
+{%endhighlight%}
+
+Ou encore 
+
+{% highlight python %}
+>>> 137438953471//616318177
+223
+>>> 137438953471%616318177
+0
+{%endhighlight%}
+
+La division entière correspond donc au quotient et le modulo au reste.
+
+Et voilà c'est fini !!!
+
+*Enfin...*
+
+Taisez-vous au fond. Pour la peine, des exercices supplémentaires.
+
+# Exercices
+
+1. Vérifier que la somme des entiers de 1 à 10 est égale 55. Que vaut 10*11/2 ?
+2. Vérifier que la division entière et le modulo fonctionne avec les nombres à virgules.
+3. Pour les plus avancés, jouons encore un peu. Nous allons importer un module.
+
+{% highlight python %}
+import math
+{%endhighlight%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
