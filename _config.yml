@@ -16,8 +16,8 @@
 title: Code, Fail, Repeat
 email: antoine.lavault@orange.fr
 description: >- # this means to ignore newlines until "baseurl:"
-Un petit site sur l'informatique pour des gens qui n'y connaissent pas grand chose. Comme moi en fait....
-baseurl: "" # the subpath of your site, e.g. /blog
+"Un petit site sur l'informatique pour des gens qui n'y connaissent pas grand chose. Comme moi en fait."
+baseurl: "" # the subpath of your site, e.g. /blog 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  alavault
