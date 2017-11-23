@@ -98,8 +98,129 @@ Sans être un expert en anglais, on peut comprendre que la fonction attendait 1 
 
 Donner lui à manger un argument de votre choix. 
 
+### Activité 2 : string de caractère
+
+Nous allons nous pencher sur les **chaines de caractères**. 
+
+Pour faire simple, une chaine de caractère est tout simplement un ensemble de caractères mis les uns à la suite des autres.
+
+*Je ne suis pas aussi bête...*
+
+Peut-être, mais avoir en tête cette vision est utile pour la suite.
+
+Une chaine de caractère, ou **string** en anglais, peut être définie de plusieurs manières en Python :
+ 
+{% highlight python %}
+'Comme-ci'
+"Ou comme ça"
+{%endhighlight%}
+
+Et on peut faire des opérations sur les strings :
+
+{% highlight python %}
+>>> 'Comme-ci'+"Ou comme ça"
+'Comme-ciOu comme ça'
+>>>3*'Comme-ci'
+'Comme-ciComme-ciComme-ci'
+{%endhighlight%}
+
+Si je veux avoir la cinquième lettre de la chaine, il suffit d'écrire :
+
+{% highlight python %}
+>>> 'Comme-ci'[4]
+'-'
+{%endhighlight%}
+
+*On a de le cinquième, pas le quatrième*
+
+Comme souvent en informatique, la numérotation commence à 0. Pour preuve :
+
+{% highlight python %}
+>>> 'Comme-ci'[0]
+'C'
+{%endhighlight%}
+
+Par contre, si je veux le 23ème caractère (qui n'existe pas), j'aurai :
+
+{% highlight python %}
+>>> 'Comme-ci'[23]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: string index out of range
+{%endhighlight%}
+
+*Encore des insultes...*
+
+Et retenez bien celle-la, car vous allez la recontrer souvent avec les listes.
+
+Il se trouve que Python gère les indices négatifs.
+
+*Pardon ? Comment il pourrait y avoir un -1ème caratère*
+
+Python va en fait parcourir la chaine non pas du début, mais de la fin.
+
+**Exercice** En sachant que 'Comme-ci'est de longueur 8, en déduire :
+1. L'indice maximal admissible avec un indice positif
+2. L'indice minimal admissible avec un indice négatif
+
+Même chose avec "Banane flambée".
+
+*Indication : la somme des deux indices fait -1*
+
+### Activité 3 : votre première fonction
+
+Dans cette activité, vous allez faire votre première fonction qui va faire une opération particulière sur deux arguments qui seront des nombres. Commençons par un exemple.
+
+Dans le même fichier que précedement, à la suite de **helloWorld**, écrivez :
+
+{% highlight python %}
+def maFonctionPresqueAMoi(nombre1, nombre2):
+	resultat = nombre1 + nombre2*nombre1
+	return resultat
+{%endhighlight%}
+
+*C'est quoi ce resultat ? Et c'est quoi return ?*
+
+On se calme. La ligne "resultat = nombre1 + nombre2*nombre1" est une affectation de **variable**
+
+Quand on travaille sur un programme, il est préférable de stocker ses résultats dans des variables, que l'on peut changer au cours du temps. Il convient aussi de leur donner des **noms explicites**, parce que "crabeTambour" est peut-être joli, mais pour quelqu'un qui relira votre code, ce sera tout sauf explicite.
+
+Une variable est donc définie par "nom_variable = instruction". "resultat" est donc le nom de la variable et "nombre1 + nombre2*nombre1" l'instruction.
+
+Le nom d'une variable ne doit pas comporter d'accents, d'espaces, de caractères déjà utilisés (+,-,/,* etc...) ou de chiffres au début.
+
+| Correct       |     Incorrect   |   
+| ------------- | -------------   |
+| banane       |     banane-Flambee     |  
+| resultat     |     résultat |
+| omicron_persei_8        |      (1)Ceres     |  
 
 
+"return" est un **mot-clé** Python qui signifie à la fonction qu'elle a terminé et qu'elle doit renvoyer une sortie.
+
+*Mais la fonction **helloWorld** affiche quelque chose et il n'y a pas de return*
+
+La fonction **helloWorld** est une fonction qui renvoie quelque chose, toutes les fonctions font ça. C'est un "None" : le "rien" de Python.
+
+**Exercice** : Vérifiez le.
+*Indication : affecter la fonction dans une variable et faire print(<nom de la variable>)*
+
+Pour vérifier que l'on'obtient bien quelque chose, tapez :
+
+{% highlight python %}
+>>>aTester = maFonctionPresqueAMoi(5, 6):
+>>>aTester
+{%endhighlight%}
+
+Vous devriez voir affiché '35', qui n'est pas None : la fonction a donc renvoyé quelque chose.
+
+Si d'aventure, vous voudriez faire une fonction qui ne "renvoie rien", utilisez **pass** à la place de **return <variable>**.
+
+**Exercice**
+Vous allez maintenant être jeté dans le grand enclos à Python.
+
+1. Modifiez maFonctionPresqueAMoi pour que nombre1 ne soit présent qu'une seule fois dans l'affectation de resultat
+2. 
 
 
 
