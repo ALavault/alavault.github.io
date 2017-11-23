@@ -2,7 +2,9 @@
 layout: post
 title:  "Python : prémices"
 date:   2017-11-22 19:25:00 +0100
-categories: python
+tags: python
+feature-img: "assets/img/pexels/python.png"
+thumbnail: "assets/img/thumbnails/python.jpg"
 ---
 
 Bonjour à tous et toutes !
@@ -53,11 +55,13 @@ Si vous êtes sous Linux, lancez un terminal.
 
 Si vous êtes sous Mac, trouvez quelqu'un d'autre, je n'ai pas les moyens.
 
-#### *Mais c'est quoi cette atrocité ?!*
+*Mais c'est quoi cette atrocité ?!*
 
-Cette atrocité est une **invite de commande**. Promis, nous ferons beaucoup de graphique après.
+# Python sort de sa coquille
 
-Bon, quoi qu'il en soit taper dans l'invite :
+Cette atrocité est une **invite de commande**, aussi appelée **shell**. Promis, nous ferons beaucoup de graphique après.
+
+Bon, quoi qu'il en soit, tapez dans l'invite :
 
 {% highlight shell_session %}
 python3

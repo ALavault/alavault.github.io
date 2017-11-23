@@ -2,7 +2,9 @@
 layout: post
 title:  "Big Data : présentation"
 date:   2017-11-23 21:25:00 +0100
-categories: bigdata
+feature-img: "assets/img/pexels/datacenter.jpg"
+thumbnail: "assets/img/thumbnails/datacenter.jpg"
+tags: bigdata
 ---
 
 Good news everyone !
@@ -27,3 +29,8 @@ En particulier, Big Data rime avec clusters, parallélisme et gros fichiers.
 
 ![Python choix]({{ "/assets/hadoop.png" | absolute_url }})
 
+Hadoop est un framework libre et open source écrit en Java destiné à la réalisation d'applications distribuées (clusters donc) aisément passables à l'échelle (rajouter des machines ne casse pas tout) et à gérer des grandes quantités de données (on parle de centaines de To voire plus). 
+
+Une autre idée sous-jacente d'Hadoop est la fiabilité aléatoire des noeuds d'un cluster : si un noeud tombe en panne, l'application doit continuer à tourner.
+
+Plus précisément, Hadoop est un regroupement de plusieurs modules.
