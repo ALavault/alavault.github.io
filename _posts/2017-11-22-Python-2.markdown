@@ -96,9 +96,9 @@ TypeError: helloWorld() missing 1 required positional argument: 'age'
 
 Sans être un expert en anglais, on peut comprendre que la fonction attendait 1 argument et n'a rien reçu et donc se plaint.
 
-Donner donc lui à manger un argument de votre choix. 
+Donner lui à manger un argument de votre choix. 
 
-Heuresement que je ne suis pas là pour voir ça.
+
 
 
 
