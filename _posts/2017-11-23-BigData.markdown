@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Big Data : présentation"
+date:   2017-11-23 21:25:00 +0100
+categories: bigdata
+---
+
+Good news everyone !
+
+Aujourd'hui, nous allons parler Big Data.
+
+*Non mais je lis Le Monde donc je sais ce que c'est.*
+
+Autant reprendre à zéro alors.
+
+Et surtout quand je dis "parler", cela veut dire faire.
+
+# Big Data : Kékecé ?
+
+On qualifie de Big Data des ensemble de données suffisament gros pour qu'il ne puisse pas être gérés par des humains ou des machines isolées : il y a alors un changement de paradygme.
+
+En particulier, Big Data rime avec clusters, parallélisme et gros fichiers.
+
+*Ca m'aide pas vraiment tout ça...*
+
+# Une manière de faire : Hadoop
+
+![Python choix]({{ "/assets/hadoop.png" | absolute_url }})
+
