@@ -220,8 +220,10 @@ Si d'aventure, vous voudriez faire une fonction qui ne "renvoie rien", utilisez 
 Vous allez maintenant être jeté dans le grand enclos à Python.
 
 1. Modifiez maFonctionPresqueAMoi pour que nombre1 ne soit présent qu'une seule fois dans l'affectation de resultat
-2. 
+2. Créer une fonction maFonctionAMoi qui à partir de deux arguments, renvoie la somme du premier avec la multiplication du second et de la différence des deux.
+3. Vérifiez que l'on ne peut pas mettre deux arguments de types différents : nombre et string par exemple.
 
+Have fun !
 
 
 
