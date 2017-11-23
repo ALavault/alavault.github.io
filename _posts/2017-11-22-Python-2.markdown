@@ -68,7 +68,7 @@ Les arguments sont les entrées de la fonction : ici l'âge.
 
 Je vous propose ici quelques activités : jouons un peu avec ces satanés fonctions.
 
-## Activité 1 : argumentation
+### Activité 1 : argumentation
 
 Dans la fonction **helloWorld**, changez l'argument pour qu'il soit :
 
