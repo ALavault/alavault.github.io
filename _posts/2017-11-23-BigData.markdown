@@ -33,4 +33,15 @@ Hadoop est un framework libre et open source écrit en Java destiné à la réal
 
 Une autre idée sous-jacente d'Hadoop est la fiabilité aléatoire des noeuds d'un cluster : si un noeud tombe en panne, l'application doit continuer à tourner.
 
-Plus précisément, Hadoop est un regroupement de plusieurs modules.
+Plus précisément, Hadoop est un regroupement de plusieurs modules :
+* Hadoop Common
+* Hadoop Distributed File System (HDFS) : le système de fichiers distribués d'Hadoop
+* Hadoop YARN : le ressource manager (Yet Another Ressource Manager)
+* Hadoop MapReduce : patron de conception pour les données massives.
+
+# HDFS
+
+HDFS est le système de fichiers distribués d'Hadoop. C'est donc un système de fichiers qui permet le partage de fichiers à plusieurs noeuds au travers d'un réseau (typiquement intra-cluster). HDFSl permet de s'abstraire de l'architecture physique de stockage (les différents disques durs en général), afin de manipuler un système de fichiers distribué comme s'il s'agissait d'un disque dur unique. 
+
+# Hadoop Map-Reduce
+

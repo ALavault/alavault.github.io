@@ -193,8 +193,8 @@ Le nom d'une variable ne doit pas comporter d'accents, d'espaces, de caractères
 
 | Correct       |     Incorrect   |   
 | ------------- | -------------   |
-| banane       |     banane-Flambee     |  
-| resultat     |     résultat |
+| banane                  |     banane-Flambee     |  
+| resultat                |     résultat |
 | omicron_persei_8        |      (1)Ceres     |  
 
 
