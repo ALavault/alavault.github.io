@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python - suite"
+title:  "Introduction à Python - partie 2"
 date:   2017-11-23 19:25:00 +0100
 tags: python
 feature-img: "assets/img/pexels/python.png"

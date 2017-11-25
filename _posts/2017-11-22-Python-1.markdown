@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python - prémices"
+title:  "Introduction à Python - partie 1"
 date:   2017-11-22 19:25:00 +0100
 tags: python
 feature-img: "assets/img/pexels/python.png"
@@ -218,8 +218,25 @@ Taisez-vous au fond. Pour la peine, des exercices supplémentaires.
 import math
 {%endhighlight%}
 
+Affichez le nombre $$\pi$$ avec 
 
+{% highlight python %}
+math.pi
+{%endhighlight%}
 
+On obtient la racine carrée avec 
+
+{% highlight python %}
+math.sqrt(<nombre>)
+{%endhighlight%}
+
+On donne aussi que $$\cos (2n\pi) = \cos(0) = 1$$ pour tout entier relatif $$n$$.
+
+Le vérifier avec Python sur quelques nombres que vous choisirez.
+
+Etablir une propriété similaire avec $$\sin$$ et le tester. Des différences ?
+
+Suite au prochain épisode.
 
 
 

@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: ""
-
+future:  true
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta

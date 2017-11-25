@@ -75,11 +75,15 @@ th {
 }
 table,
 dl,
-code,
+
 kbd,
-pre,
+
 samp {
   margin: 1em 0;
+}
+pre,
+code{
+background-color: #eef;
 }
 dt {
   font-weight: bold;
