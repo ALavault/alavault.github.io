@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Introduction à Python - partie 3"
+date:   2017-11-24 19:25:00 +0100
+tags: python
+feature-img: "assets/img/pexels/python.png"
+thumbnail: "assets/img/thumbnails/python.jpg"
+---
+
+Bonjour à tous et toutes !
+
+Aujourd'hui, nous allons voir les structures de controle.
+
+
+
+
+
+
+
+
+
+
+
+
