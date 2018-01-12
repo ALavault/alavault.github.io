@@ -11,7 +11,38 @@ Bonjour à tous et toutes !
 
 Aujourd'hui, nous allons voir les structures de controle.
 
+Les structures de contrôle décrivent l’enchaînement des instructions dans un programme. Elles permettent de faire des traitements séquentiels, conditionnels ou répétitifs (itératifs).
 
+
+# Structure de contrôle séquentielle
+
+Simplement une succession d'instructions. Point.
+
+# Structure de controle conditionnelle
+
+La structure de conditionnelle de Python est **Si...Alors...Sinon Si...Alors...Sinon...**. 
+
+Pour l'écrire, on fera :
+# Programme avant...
+
+{% highlight python %}
+if condition:
+	instructions
+elif condition2:
+	instructions2
+else:
+	instructions3 
+
+# Reste du programme...
+{% endhighlight %}
+
+Les conditions sont normalement des booléens. Cependant, le typage faible de Python fait qu'il est possible d'utiliser 0 comme **False** et tout autre nombre comme **True**. Il est possible de le vérifier dans le shell Python en tapant "not(nb)" avec nb un nombre.
+
+L'éxécution se passe comme suit :
+
+* Si la condition **condition** est vraie (if), alors on éxécute **instructions** et on sort de la structure.
+* Si la condition **condition** est fausse MAIS que **condition2** est vraie (elif), alors on éxécute **instructions2** et on sort de la structure.
+* Si aucune des deux précédentes conditions est vérifiée (else), on éxécute **instructions3** et on sort de la structure
 
 
 
