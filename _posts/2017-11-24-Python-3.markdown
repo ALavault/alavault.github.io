@@ -28,11 +28,11 @@ Pour l'écrire, on fera :
 {% highlight python %}
 # Programme avant...
 if condition:
-instructions
+	instructions
 elif condition2:
-instructions2
+	instructions2
 else:
-instructions3 
+	instructions3 
 
 # Reste du programme...
 {% endhighlight %}
