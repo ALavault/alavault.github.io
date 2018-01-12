@@ -20,7 +20,7 @@ Simplement une succession d'instructions. Point.
 
 # Structure de controle conditionnelle
 
-La structure de conditionnelle de Python est **Si...Alors...Sinon Si...Alors...Sinon...**. 
+La structure de conditionnelle de Python est **Si...Alors...Sinon Si...Alors...Sinon...**. Elle permet d'éxécuter des instructions sous certaines conditions.
 
 Pour l'écrire, on fera :
 
@@ -28,11 +28,11 @@ Pour l'écrire, on fera :
 {% highlight python %}
 # Programme avant...
 if condition:
-	instructions
+instructions
 elif condition2:
-	instructions2
+instructions2
 else:
-	instructions3 
+instructions3 
 
 # Reste du programme...
 {% endhighlight %}
@@ -44,6 +44,10 @@ L'éxécution se passe comme suit :
 * Si la condition **condition** est vraie (if), alors on éxécute **instructions** et on sort de la structure.
 * Si la condition **condition** est fausse MAIS que **condition2** est vraie (elif), alors on éxécute **instructions2** et on sort de la structure.
 * Si aucune des deux précédentes conditions est vérifiée (else), on éxécute **instructions3** et on sort de la structure
+
+# Structure de controle itérative
+
+Une structure de controle itérative sert à répéter une séquence d'instructions. Il faudra cependant faire bien attention à ce que la répétition ne se fasse pas à l'infini.
 
 
 
