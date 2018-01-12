@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Big Data - présentation"
+date:   2017-11-23 21:25:00 +0100
+feature-img: "assets/img/pexels/datacenter.jpg"
+thumbnail: "assets/img/thumbnails/datacenter.jpg"
+tags: bigdata
+---
+
+Good news everyone !
+
+Aujourd'hui, nous allons parler Big Data.
+
+*Non mais je lis Le Monde donc je sais ce que c'est.*
+
+Autant reprendre à zéro alors.
+
+Et surtout quand je dis "parler", cela veut dire faire.
+
+# Big Data : Kékecé ?
+
+On qualifie de Big Data des ensemble de données suffisament gros pour qu'il ne puisse pas être gérés par des humains ou des machines isolées : il y a alors un changement de paradygme.
+
+En particulier, Big Data rime avec clusters, parallélisme et gros fichiers.
+
+*Ca m'aide pas vraiment tout ça...*
+
+# Une manière de faire : Hadoop
+
+![Logo Hadoop]({{ "/assets/hadoop.png" | absolute_url }})
+
+Hadoop est un framework libre et open source écrit en Java destiné à la réalisation d'applications distribuées (clusters donc) aisément passables à l'échelle (rajouter des machines ne casse pas tout) et à gérer des grandes quantités de données (on parle de centaines de To voire plus). 
+
+Une autre idée sous-jacente d'Hadoop est la fiabilité aléatoire des noeuds d'un cluster : si un noeud tombe en panne, l'application doit continuer à tourner.
+
+Plus précisément, Hadoop est un regroupement de plusieurs modules :
+* Hadoop Common
+* Hadoop Distributed File System (HDFS) : le système de fichiers distribués d'Hadoop
+* Hadoop YARN : le ressource manager (Yet Another Ressource Manager)
+* Hadoop MapReduce : patron de conception pour les données massives.
+
+# HDFS
+
+HDFS est le système de fichiers distribués d'Hadoop. C'est donc un système de fichiers qui permet le partage de fichiers à plusieurs noeuds au travers d'un réseau (typiquement intra-cluster). HDFSl permet de s'abstraire de l'architecture physique de stockage (les différents disques durs en général), afin de manipuler un système de fichiers distribué comme s'il s'agissait d'un disque dur unique. 
+
+# Hadoop Map-Reduce
+
