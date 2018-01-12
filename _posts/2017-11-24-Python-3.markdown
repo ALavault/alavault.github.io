@@ -23,9 +23,10 @@ Simplement une succession d'instructions. Point.
 La structure de conditionnelle de Python est **Si...Alors...Sinon Si...Alors...Sinon...**. 
 
 Pour l'écrire, on fera :
-# Programme avant...
+
 
 {% highlight python %}
+# Programme avant...
 if condition:
 	instructions
 elif condition2:
