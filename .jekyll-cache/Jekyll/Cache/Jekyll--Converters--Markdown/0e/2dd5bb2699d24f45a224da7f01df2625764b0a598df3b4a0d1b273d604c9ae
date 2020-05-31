@@ -1,0 +1,117 @@
+I"<h1 id="simple-music-part-1--pitch">Simple music Part 1 : pitch</h1>
+
+<p>This post tries to describe the basics of music. Today, the musical notes.</p>
+
+<p>DISCLAIMER : I know a musical note describe pitch and duration as the same time. For the sake of simplicity, we will only describe pitches here.</p>
+
+<h2 id="1-basic-physics">1. Basic physics</h2>
+
+<p>Music is sound. And sound is a vibratory phenomenon.</p>
+
+<p>Put simply, sound is some air wiggling.</p>
+
+<p>But we are dealing with musical notes here, and musical notes have a <em>pitch</em>. This translate physically as the existence of <em>fundamental frequency</em> and <em>harmonics</em>.</p>
+
+<p><em>Frequency ?</em> : how fast or slow the sound is making the air vibrate.</p>
+
+<p><em>Harmonics ?</em> : multiple of the fundamental frequency. They define the timbre of a sound.</p>
+
+<p>The lower the frequency, the lower the note is.</p>
+
+<h3 id="1-1-answers-to-questions-you-didnt-ask">1. 1. Answers to questions you didn’t ask</h3>
+
+<p>You can skip this part as it only adds a few remarks.</p>
+
+<p><em>Anharmonic sounds</em> : sounds with a fundemental frequency but no harmonics exists. For instance, a snare drum has a fundamental but its “harmonics” are not multiple of the fundamental. 
+Another kind of anharmonic sound is noise : white noise, pink noise or simply the letter “S” : 10€ if you can give a pitch to a “S”.</p>
+
+<p><em>White noise</em> : a white noise is a signal whose spectral density is constant. In other words, it contains every frequencies (in a specified bandwidth).</p>
+
+<h2 id="2-tempering-with-temperament">2. Tempering with temperament</h2>
+
+<p>In western music, the most common tuning system is the <em>12-tone equal-temperament</em>.</p>
+
+<p><em>Tuning what ?</em> : a tuning system is a way of defining which pitches are “good”. Since we can have an infinity of frequencies, having a tuning system reduce the number of combination possible.</p>
+
+<p>A tuning system is relative to a reference : the most used in modern western music is called <em>La-440</em> or <em>A-440</em>.</p>
+
+<h3 id="2-1-back-to-the-physics">2. 1. Back to the… physics</h3>
+
+<p>There is more than 12 note in total : a piano has 88 differents keys. In fact, what is decomposed in 12 tone is an interval called an <em>octave</em>.</p>
+
+<p><em>Octave</em> : two sounds are an octave apart when one has its fundamental double of the other.</p>
+
+<p>So the range of a piano spans : 88/12 = 7.33 octaves and every 12 twelve consecutive keys, we get a sound whose fundamental is doubled.</p>
+
+<p>Now that we know from where the 12 tones come from, let us work on the equal temperament part.</p>
+
+<p><em>Equal temperament</em> : if an octave is divided into 12 tones, it follows and 12-tone equal temperament if and only if an octave is divided in pitches such as the ratio of the frequencies of any adjacent pair of pitches is the same.</p>
+
+<p>On a piano, it means the ratio of frequencies between to adjacent keys is the same.</p>
+
+<h3 id="2-2-answers-to-questions-you-didnt-ask">2. 2. Answers to questions you didn’t ask</h3>
+
+<p><em>Can I have more than 12 tone per octave</em> : Yes. It is common is non-western music…</p>
+
+<p><em>A-440 is always true, right ?</em> : No. Most of Pantera album were recorded at A-435 for instance. A-442 is common in orchestral music and A-415 is common in baroque music.</p>
+
+<h2 id="3-giving-notes-a-bad-name">3. Giving notes a (bad) name</h2>
+
+<p>Now we have divided our frequencies based on our tuning reference, we can start giving these 12 tones some names.</p>
+
+<h3 id="3-1-naming-convention">3. 1. Naming convention</h3>
+
+<p>We have already a name for our reference, La or A. La is most common in latin countries while A is most common is anglo-saxon countries.</p>
+
+<p>The note names are :</p>
+
+<p>A/La, B/Si, C/Do, D/Ré, E/Mi, F/Fa, G/Sol.</p>
+
+<p>To get more precise, we can describe the octave in which the note is in. The reference is La4 or A4.</p>
+
+<p>For a given number, the notes follow the order written above.</p>
+
+<h3 id="3-2-alterations-half-tone-and-enharmony">3. 2. Alterations, half-tone and enharmony</h3>
+
+<p><em>But I count only seven names for twelve tones !</em></p>
+
+<p>Good remark. If you look at a piano, the white keys correspond to the name given above. But there are black keys.</p>
+
+<h4 id="3-2-1-half-and-whole-tone">3. 2. 1. Half and whole tone</h4>
+
+<p>An octave is divided into 12 sub-intervals called <em>semi-tones</em> or <em>half-tones</em>. A <em>whole tone</em> is worth two half-tones.</p>
+
+<p><em>What ?</em>  And the notes A,B,C… have a certain relationship between them. Great…</p>
+
+<h4 id="3-2-2-relationship-between-the-note-names">3. 2. 2. Relationship between the note names</h4>
+
+<p>There is a whole tone between La &amp; Si, Do &amp; Ré, Ré &amp; Mi, Fa &amp; Sol and Sol &amp; La.</p>
+
+<p>There is a half tone between Si &amp; Do and Mi &amp; Fa.</p>
+
+<p>With this relationship, we made a major scale if we start on Do and a natural minor scale if we start on La.</p>
+
+<p>But it means there are 5 notes we have not defined yet in between the whole tones…. (Oh and look, it’s exactly the number of black keys in an octave)</p>
+
+<h4 id="3-2-3-alterations">3. 2. 3. Alterations</h4>
+
+<p>To give a name to the “black keys”, we have to introduce the <em>sharp</em> (♯) and the <em>flat</em> (♭). These are called alterations.</p>
+
+<p>A sharp means the note is altered to the half-tone above.</p>
+
+<p>A flat means the note is altered to the half-tone below.</p>
+
+<p>An enharmonic equivalence happens when two notes spelled differently refers to the same pitch e.g. Si♯ = Do and Fa♭=Mi</p>
+
+<p>With this we can define the following 5 remaining notes :</p>
+
+<p>Do♯/Ré♭, Ré♯/Mi♭, Fa♯/Sol♭, Sol♯/La♭, La♯/Si♭,</p>
+
+<h3 id="33-wrapping-it-up">3.3. Wrapping it up</h3>
+
+<p>An octave is divided into 12 notes. There are seven unaltered notes, but with thanks to the alterations, we can get 12 notes in an octave.</p>
+
+<h2 id="4-examples-on-instruments">4. Examples on instruments</h2>
+<h3 id="4-1-piano">4. 1. Piano</h3>
+<h3 id="4-2-guitar">4. 2. Guitar</h3>
+:ET
