@@ -2,7 +2,8 @@
 *.manifest
 *.spec
 
-
+*-cache/**
+*-cache
 _site/**
 _site
 _development_tool/**
