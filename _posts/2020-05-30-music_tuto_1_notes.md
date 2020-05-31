@@ -2,6 +2,8 @@
 layout: post
 title: Simple music Part 1
 tags: [Music]
+author: alavault
+
 ---
 
 # Simple music Part 1 : pitch

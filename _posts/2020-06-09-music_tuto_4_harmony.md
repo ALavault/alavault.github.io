@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Simple music Part 3
+title: Simple music Part 4
 tags: [Music]
 author: alavault
-
 ---
 
-# Simple music Part 2 : Rhythm
+# Simple music Part 4 : Harmony
 
 This post tries to describe the basics of music. Today, western-style rhythm.
 

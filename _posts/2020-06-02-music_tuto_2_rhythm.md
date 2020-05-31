@@ -2,6 +2,8 @@
 layout: post
 title: Simple music Part 2
 tags: [Music]
+author: alavault
+
 ---
 
 # Simple music Part 2 : Rhythm
