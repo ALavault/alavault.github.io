@@ -46,7 +46,9 @@ This set of intervals *defines* the major scale.
 
 *Exercice :* Write the G major scale. Check that the relationship between intervals is still here.
 
-*But if I start on a different note, like F for instance, while keeping the notes from the C major scale, I will not get the same intervals* Yes. This is called a mode. By the way, the scale you will get by starting of F is called the *Lydian scale* and can be described as a *major scale with an augmented fourth*. This will be detailled in another post.
+*But if I start on a different note, like F for instance, while keeping the notes from the C major scale, I will not get the same intervals* 
+
+Yes. This is called a mode. By the way, the scale you will get by starting of F is called the *Lydian scale* and can be described as a *major scale with an augmented fourth*. This will be detailled in another post.
 
 ## 3. Natural and relative minor
 
@@ -59,6 +61,7 @@ We can define a natural minor scale (note : this is typically called "minor scal
 The *relative minor* scale of a certain major scale is the minor scale sharing its notes with the major scale chosen.
 
 *Exercice :* Find the relative minor of C major. The relative minor of G major.
+
 *Hint :* Look a third below the root.
 
 
