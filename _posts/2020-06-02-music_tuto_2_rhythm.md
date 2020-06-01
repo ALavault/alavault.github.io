@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple music Part 2
-tags: [Music]
+title: Simple Music Part 2 - Rhythm
+tags: [Simple Music]
 author: alavault
 
 ---

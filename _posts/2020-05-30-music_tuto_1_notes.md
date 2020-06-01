@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple music Part 1
-tags: [Music]
+title: Simple Music Part 1 - Notes
+tags: [Simple Music]
 author: alavault
 
 ---
@@ -78,6 +78,8 @@ The note names are :
 To be more precise, we can describe the octave in which the note is in. The reference is La4 or A4.
 
 For a given number, the notes follow the order written above.
+
+Note that the numbering begins on C i.e. B3 < C4 and C4 < A4.
 
 ### 3. 2. Alterations, half-tone and enharmony
 
