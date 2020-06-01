@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Music Part 4 - Harmony
+title: Simple Music Part 4 - Harmony I
 tags: [Simple Music]
 author: alavault
 ---
@@ -9,7 +9,7 @@ author: alavault
 
 This post tries to describe the basics of music. Today, basic chords and harmony on the major scale.
 
-## 1. Scalability
+## 1. Scalability or scale hability ?
 
 We are going to see our first scale : the C major scale !
 
