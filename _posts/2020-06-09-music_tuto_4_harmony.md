@@ -92,6 +92,8 @@ There are 7 triads derived from the C major scale :
 * 3 are minor : D, E, and A
 * 1 is diminished : B
 
+*Does this mean the minor scale is built in the same ?* Yes. But we will see that later !
+
 ## 5. Playing chords
 
 ### 5.1 Piano

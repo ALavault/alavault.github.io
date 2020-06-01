@@ -158,4 +158,4 @@ Hint : the snare does not land everytime on the beat. The main subdivision is in
 
 The time signature of this song should remind you of a common dance : which one ?
 
-On a chart similar chart as above, note when the following instruments play : shaker, guitar, bass, 
+On a similar chart as above, note when the following instruments play : shaker, guitar, bass, 
