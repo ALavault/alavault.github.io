@@ -138,7 +138,7 @@ As the name suggest, the song has an "unsquare" rhythm. Matter of fact, a bar ha
 
 Count it out loud (1,2,3,4,5,6,7). 
 
-*Hint*:The hand claps are on beats 2,4,6 and 7.
+*Hint*: The hand claps are on beats 2,4,6 and 7.
 
 
 ### Jeff Berlin - Bach
@@ -151,8 +151,9 @@ If you feel confident, you can transcribe the differents solis. Good luck with t
 
 ### Primus - My Name Is Mud
 
-Transcribe intro part, rhythmically. 
-Hint : the snare does not land everytime on the beat. The main subdivision is in 1/8 notes though.
+Transcribe the intro part, rhythmically. 
+
+*Hint* : the snare does not land everytime on the beat. The main subdivision is in 1/8 notes though.
 
 ### Joe Satriani - Always With Me, Always With You
 
