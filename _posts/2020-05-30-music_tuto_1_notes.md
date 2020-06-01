@@ -41,7 +41,7 @@ In western music, the most common tuning system is the *12-tone equal-temperamen
 
 *Tuning what ?* : a tuning system is a way of defining which pitches are "good". Since we can have an infinity of frequencies, having a tuning system reduce the number of combination possible.
 
-A tuning system is relative to a reference : the most used in modern western music is called *La-440* or *A-440*. 
+A tuning system is *relative to a reference* : the most used in modern western music is called *La-440* or *A-440*. 
 
 ### 2. 1. Back to the... physics
 
@@ -75,7 +75,7 @@ The note names are :
 
 > A/La, B/Si, C/Do, D/Ré, E/Mi, F/Fa, G/Sol.
 
-To get more precise, we can describe the octave in which the note is in. The reference is La4 or A4.
+To be more precise, we can describe the octave in which the note is in. The reference is La4 or A4.
 
 For a given number, the notes follow the order written above.
 
@@ -93,9 +93,9 @@ An octave is divided into 12 sub-intervals called *semi-tones* or *half-tones*. 
 
 #### 3. 2. 2. Relationship between the note names
 
-There is a whole tone between La & Si, Do & Ré, Ré & Mi, Fa & Sol and Sol & La.
+There is a *whole tone* between La & Si, Do & Ré, Ré & Mi, Fa & Sol and Sol & La.
 
-There is a half tone between Si & Do and Mi & Fa.
+There is a *half tone* between Si & Do and Mi & Fa.
 
 With this relationship, we made a major scale if we start on Do and a natural minor scale if we start on La.
 
@@ -121,15 +121,16 @@ We can then define the following 5 remaining notes :
 An octave is divided into 12 notes. There are seven unaltered notes, but with thanks to the alterations, we can get 12 notes in an octave.
 
 ## 4. Actual examples on instruments
+
 ### 4. 1. Piano
 
-![drum-pattern](/assets/img/posts/piano-keyboard_diagram_2.jpg){:class="img-responsive"}
+![oiano](/assets/img/posts/piano-keyboard_diagram_2.jpg){:class="img-responsive"}
 
 
-The image above shows an octave on a piano.
+The image above shows an octave on a piano with the note name on the keys. You can check the remarks above aginst this picture.
 ### 4. 2. Guitar
 
-![drum-pattern](/assets/img/posts/guitar-notes-chart-tab.jpg){:class="img-responsive"}
+![guitar](/assets/img/posts/guitar-notes-chart-tab.jpg){:class="img-responsive"}
 
 Finding notes on the guitar is actually way harder than the piano.
 
