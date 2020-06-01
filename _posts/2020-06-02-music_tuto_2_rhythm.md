@@ -93,6 +93,14 @@ We can derive a whole lot of differents division.
 
 It can go up to 1/64 and 4 whole. But these tend to be extremes.
 
+#### Dotted values
+
+Adding a dot next to a note indicates its duration is increased by half of its original (or +50% longer)
+
+For a quarter note, it is notated ♩. : in this case, the note is 1/4 + 50% * 1/4 = 3/8 i.e. it is worth 3 1/8 notes.
+
+*Exercice : * Derive the values of dotted notes for the 1/8th and 1/2 notes.
+
 #### 2.3.2 Non-binary subdivisions
 
 As stated above, we can of course create non binary subdivions. The most common is a ternary subdivision.
