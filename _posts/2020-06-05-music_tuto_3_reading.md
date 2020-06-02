@@ -103,7 +103,7 @@ To play Happy Birthday, we only need one octave, from C to C.
 
 We will need to find the *middle C* : it correspond to the lowest note (the lowest C) on Happy Birthday.
 
-![oiano](/assets/img/posts/middle-c-on-piano-keyboard.png){:class="img-responsive"}
+![piano](/assets/img/posts/middle-c-on-piano-keyboard.png){:class="img-responsive"}
 
 *I can play where I want !* No you can't. Using the G-clef indicates where the G is located on the staff, but it also implies a certain pitch as well. The treble clef implies the G4 (since the middle C is C4).
 
