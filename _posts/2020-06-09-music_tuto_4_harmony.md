@@ -146,3 +146,7 @@ We give two fingering for each type of triad :
 ```
 
 I have time, I may write an arrangement for guitar.
+
+---
+
+Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.

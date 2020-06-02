@@ -143,3 +143,7 @@ First, let us talk about the tuning of a guitar. The most standard tuning is fro
 Two adjacent frets on the same string are a half-tone apart. The same fret on different strings means the interval between the notes is the same as the one between the strings.
 
 But all of this is true for the E standard tuning only. Since there is a plethora of tuning out there (open tunings, drop tuning, NST, all-fourth....), it is one of the hardest subject to master for any wanabee guitarist.
+
+---
+
+Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.

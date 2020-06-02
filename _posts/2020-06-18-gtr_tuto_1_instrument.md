@@ -227,5 +227,9 @@ You can have more details [here]({% post_url 2020-06-02-music_tuto_2_rhythm %}) 
 
 Congratulations ! You now have the minimal base to play the guitar during parties or around a campfire.
 
+---
+
+Do you have any questions ? Do you want to complain if your fingers hurt ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Guitar]) to write a mail !
+
 
 

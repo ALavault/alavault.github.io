@@ -145,3 +145,6 @@ If you want to play at the same pitch as the piano, you will have to transpose a
 
 Once you found the notes, you can add the rhythm. And then you are good to go.
 
+---
+
+Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.

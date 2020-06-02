@@ -10,10 +10,15 @@ Hello everyone !
 
 ![piano](/assets/img/posts/placeholder.png){:class="rounded"}
 
-Testing.
+I am Antoine Lavault, a research engineer in AI and doing a PhD at Sorbonne Université and IRCAM.
+
+But I also like music, especially engineering and producing. And I want you to follow along with me !
+
 
 A few series on music :
-* Simple Music : learn the basics to read and play music
-* Simple Guitar : learn the basics of guitar, in a non-classical way
+* Simple Music : learn the basics to read and play music [Ongoing]
+* Simple Guitar : learn the basics of guitar, in a non-classical way [Ongoing]
+* Simple Writing : write songs with interstings melodies and creative harmony [Soon]
+* Simple Production : learn how to record, mix and master your songs for release [Soon]
 
-Want to keep in touch ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Contact]) to write a mail.
+Do you want to talk about your projects ? Or just saying hello ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Contact]) to write a mail.

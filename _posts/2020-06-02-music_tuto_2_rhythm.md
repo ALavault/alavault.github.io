@@ -160,3 +160,7 @@ Transcribe the intro part, rhythmically.
 The time signature of this song should remind you of a common dance : which one ?
 
 On a similar chart as above, note when the following instruments play : shaker, guitar, bass, 
+
+---
+
+Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.

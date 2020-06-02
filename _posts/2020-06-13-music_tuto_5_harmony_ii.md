@@ -64,5 +64,9 @@ The *relative minor* scale of a certain major scale is the minor scale sharing i
 
 *Hint :* Look a third below the root.
 
+---
+
+Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
+
 
 
