@@ -189,3 +189,13 @@ And now to transfer this to the guitar :
 * Above the nut/bold line, you can see "0" and "X". "0" means the string is played open, and "X" means the string is not played and hence should not be heard.
 * Between the thin lines, just like your fingers between the frets, the black dots represents the position of your fingers. 
 * The numbers inside the black are a suggested fingering for the chord. We remind you that 1=index, 2=major, 3=ring, 4=pinky
+
+Once your finger are placed correctly, strum the strings with your thumb : all the notes should ring.
+
+In case some note are choked, check your thumb position : it should not be over the neck. 
+
+You should also your fretting finger position : your fingers should curve gracefully. Think of little hammers hitting the strings.
+
+### 2.3 Your first chord progression
+
+We are going to play the progession C major - A minor - D minor - Gmajor
