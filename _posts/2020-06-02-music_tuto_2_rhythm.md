@@ -164,3 +164,6 @@ On a similar chart as above, note when the following instruments play : shaker, 
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
+
+If you liked this, by all means, share the word with the world \o/
+

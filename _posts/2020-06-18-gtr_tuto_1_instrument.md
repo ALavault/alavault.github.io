@@ -231,5 +231,6 @@ Congratulations ! You now have the minimal base to play the guitar during partie
 
 Do you have any questions ? Do you want to complain if your fingers hurt ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Guitar]) to write a mail !
 
+If you liked this, by all means, share the word with the world \o/
 
 

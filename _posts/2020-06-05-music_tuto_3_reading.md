@@ -148,3 +148,5 @@ Once you found the notes, you can add the rhythm. And then you are good to go.
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
+
+If you liked this, by all means, share the word with the world \o/
