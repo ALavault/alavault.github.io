@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple Music Part 1 - Notes
-tags: [Simple Music]
+title: Simply Music Part 1 - Notes
+tags: [Simply Music]
 author: alavault
 
 ---

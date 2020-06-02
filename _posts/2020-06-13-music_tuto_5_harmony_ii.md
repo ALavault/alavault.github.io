@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple Music Part 5 - Harmony II
-tags: [Simple Music]
+title: Simply Music Part 5 - Harmony II
+tags: [Simply Music]
 author: alavault
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple Guitar Part 1 - First steps
-tags: [Simple Guitar]
+title: Simply Guitar Part 1 - First steps
+tags: [Simply Guitar]
 author: alavault
 ---
 

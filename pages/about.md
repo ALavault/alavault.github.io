@@ -16,9 +16,10 @@ But I also like music, especially engineering and producing. And I want you to f
 
 
 A few series on music :
-* Simple Music : learn the basics to read and play music [Ongoing]
-* Simple Guitar : learn the basics of guitar, in a non-classical way [Ongoing]
-* Simple Writing : write songs with interstings melodies and creative harmony [Soon]
-* Simple Production : learn how to record, mix and master your songs for release [Soon]
+
+* Simply Music : learn the basics to read and play music [Ongoing]
+* Simply Guitar : learn the basics of guitar, in a non-classical way [Ongoing]
+* Simply Writing : write songs with interstings melodies and creative harmony [Soon]
+* Simply Production : learn how to record, mix and master your songs for release [Soon]
 
 Do you want to talk about your projects ? Or just saying hello ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Contact]) to write a mail.

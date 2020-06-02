@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple music Part 3 - Reading music
-tags: [Simple Music]
+title: Simply music Part 3 - Reading music
+tags: [Simply Music]
 author: alavault
 
 ---
