@@ -223,5 +223,9 @@ In case you want to play along with the track, you can use a capo on the 10th fr
 
 You can have more details [here ]({% post_url 2020-06-02-music_tuto_2_rhythm %}) on how to read and count rhythm.
 
+*Hint :* You can strum the chords downward AND upward. It's easier to play 8th notes. You can also keep in mind 'Downward = number' and 'Upward'=& !
+
+Congratulations ! You now have the minimal base to play the guitar during parties or around a campfire.
+
 
 
