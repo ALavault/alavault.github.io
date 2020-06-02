@@ -83,7 +83,7 @@ These are 1/4th notes.
 * Now, do the same with the line on the middle (1/4 note on beats 2 and 4)
 * Now do the same with the last line. (1/4 note on beat 1 and 2 1/8 note on beat 3)
 
-### 2.3 Going further 
+### 2.3 Going further path/to/img2.png,path/to/img3.png
 
 #### 2.3.1 Deriving from the 1/4
 We can derive a whole lot of differents division. 
