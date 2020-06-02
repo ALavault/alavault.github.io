@@ -10,9 +10,9 @@ Hello everyone !
 
 ![piano](/assets/img/posts/placeholder.png){:class="rounded"}
 
-I am Antoine Lavault, a research engineer in AI and doing a PhD at Sorbonne Université and IRCAM.
+I am Antoine Lavault, a research engineer in AI and a PhD student at IRCAM.
 
-But I also like music, especially engineering and producing. And I want you to follow along with me !
+But I also like music, especially sound engineering and producing. And I want you to follow along with me !
 
 
 A few series on music :
