@@ -199,3 +199,29 @@ You should also your fretting finger position : your fingers should curve gracef
 ### 2.3 Your first chord progression
 
 We are going to play the progession C major - A minor - D minor - Gmajor
+
+1. Play each chord one after the other. Start slowly ! Mute all the strings before transitioning to another one.
+2. Now play each chords 4 times before transitioning the other. 
+
+Congratulations ! You played your first progression !
+
+### 2.4 A musical example : 21 Guns by Green Day
+
+The verses of this song follow the progression D minor - Bb major - F major - C major.
+
+To allow us to play it with the chords we know, we will transpose it 2 semitone higher. We then get : E minor - C major - G major - D major.
+
+In case you want to play along with the track, you can use a capo on the 10th fret while keeping the fingering of E minor etc...
+
+1. Play the chords one after the other. Pay attention to the transitions.
+2. Now play each chords 4 times before transitioning the other. 
+3. Now, let's add a different rhythm. A simplified rhythm can be written like
+```
+    1 & 2 & 3 & 4 &
+    x   x x x   x x
+```
+
+You can have more details [here ]({% post_url 2020-06-02-music_tuto_2_rhythm %}) on how to read and count rhythm.
+
+
+
