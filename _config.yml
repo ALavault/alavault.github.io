@@ -3,13 +3,13 @@ baseurl: ""
 url: "https://alavault.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Apeiron                                # site's title
+title: Simple Stuff                                # site's title
 description: "Tutorials and learning ressources"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Nothing to see here. # Change Blog header text
+header_text: Interesting stuff below.  # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -30,7 +30,7 @@ authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
 
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO

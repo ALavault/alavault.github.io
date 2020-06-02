@@ -8,7 +8,7 @@ tags: [About, Archive]
 
 Hello everyone !
 
-![oiano](/assets/img/posts/piano-keyboard_diagram_2.jpg){:class="rounded float-left"}
+![oiano](/assets/img/posts/placeholder.png){:class="rounded"}
 
 Testing.
 

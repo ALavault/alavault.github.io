@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Guitar - The instrument and first steps
+title: Simple Guitar Part 1 - First steps
 tags: [Simple Guitar]
 author: alavault
 ---
