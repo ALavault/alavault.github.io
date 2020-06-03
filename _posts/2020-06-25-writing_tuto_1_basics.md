@@ -107,7 +107,7 @@ Another thing to keep in mind :
 
 #### 2.2.2 Musical phrases
 
-Writing a melody is exactly like writing a sentence.
+Writing a melody is exactly like writing sentences. A melody is composed of *phrases*.
 
 > If I write a sentence, I will write a build up, letting you think something intersting is at the end.
 
@@ -117,8 +117,26 @@ This is a sentence with "disonnances" but no resolution : it will feel bad, *unl
 
 This is a "consonnant" sentence : nothing interesting to read here. 
 
-> 
+> I can also write a sentence without any kind of punctuation which is a pain to read of course and you should stop reading this as it is really painful to read.
 
+This is a sentence with no rhythm : it can be a *stylistic* choice.
+
+> Mary had a little lamb. One day the lamb disapperead. But Mary had a great kebab that day.
+
+Here, we have a "good" sentence : consonance, disonance, rhythm and resolution. But the resolution might not be the on expected.
+
+Musical ideas can also be written has dialogues : it is known as *call and response*.
+
+> Did you buy the groceries ?
+> No, I didn't.
+> And did you wash your hands ?
+> Yes, I did.
+
+While not being the most interesting dialogue. And you can have several voices as well (J.S. Bach was quite good at that).
+
+*Exercice :* Watch a TV show or a movie you like, without the sound. Try to "sing" the dialogues.
+
+*Remark :* 
 
 ---
 
