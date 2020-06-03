@@ -103,7 +103,7 @@ Another thing to keep in mind :
 
 *Exercice *: play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
 
-*Where should I put my dissonances ?* At the end of the part.
+*Where should I put my dissonances ?* At the end of the part. But these dissonances should be resolved afterward (not doing so can give an uneasy feeling, which can be desirable depending of the stylistic choice).
 
 #### 2.2.2 Musical phrases
 
@@ -136,7 +136,16 @@ While not being the most interesting dialogue. And you can have several voices a
 
 *Exercice :* Watch a TV show or a movie you like, without the sound. Try to "sing" the dialogues.
 
-*Remark :* 
+*Remark :* TODO ?
+
+#### 2.2.3 Your first phrase.
+
+For the moment, we will try to write different phrases on a single chord : a C major.
+
+TODO : backing track
+
+*Remark:* disonances are "stronger" when placed strong beats.
+
 
 ---
 
