@@ -9,8 +9,7 @@ feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on b
 
 # Simple Music Part 5 : Harmony II
 
-This post tries to describe the basics of music. Today, intervals and the natural minor scale.
-
+This post tries to describe the basics of music. Today, intervals, the natural minor scale.
 ## 1. Intervals. All of them...
 
 In Western music, the most common scheme for naming intervals gives two properties of the interval: the quality (perfect, major, minor, augmented, diminished) and the number (unison, second, third, etc.).
@@ -65,6 +64,10 @@ The *relative minor* scale of a certain major scale is the minor scale sharing i
 *Exercice :* Find the relative minor of C major. The relative minor of G major.
 
 *Hint :* Look a third below the root.
+
+## 4. Consonnance and disonnance
+
+TODO
 
 ---
 
