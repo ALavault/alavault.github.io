@@ -27,6 +27,28 @@ Another typical structure in jazz is AABA : the *Rhythm Changes* follows this ki
 
 *Exercice :* Listen to your favourite song, and try to write the general structure. When a part is repeated but with slight variations, add a number besides it (for instance A1-B-A2-C)
 
+### 1.2 What's inside a part
+
+A *part* can be defined by three elements : its *harmony*, its *rhythm* and its *melody*.
+
+#### 1.2.1 Harmony
+
+TODO
+
+#### 1.2.2 Rhythm
+
+TODO
+
+#### 1.2.3 Melody
+
+TODO
+
+## 2. Writing our first song
+
+
+
+
+
 
 ---
 
