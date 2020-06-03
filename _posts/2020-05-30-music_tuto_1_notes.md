@@ -3,8 +3,8 @@ layout: post
 title: Simply Music Part 1 - Notes
 tags: [Simply Music]
 author: alavault
+thumbnail: "assets/img/thumbnails/piano.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/piano.jpg"   # Add a thumbnail image on blog view
-
 ---
 
 # Simple music Part 1 : pitch

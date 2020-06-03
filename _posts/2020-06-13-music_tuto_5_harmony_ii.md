@@ -3,6 +3,8 @@ layout: post
 title: Simply Music Part 5 - Harmony II
 tags: [Simply Music]
 author: alavault
+thumbnail: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
 ---
 
 # Simple Music Part 5 : Harmony II

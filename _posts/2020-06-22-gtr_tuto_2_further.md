@@ -152,6 +152,32 @@ These chords have some commons fingers between them (e.g the 3-3 at the top of t
 
 *Remark :* You do not need to play the open strings hit exactly as written. Experimenting with this is a great learning experience.
 
+## 4. Skip strings, not school
+
+String skipping is highly useful to play more intersting arpeggios or melodies.
+
+
+
+```
+4/4
+
+   1 & 2 & 3 & 4 &   1 & 2 & 3 & 4 &   1 & 2 & 3 & 4 &   1 & 2 & 3 & 4 &   
+e|-------2-------2-|-------3-------3-|-------0-------0-|-------0-------0-||
+B|---3-------3-----|---3-------3-----|---3-------3-----|---3-------3-----||
+G|-----2-------2---|-----2-------2---|-----2-------2---|-----0-------0---||
+D|-0-------0-------|-0-------0-------|-0-------0-------|-0-------0-------||
+A|-----------------|-----------------|-----------------|-----------------||
+E|-----------------|-----------------|-----------------|-----------------||
+   D                 Dsus4             Dsus2                 Dsus4add9
+```
+
+Two ways of playing this : either with your fingers or with a pick.
+
+With the fingers : the plucking hand fingering is thumb-major-index-ring
+
+With a pick : It is downstroke-upstroke. Do not cheat !
+
+
 ---
 
 Do you have any questions ? Do you want to complain if your fingers hurt ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Guitar]) to write a mail !
