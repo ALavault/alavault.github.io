@@ -3,6 +3,7 @@ layout: post
 title: Simply Music Part 1 - Notes
 tags: [Simply Music]
 author: alavault
+feature-img: "assets/img/thumbnails/piano.jpg"   # Add a thumbnail image on blog view
 
 ---
 
@@ -101,7 +102,7 @@ There is a *half tone* between Si & Do and Mi & Fa.
 
 With this relationship, we made a major scale if we start on Do and a natural minor scale if we start on La.
 
-But it means there are 5 notes we have not defined yet in between the whole tones.... (Oh and look, it's exactly the number of black keys in an octave)
+But it means there are 5 notes we have not defined yet in thumbnail: "assets/img/thumbnail/sample-th.png"   # Add a thumbnail image on blog viewbetween the whole tones.... (Oh and look, it's exactly the number of black keys in an octave)
 
 #### 3. 2. 3. Alterations
 
