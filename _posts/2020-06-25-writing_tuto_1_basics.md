@@ -101,9 +101,17 @@ Another thing to keep in mind :
 
 > Dissonance is emotion.
 
-*Exercice *: play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
-
 *Where should I put my dissonances ?* At the end of the part. But these dissonances should be resolved afterward (not doing so can give an uneasy feeling, which can be desirable depending of the stylistic choice).
+
+*And what about the other notes ?* You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
+
+*Exercice *: 
+1. play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
+2. play an F in 1/4 over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
+3. play an Ab in 1/4 over the A part. Having only disonnances lead the phrase nowhere.
+4. play the following phrase in 1/4 notes : G-F-E-F. 
+
+
 
 #### 2.2.2 Musical phrases
 
@@ -152,6 +160,7 @@ Now, you should have the tools necessary to write your first song.
 
 Go ahead and have fun !
 
+Oh, and sing what you play is you are using an instrument : it will help build your inner ear as well as your pitch memory.
 
 ---
 
