@@ -57,16 +57,67 @@ The harmony is here :
 
 ```
 A : | C | Am | Dm | G(7)
-B : | Am| Dm | Em | G
+B : | Am| Dm | Em | G(7)
 ```
 
 This harmony is not exactly common in modern songs, but since the focus is to write a melody, we should not bother too much.
 
 ### 2.2 Making a melody
 
+Listen to the backing track.
 
+*What should I 'listen' to ?* Find where the changes occurs and have a feel of which notes feels good.
 
+This requires to work on your *inner ear*. It may sounds like some esoteric stuff, but every musician has a voice inside their heads.
 
+Also keep in mind this :
+
+> The master has failed more times the disciple has tried.
+
+You may not find the greatest melody right away. And it's fine.
+
+But I find one, either record yourself singing it or write it down (it's even better to do both).
+
+#### 2.2.1 Harmonic analysis
+
+If you don't feel confident in your inner ear yet, let us do a bit of harmonic analysis !
+
+*Part A* :
+
+The triads are :
+
+```
+C major : C-E-G
+A minor : A-C-E
+D minor : D-F-A
+G major (7): G-B-D-(F)
+```
+
+All these are chords from the C major scale : we can use this scale as our base set of notes.
+
+*Chord tones and non-chord tones* : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonnace is...unintersting. 
+
+Another thing to keep in mind :
+
+> Dissonance is emotion.
+
+*Exercice *: play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
+
+*Where should I put my dissonances ?* At the end of the part.
+
+#### 2.2.2 Musical phrases
+
+Writing a melody is exactly like writing a sentence.
+
+> If I write a sentence, I will write a build up, letting you think something intersting is at the end.
+
+This is a sentence with "disonnances" but no resolution : it will feel bad, *unless* you are going for this (useful to end a song)
+
+> I can write about lemon pie. Everybody likes lemon pie.
+
+This is a "consonnant" sentence : nothing interesting to read here. 
+
+> 
 
 
 ---
