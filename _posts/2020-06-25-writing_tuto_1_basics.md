@@ -45,6 +45,25 @@ TODO
 
 ## 2. Writing our first song
 
+As most of the pop songs are melody driven, the focus of this part is going to be melody.
+
+In other words, you will have to find a melody, given an harmony and a general rhythm.
+
+### 2.1 Our base
+
+We are going to use a structure AABA. Each part (i.e. each letter) is going to be 4 bar long.
+
+The harmony is here :
+
+```
+A : | C | Am | Dm | G(7)
+B : | Am| Dm | Em | G
+```
+
+This harmony is not exactly common in modern songs, but since the focus is to write a melody, we should not bother too much.
+
+### 2.2 Making a melody
+
 
 
 
