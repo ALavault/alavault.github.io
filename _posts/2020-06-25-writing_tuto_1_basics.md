@@ -146,6 +146,12 @@ TODO : backing track
 
 *Remark:* disonances are "stronger" when placed strong beats.
 
+#### 2.2.4 Do It Yourself
+
+Now, you should have the tools necessary to write your first song.
+
+Go ahead and have fun !
+
 
 ---
 
