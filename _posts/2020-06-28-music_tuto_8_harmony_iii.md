@@ -128,7 +128,7 @@ We remind you the quality of the triads in the C major scale :
 Note | C | D | E | F | G | A | B |
 Quality |Major |Minor|Minor|Major|Major|Minor|Diminished
 
-![piano_dorian](/assets/img/posts/placeholder.png){:class="img-responsive"}
+![piano_dorian](/assets/img/posts/D-dorian.png){:class="img-responsive"}
 
 *Note :* the sign 𝄢 is the F-clef (or bass clef). Just like the G-clef, its double point indicates the position of the F.
 
