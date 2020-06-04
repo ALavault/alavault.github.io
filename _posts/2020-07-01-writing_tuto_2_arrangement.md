@@ -168,8 +168,6 @@ For the most advanturous, you can play the B and E strings open to get nice and 
 
 Do the same with all the different diatonic modes, with your instrument of choice !
 
-To be sure to hear the difference, play the major or minor scale (depending on the mode) and then play the modal triads.
-
 Note somewhere some adjectives you would use to describe the modes.
 
 *Example :* Ionian = happy, Aeolian = Sad, Lydian = Hopeful...
