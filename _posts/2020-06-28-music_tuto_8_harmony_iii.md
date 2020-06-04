@@ -113,9 +113,11 @@ We can then defined the *locrian mode* as a *minor scale with lowered 2nd and 5t
 
 We are doing a little exercice to "hear" the differents modes by playing their implied harmony.
 
-We are going to use a *pedal point* i.e. a continuous bass note.
+We are going to use a repeated bass note.
 
 The idea is to play the root note of the mode (e.g. D in Dorian if in C major) and play all the differents triads over this bass note.
+
+
 
 ### 2.1 Example : the dorian mode
 
@@ -135,6 +137,8 @@ Quality |Major |Minor|Minor|Major|Major|Minor|Diminished
 On the piano, this F is located at the left of the middle C (it is the first one).
 
 This part is usually played with the left hand.
+
+*Exercice :* play it !
 
 
 #### 2.1.2 Guitar
