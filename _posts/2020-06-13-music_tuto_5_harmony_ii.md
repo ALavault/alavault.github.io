@@ -45,7 +45,7 @@ The intervals are, in order, with respect to C :
 
 This set of intervals *defines* the major scale.
 
-*Exercice :* Write the G major scale. Check that the relationship between intervals is still here.
+*Exercice :* Write the G major scale. Check that the relationship between the intervals is still here.
 
 *But if I start on a different note, like F for instance, while keeping the notes from the C major scale, I will not get the same intervals* 
 
@@ -67,7 +67,51 @@ The *relative minor* scale of a certain major scale is the minor scale sharing i
 
 ## 4. Consonnance and disonnance
 
-TODO
+Intervals can also be categorized in terms of consonnance and disonnance. 
+
+Consonance is typically associated with sweetness and are generally considered pleasing; dissonance on the other hand is associated with harshness and tension.
+
+There are 4 types  :
+
+1. Perfect consonances:
+    * unisons and octaves
+    * perfect fourths
+    * perfect fifths
+2. Imperfect consonances:
+    * major seconds and minor sevenths
+    * major thirds and minor sixths
+    * minor thirds and major sixths
+3. Soft Dissonances 
+    * major 2nds minor 7ths
+    * Perfect fourth
+4. Sharp disonnances
+   * minor 2nds and major 7ths
+
+*Err... Some things are repeating...* Yes. Consonances and disonnaces (the *sonance*) are relative to the music they are used in.
+
+A tritone in medieval music is a blasphemy while it is almost consonnant in jazz.
+
+A fourth is sometimes consonant, sometimes dissonant.
+
+Is does not really help you, right ? Let's take a piece of paper.
+
+*Exercice :* Play each of these intervals and give them a "absolute harshness score" (this is personal).
+
+Then, compare each interval to its neighbours and give them a "relative harshness score".
+
+As an example, let us take a major third. I would give it 7/10 as an absolute rating.
+
+When compared to the intervals below and above, I would give it 6/10 for the augmented second to major third and 8/10 for the perfect fourth to the major third.
+
+*Hint :* these scores should reflect how "satisfied" you feel after the forced move between these intervals.
+
+Now, your turn !
+
+There are no wrong or right answer though. And keep this sheet and note the evolution in your taste during your musical journey !
+
+See you next time !
+
+And I accept donation to Arnold Schönberg "Treaty of Harmony" :)
 
 ---
 

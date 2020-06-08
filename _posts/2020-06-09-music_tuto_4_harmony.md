@@ -65,7 +65,7 @@ The triad derived from C is then 1-3-5 i.e. C-E-G.
 
 *Exercice :* With the same kind of process, derive the triads from F, G and A (in the C major scale).
 
-## 3. Checking the ID of A minor to C if it major
+## 3. Checking the ID of A minor to C if it is major
 
 Bad puns aside, you may have heard of major and minor chords. If you didn't, it is not really a big deal.
 
@@ -75,15 +75,15 @@ A major triad is defined as a triad whose *third* is major and its *fifth* is *p
 
 The definition of the *major third* is the note 2 whole tones above the chosen root note e.g. C to E is a major third, and so is F to A.
 
-A *perfect fifth* 3.5 whole tones (3 whole tones and a half) above the chosen root note e.g. C to G is a perfect fifth, so is F to C.
+A *perfect fifth* is 3.5 whole tones (3 whole tones and a half) above the chosen root note e.g. C to G is a perfect fifth, so is F to C.
 
-*But the triad derived from A is A-C-E : it's not a major third.* Good point : there is only 1 tone and a half. This interval is called a *minor third* (from A to C). It is one half-step lower than a major third.
+*But the triad derived from A is A-C-E : it's not a major third.* Good point : there is only 1 tone and a half between A and C. This interval is called a *minor third* (again, from A to C). It is one half-step lower than a major third.
 
 *Exercice :* 
 * Find all the minor thirds in the C major scale (there are 4).
-* Derive the triads from these minor thirds. One chord is not like the other : spell it.
+* Derive the triads from these minor thirds. One chord is not like the others : spell it.
 
-*Houston, we have a problem... I can't get a perfect fifth from the B minor triad* Yep. The triad you end up with is B-D-F, and if you count the number of tone between B and F, you get 3 :this is the infamous tritone. 
+*Houston, we have a problem... I can't get a perfect fifth from the B minor triad* Yep. The triad you end up with is B-D-F, and if you count the number of tone between B and F, you get 3 :this is the infamous *tritone*. 
 
 *So it is a minor fifth ?* No. In this case, it is called a *diminished fifth*. The triad you have with B-D-F is called a *diminished triad*.
 
@@ -147,7 +147,9 @@ We give two fingering for each type of triad :
 
 ```
 
-I have time, I may write an arrangement for guitar.
+If I have time, I may write an arrangement for guitar.
+
+Looks like I don't. :)
 
 ---
 
