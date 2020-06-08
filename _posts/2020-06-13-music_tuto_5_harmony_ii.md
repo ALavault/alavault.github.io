@@ -119,13 +119,16 @@ We remind you that triads are stacked thirds. But we can stack another third on 
 
 *Seriously ?* Yop. And it sounds even more interesting !
 
-*Major seventh* : Let's take a C major triad (C-E-G). If we stack another third, with respect to the C major scale, we need to find the third of G, which is B.
+### 5.1 Major seventh chords
+
+Let's take a C major triad (C-E-G). If we stack another third, with respect to the C major scale, we need to find the third of G, which is B.
 
 We then have C-E-G-B. Play this on your instrument of choice.
 
 For guitar players I suggest the following voicings :
 
 ```
+   Cmaj7
 E|------
 B|-8--5-
 G|-9--4-
@@ -135,6 +138,47 @@ E|-8----
 ```
 
 Such chord can be notated C*maj7*, C*maj*, C*ma7*, CΔ (C triangle) or CΔ7.
+
+Minor chords with a major seventh exists of course : you can hear one in the James Bond theme. 
+
+*Exercice :* 
+1. Play both versions of the major seventh chord, both major and minor.
+2. Write down the feeling you have when playing these chords : at ease, tense, hungry.... The answer is yours.
+
+
+### 5.1 Minor seventh chords
+
+The construction is the same.
+
+Let us take the G major chord (G-B-D). If we stack with a third (with respect to D in the major scale), we end up with G-B-D-F.
+
+Let us take the D minor triad (D-F-A). We then end up we D-F-A-C when stacking with another third.
+
+A major chord with a minor seventh is also known as *dominant chord*. The minor seventh is also known as *dominant seventh*.
+
+*Notation :* G7, Gdom7 for the dominant 7th chord. D*min7* or D*-7* for the minor seventh chord.
+
+*Exercice :* 
+1. Play both a G*7* chord and a D*min7* chord.
+2. Write down what you feel about these chords. Tension, unrest, sleep...
+
+For the guitar players, some voicings.
+
+```
+   C7    Cmin7
+E|-------------
+B|-8--5---8--4-
+G|-9--4---8--3-
+D|-9--5---8--5-
+A|----3------3-
+E|-8------8----
+```
+
+### 5.3 Beyond the seventh
+
+If we want to write a half-diminished chord, we can't. Unless we write it down with a b5 somewhere : B-7(b5) is a valid way of writing a half-diminished chord.
+
+We can also continue to stack thirds : we will end with 9th and 13th.
 
 ---
 
