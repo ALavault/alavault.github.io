@@ -178,7 +178,19 @@ E|-8------8----
 
 If we want to write a half-diminished chord, we can't. Unless we write it down with a b5 somewhere : B-7(b5) is a valid way of writing a half-diminished chord.
 
-We can also continue to stack thirds : we will end with 9th and 13th.
+We can also continue to stack thirds : we will end with the 9th, 11th and 13th.
+
+*Exercice :* Experiments with stacking thirds. Note your feelings about the differents chords.
+
+*Hint :* I like to see extend chords as polychords (i.e. two chords played on top of each other). For instance, a C*maj13* can be thought of as a C*maj7* on the bass topped by a D*min* triad.
+
+Same with a Fmaj13(#11) : it can be seen as a F*maj7* topped of by a G major triad.
+
+### 5.4 Beyond tertiary harmony
+
+Of course, nothing force us to use chords built on thirds (aka tertiary harmony). We can use fourth or fifth. Even seconds.
+
+*Exercice :* Have fun and experiment. Quartal (based on fourth) are somewhat common is modern fusion (e.g. Plini - Electric Sunrise) : start here.
 
 ---
 
