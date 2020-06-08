@@ -19,7 +19,7 @@ This post tries to describe the basics of mixing music. Today, an perception tes
 
 ### 2.2 Spectra
 
-### 2.3 A non-spectral based visualization
+### 2.3 A non-spectral based visualization technique ?
 
 ---
 
