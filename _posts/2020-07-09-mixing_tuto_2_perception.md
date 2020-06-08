@@ -3,8 +3,8 @@ layout: post
 title: Simply Mixing Part 2 - Perception
 tags: [Simply Mixing]
 author: alavault
-thumbnail: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on blog view
 ---
 
 # Simply Mixing Part 2 - Perception

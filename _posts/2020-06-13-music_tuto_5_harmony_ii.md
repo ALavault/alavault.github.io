@@ -113,13 +113,27 @@ See you next time !
 
 And I accept donation to Arnold Schönberg "Treaty of Harmony" :)
 
-## 5. Seventh chords and ninth cloud
+## 5. Suspension, seventh chords and ninth cloud
+
+### 5.1 Suspended chords
+
+Any chord with a major or a minor third can have the third replaced by a major second or perfect fourth in order to form a suspended chord. 
+
+As an example, given a C major triad (C-E-G), its suspended counterparts are Csus2 ("C suspended second") and Csus4 ("C suspended fourth"). The latter is sometimes notated Csus as it is the most common substitution.
+
+*Storytime :* I thought for a long time that the *sus* abbreviation was for *substitution*. If it can help you remember what a suspended chord is.
+
+*Exercice :* Try the following progression : Dsus4, Dsus2, D. Note your feelings about this type of resolution.
+
+*Remark :* suspended chords are ambiguous. They are consonant and dissonant at the same time. Used at the right time, they are great songwriting devices.
+
+
+
+### 5.2 Major seventh chords
 
 We remind you that triads are stacked thirds. But we can stack another third on top of that !
 
 *Seriously ?* Yop. And it sounds even more interesting !
-
-### 5.1 Major seventh chords
 
 Let's take a C major triad (C-E-G). If we stack another third, with respect to the C major scale, we need to find the third of G, which is B.
 
@@ -146,7 +160,7 @@ Minor chords with a major seventh exists of course : you can hear one in the Jam
 2. Write down the feeling you have when playing these chords : at ease, tense, hungry.... The answer is yours.
 
 
-### 5.1 Minor seventh chords
+### 5.3 Minor seventh chords
 
 The construction is the same.
 
@@ -174,7 +188,7 @@ A|----3------3-
 E|-8------8----
 ```
 
-### 5.3 Beyond the seventh
+### 5.4 Beyond the seventh
 
 If we want to write a half-diminished chord, we can't. Unless we write it down with a b5 somewhere : B-7(b5) is a valid way of writing a half-diminished chord.
 
@@ -186,7 +200,7 @@ We can also continue to stack thirds : we will end with the 9th, 11th and 13th.
 
 Same with a Fmaj13(#11) : it can be seen as a F*maj7* topped of by a G major triad.
 
-### 5.4 Beyond tertiary harmony
+### 5.5 Beyond tertiary harmony
 
 Of course, nothing force us to use chords built on thirds (aka tertiary harmony). We can use fourth or fifth. Even seconds.
 
