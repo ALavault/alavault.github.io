@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Simply Music Part 7 - Introduction to music notation adn transcription
+title: Simply Music Part 7 - Introduction to music notation and transcription
 tags: [Simply Music]
 author: alavault
-thumbnail: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/lead_sheet.jpg"   # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/lead_sheet.jpg"   # Add a thumbnail image on blog view
 ---
 
 # Simply Music Part 7 - Notating and transcribing music

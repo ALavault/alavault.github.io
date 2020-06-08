@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Simply Music Part 2 - Basic arrangement
+title: Simply Writing Part 2 - Basic arrangement
 tags: [Simply Writing]
 author: alavault
-thumbnail: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/arrengement.jpg"   # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/arrengement.jpg"   # Add a thumbnail image on blog view
 ---
 
 # Simply Writing Part 2 - Basic arrangement
