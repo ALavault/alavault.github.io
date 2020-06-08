@@ -10,7 +10,7 @@ feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on b
 # Simple Music Part 5 : Harmony II
 
 This post tries to describe the basics of music. Today, intervals, the natural minor scale.
-## 1. Intervals. All of them...
+## 1. Intervals. All of them... Most of them...
 
 In Western music, the most common scheme for naming intervals gives two properties of the interval: the quality (perfect, major, minor, augmented, diminished) and the number (unison, second, third, etc.).
 
@@ -39,7 +39,7 @@ To use our newfound knowledge on intervals, let's use the C major scale.
 
 > C-D-E-F-G-A-B
 
-The intervals are, in order, with respect to C :
+The intervals are, in order, and with respect to C :
 
 > major 2nd, major 3rd, perfect 4th, perfect 5th, major 6th, major 7th
 
@@ -112,6 +112,29 @@ There are no wrong or right answer though. And keep this sheet and note the evol
 See you next time !
 
 And I accept donation to Arnold Schönberg "Treaty of Harmony" :)
+
+## 5. Seventh chords and ninth cloud
+
+We remind you that triads are stacked thirds. But we can stack another third on top of that !
+
+*Seriously ?* Yop. And it sounds even more interesting !
+
+*Major seventh* : Let's take a C major triad (C-E-G). If we stack another third, with respect to the C major scale, we need to find the third of G, which is B.
+
+We then have C-E-G-B. Play this on your instrument of choice.
+
+For guitar players I suggest the following voicings :
+
+```
+E|------
+B|-8--5-
+G|-9--4-
+D|-9--5-
+A|----3-
+E|-8----
+```
+
+Such chord can be notated C*maj7*, C*maj*, C*ma7*, CΔ (C triangle) or CΔ7.
 
 ---
 
