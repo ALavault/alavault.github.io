@@ -71,7 +71,11 @@ Most compressors, hardware or software, can also be used to reduce the volume of
 
 ## 4. Delays and reverbs
 
+TODO 
+
 ## 5. Modulations
+
+TODO
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
