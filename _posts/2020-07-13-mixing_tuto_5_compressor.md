@@ -117,7 +117,7 @@ You see generally limiters used as the last effect on the master bus (just befor
 
 ## 5. My special picks 
 
-* TDR Kotelnikov : a bit of pain to set up (Read The F***ing Manual) but an amazingly clean and powerful compressor : the first thing I put on the master bus.
+* TDR Kotelnikov : first thing to do : eead The F***ing Manual. But an amazingly clean and powerful compressor : the first thing I put on the master bus.
 * Analog Obsession Buster : an emulation of the SSL G-compressor. I use it mostly on the drum bus to tame the whole drum kit.
 * Analog Obsession Fetish : an emulation of the 1176 but can get quite heavy on the CPU. Great on vocals.
 * Sonic Anomaly SLAX : a opto-style compressor with options. Great to bring vocals forward while giving them a nice colour.
