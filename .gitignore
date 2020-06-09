@@ -15,3 +15,4 @@ _development_tool
 
 Gemfile.lock
 *.gem
+.vscode/**
