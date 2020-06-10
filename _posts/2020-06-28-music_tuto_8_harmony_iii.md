@@ -160,10 +160,10 @@ E|-0---0---0---0---0---0---0---0--|
 
 Note the finger patterns for the major, minor and diminished triad : it will be useful for the rest.
 
-For the most advanturous, you can play the B and E strings open to get nice and rich sound. 
+For the most advanturous, you can play the B and E strings open to get nice and intersting sound. 
 
-*Remark :* The note above will note work with the locrian mode, unless you tune the B string to Bb.
-*Remark :* Diminished chord are notated "o" 
+*Remark :* The note above will not work with the locrian mode, unless you tune the B string to Bb.
+*Remark :* Diminished chord are notated "o". 
 ### 2.2 Do it yourself !
 
 Do the same with all the different diatonic modes, with your instrument of choice !
@@ -175,6 +175,17 @@ Note somewhere some adjectives you would use to describe the modes.
 *Example :* Ionian = happy, Aeolian = Sad, Lydian = Hopeful...
 
 Use your own words. It will be a first step to your own musical voice ;)
+
+### 2.3 Who use that anyway ?
+
+Ok. A list :
+* Ionian : whatever is described as major
+* Dorian : Shine on Crazy Diamond, Oye como va, So what
+* Phrygian : Symphony of Destruction
+* Lydian : Flying in a Blue Dream, Electric Sunrise
+* Mixolydian : Sweet Home Alabama, everything (?) by AC/DC
+* Aeolian : whatever is considered written in minor
+* Locrian : you won. Songs only in locrian are too unstable. But it is used as part (in Master of Puppets for instance).
 
 ---
 

@@ -87,6 +87,26 @@ You should end up with (the division are the same as the bars) :
 
 > C-C|D-C-F|E-C-C|D-C-G|F-C-C|C-A-F|E-D-B♭-B♭|A-F-G|F
 
+### Key signature
+
+"Happy Birthday" is a song in F major, which is a scale spelled : F-G-A-Bb-C-D-E
+
+To avoid writing accidental all over the score, we can notate near the clef a ♭ on the line of the B to show it is flatten throughout the song unless notated otherwise (with ♮).
+
+The actual notation of F major would be :
+
+![f-major](/assets/img/posts/f_major.png){:class="img-responsive"}
+
+To read the accidentals and then known in which major scale we are we need to know a few things.
+
+* C major has no accidentals
+* G major has 1 sharp (F#)
+* F major has 1 flat (Bb)
+
+For every major other major scale,
+* if written in sharps, you take the sharp the most to the right and go a semi-tone higher (true from G major and onwards)
+* if written in flat, you take the second right-most flat (for instance in Bb major, you have Bb and Eb). This second right-most flat gives the name of the scale.
+
 ### Other things
 
 We have a few other things written.
