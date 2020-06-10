@@ -154,7 +154,7 @@ G|-0---2---4---6---7---9---11--12-|
 D|-2---4---5---7---9---11--12--14-|
 A|-2---4---5---7---9---10--12--14-|
 E|-0---0---0---0---0---0---0---0--|
-   Em F#m  G   A   Bm  C#d D   Em
+   Em F#m  G   A   Bm  C#o D   Em
 
 ```
 
@@ -163,7 +163,7 @@ Note the finger patterns for the major, minor and diminished triad : it will be 
 For the most advanturous, you can play the B and E strings open to get nice and rich sound. 
 
 *Remark :* The note above will note work with the locrian mode, unless you tune the B string to Bb.
-
+*Remark :* Diminished chord are notated "o" 
 ### 2.2 Do it yourself !
 
 Do the same with all the different diatonic modes, with your instrument of choice !

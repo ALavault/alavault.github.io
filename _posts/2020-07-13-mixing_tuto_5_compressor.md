@@ -3,8 +3,8 @@ layout: post
 title: Simply Mixing Part 5 - Compressors
 tags: [Simply Mixing]
 author: alavault
-thumbnail: "assets/img/thumbnails/rack.jpg"   # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/rack.jpg"   # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/distressor.jpg"   # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/distressor.jpg"   # Add a thumbnail image on blog view
 ---
 
 # Simply Mixing Part 5 - The compressors
@@ -13,9 +13,21 @@ This post tries to describe the basics of mixing music. Today, the compressor.
 
 ## 1. Inside a compressor
 
-TODO
+A *dynamic range compressor*, commonly refered as *compressor* is a device or software designed to reduce the volume of loud sounds or amplifies quiet sounds : it is effectively reducing/compressing an audio signal's dynamic range. 
 
-![inside_comp](/assets/img/posts/placeholder.png){:class="img-responsive"}
+![inside_comp](/assets/img/posts/comp.jpg){:class="img-responsive"}
+
+The picture above shows the two main structure of compressors : feedback and feedforward. Feedback compressor are generally older in design than feedforward compressors.
+
+The *detector circuit* is a circuit (generally an enveloppe detector) used to control the VCA.
+
+VCA stands for *Voltage Controlled Amplifier* : it is an amplifier that changes its gain based on a control input.
+
+To control the VCA, the detector circuit output is sent to a gain control circuit (G) making the compression happen or not.
+
+THAT Corp. has incredibly interesting design notes on dynamic compressor [here](http://www.thatcorp.com/Design_Notes.shtml)
+
+
 
 
 ## 2. Basic compressor
@@ -23,6 +35,47 @@ TODO
 Most DAW include a compressor. Here is the one from Presonus Studio One :
 
 ![compressor](/assets/img/posts/compressor.png){:class="img-responsive"}
+
+### 2.1 First date
+
+While the first contact with a compressor can be daunting, making it work is even worse.
+
+But let's make a quick review of the different parameters which are the basics.
+
+* Ratio : gives the amount of compression. A ratio of 2:1 means the input should be 2dB above the *threshold* to make the output rise by 1dB.
+* Threshold : gives at which level the compressor should start working. The lower the more compression.
+* Knee : represents how soft the transition below/above the threshold is. The lower the harder.
+
+The picture below shows the difference between a hard knee and a soft knee :
+
+![softknee](/assets/img/posts/softknee.png){:class="img-responsive"}
+
+* Input gain : if you need to. Self explanatory.
+* Gain : using a compressor will lead to *gain reduction* : to compensate for the loss, this gain control (also known as *makeup gain*) is used to match compressed and uncompressed signals in terms of loudness.
+* Mix : in percents. A 0% mix means the non compressed signal, 100% the compressed signal. By mixing in between, you can get intersting effects with extreme compression. More on that later.
+* Attack : Time the compressor will take to achieve most of the gain reduction.
+* Release : Time the compressor will take to roughly go back to 0dB of gain reduction after the signal goes under the threshold.
+* Auto/Adaptative : Special controls for specials cases.
+
+### 2.2 Second date
+
+Let's look at the rest.
+
+*Lookahead* : this exists only on digital compressor. This is used to make the compressor look "in the future" to trigger on fast transients.
+*Stereo Link: when stereo linked, the compressor reacts to the sum of the left and right channels. When unlinked, each channel does its thing. For instance, with stereo drums, if there is a big tom hit on the right channel, the left channel will be reduced if stereo linked but not if unlinked.
+
+The sidechain circuit of a compressor if the union of the enveloppe detector and the gain control circuit. It also means we can control the compressor based on another signal.
+
+*Sidechain (No sidechain)* : default state. The signal compressed by the compressor is the signal entering it. If another channel was selected, the gain reduction would be induced by this auxilary channel.
+
+*Lowcut/Highcut* : sometimes, it is undesirable to have the compressor triggering on certain frequency : for instance, you may want your drum compression to not trigger when the kick plays because it makes everything duck. You will use these filters for this : by raising the lowcut, you will get the compression you need on the rest of the kit but the kick.
+
+### 2.3  Let's leave it there.
+
+Compressors are complex devices and requires a lot of trail and error before having a certain mastery of them.
+
+We will see in more details what can be done with a compressor, but for the moment, let's leave it there.
+
 
 
 
