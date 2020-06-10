@@ -90,7 +90,7 @@ E|---8-10-12-----------------------------------------
 ```
 
 *Exercice :* 
-1. While practicing these scale pattern, remark the notes are only C,D,E,F,G,A,B.
+1. While practising these scale pattern, remark the notes are only C,D,E,F,G,A,B.
 2. These patterns can be transposed up and down the neck. Play the G major scale with both fingering.
    (*Hint : The G on the A string is at 10, you have a G on the E string at 3)
 
@@ -98,7 +98,7 @@ One advantage on the guitar is we "only" have to learn patterns rather than actu
 
 ## 2. Strumming pattern
 
-Strumming is the most common way of playing the guitar as an accompaniement instrument.
+Strumming is the most common way of playing the guitar as an accompaniment instrument.
 
 And if there is one pattern you should know it is this one :
 

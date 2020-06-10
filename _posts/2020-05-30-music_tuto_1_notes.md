@@ -31,7 +31,7 @@ The lower the frequency, the lower the note is.
 
 You can skip this part as it only adds a few remarks.
 
-*Anharmonic sounds* : sounds with a fundemental frequency but no harmonics exists. For instance, a snare drum has a fundamental but its "harmonics" are not multiple of the fundamental. 
+*Anharmonic sounds* : sounds with a fundamental frequency but no harmonics exists. For instance, a snare drum has a fundamental but its "harmonics" are not multiple of the fundamental. 
 Another kind of anharmonic sound is noise : white noise, pink noise or simply the letter "S" : 10€ if you can give a pitch to a "S".
 
 *White noise* : a white noise is a signal whose spectral density is constant. In other words, it contains every frequencies (in a specified bandwidth).
@@ -46,7 +46,7 @@ A tuning system is *relative to a reference* : the most used in modern western m
 
 ### 2. 1. Back to the... physics
 
-There is more than 12 note in total : a piano has 88 differents keys. In fact, what is decomposed in 12 tone is an interval called an *octave*.
+There is more than 12 note in total : a piano has 88 different keys. In fact, what is decomposed in 12 tone is an interval called an *octave*.
 
 *Octave* : two sounds are an octave apart when one has its fundamental double of the other.
 
@@ -127,7 +127,7 @@ An octave is divided into 12 notes. There are seven unaltered notes, but with th
 
 ### 4. 1. Piano
 
-![oiano](/assets/img/posts/piano-keyboard_diagram_2.jpg){:class="img-responsive"}
+![piano](/assets/img/posts/piano-keyboard_diagram_2.jpg){:class="img-responsive"}
 
 
 The image above shows an octave on a piano with the note name on the keys. You can check the remarks above aginst this picture.
@@ -143,7 +143,7 @@ First, let us talk about the tuning of a guitar. The most standard tuning is fro
 
 Two adjacent frets on the same string are a half-tone apart. The same fret on different strings means the interval between the notes is the same as the one between the strings.
 
-But all of this is true for the E standard tuning only. Since there is a plethora of tuning out there (open tunings, drop tuning, NST, all-fourth....), it is one of the hardest subject to master for any wanabee guitarist.
+But all of this is true for the E standard tuning only. Since there is a plethora of tuning out there (open tunings, drop tuning, NST, all-fourth....), it is one of the hardest subject to master for any wannabe guitarist.
 
 ---
 

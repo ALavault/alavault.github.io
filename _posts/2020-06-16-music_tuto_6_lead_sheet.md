@@ -29,11 +29,11 @@ Two flats are notated near the G-clef : this means all the B and E are flatten u
 
 If also means we are in either G minor or Bb major (rather G minor though).
 
-"A" and "B" in squares : these shows the two big parts of the song : the A part and the B part. It is espcially useful is the band wants to solo over a special structure (for instance an AABA structure). Or if someone is lost, a discrete call saying "x bars before A" for instance.
+"A" and "B" in squares : these shows the two big parts of the song : the A part and the B part. It is especially useful is the band wants to solo over a special structure (for instance an AABA structure). Or if someone is lost, a discrete call saying "x bars before A" for instance.
 
-Above the staff, you have the symbols for the chords to play. If you see brackets, it means these chords are optionnal : they may be played by some but not by others.
+Above the staff, you have the symbols for the chords to play. If you see brackets, it means these chords are optional : they may be played by some but not by others.
 
-*Remark :* the G7 on the last bar is non-required (up to your discretion) but the b5 in the A*mi7(b5)* at the first part of the B part is compulsary.
+*Remark :* the G7 on the last bar is non-required (up to your discretion) but the b5 in the A*mi7(b5)* at the first part of the B part is compulsory.
 
 *Why there are some Ma sometimes ?* This means the degree notated afterwards is major e.g. Bb*maj7* is a Bb major chord with a major seventh.
 
@@ -41,11 +41,11 @@ But a F7 is a major chord with a minor seventh. C*mi7* means it is a minor chord
 
 ### 2.2 Playing a lead sheet
 
-*The tempo* : indicated by "Medium Swing" means roughly between 120 and 150 BPM and should be played with a *swing* feel(listen to some interpretations). You can play with it with a straight feel is you want : these are just indications. I would personnaly go with 120
+*The tempo* : indicated by "Medium Swing" means roughly between 120 and 150 BPM and should be played with a *swing* feel(listen to some interpretations). You can play with it with a straight feel is you want : these are just indications. I would personally go with 120
 
 *Swing and straight ?* The straight feel is simply playing things as notated. The swing feel means you put the offbeats closer to the next beat.
 
-An approximation is to play like a *shuffle* i.e. the 1 and 3 of a tripolet (or the tri and let of the said tripolet).
+An approximation is to play like a *shuffle* i.e. the 1 and 3 of a triplet (or the tri and let of the said triplet).
 
 *Hint :* You should aim at giving a "heart-beat" feel if you want to "swing".
 
@@ -90,7 +90,7 @@ Good.
 
 There are 3 flats i.e. C minor or Eb major (it is C minor)
 
-Footprints begins with a bassline (on the double bass) : it is going to be written with a F-clef.
+Footprints begins with a bass line (on the double bass) : it is going to be written with a F-clef.
 
 *Exercice :* Play the bass line. Again, the piece should be played with a swing style.
 
@@ -107,7 +107,7 @@ You can simplify it just like the following transcription :
 ![footprints2](/assets/img/posts/footprints2.jpg){:class="img-responsive"}
 
 
-*But the chords are differents... And the notes too.* Keep in mind that these lead sheet are *transcriptions* i.e a human (or several humans) wrote down what he/they heard.
+*But the chords are different... And the notes too.* Keep in mind that these lead sheet are *transcriptions* i.e a human (or several humans) wrote down what he/they heard.
 
 And you should do too : it is an amazing exercice. So...
 

@@ -23,7 +23,7 @@ A typical pop song structure is Verse-Chorus-Verse-Chorus-Bridge-Chorus which ca
 
 Another typical structure in jazz is AABA : the *Rhythm Changes* follows this kind of structure..
 
-*Storytime :* the song ABACAB, by Genesis, is named after the strucure of the song.
+*Storytime :* the song ABACAB, by Genesis, is named after the structure of the song.
 
 *Exercice :* Listen to your favourite song, and try to write the general structure. When a part is repeated but with slight variations, add a number besides it (for instance A1-B-A2-C)
 
@@ -95,20 +95,20 @@ G major (7): G-B-D-(F)
 
 All these are chords from the C major scale : we can use this scale as our base set of notes.
 
-*Chord tones and non-chord tones* : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonnace is...unintersting. 
+*Chord tones and non-chord tones* : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonance is...uninteresting. 
 
 Another thing to keep in mind :
 
 > Dissonance is emotion.
 
-*Where should I put my dissonances ?* At the end of the part. But these dissonances should be resolved afterward (not doing so can give an uneasy feeling, which can be desirable depending of the stylistic choice).
+*Where should I put my dissonances ?* At the end of the part. But these dissonances should be resolved afterwards (not doing so can give an uneasy feeling, which can be desirable depending of the stylistic choice).
 
 *And what about the other notes ?* You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
 
 *Exercice *: 
 1. play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
 2. play an F in 1/4 over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
-3. play an Ab in 1/4 over the A part. Having only disonnances lead the phrase nowhere.
+3. play an Ab in 1/4 over the A part. Having only dissonances lead the phrase nowhere.
 4. play the following phrase in 1/4 notes : G-F-E-F. 
 
 
@@ -117,21 +117,21 @@ Another thing to keep in mind :
 
 Writing a melody is exactly like writing sentences. A melody is composed of *phrases*.
 
-> If I write a sentence, I will write a build up, letting you think something intersting is at the end.
+> If I write a sentence, I will write a build up, letting you think something interesting is at the end.
 
-This is a sentence with "disonnances" but no resolution : it will feel bad, *unless* you are going for this (useful to end a song)
+This is a sentence with "dissonances" but no resolution : it will feel bad, *unless* you are going for this (useful to end a song)
 
 > I can write about lemon pie. Everybody likes lemon pie.
 
-This is a "consonnant" sentence : nothing interesting to read here. 
+This is a "consonant" sentence : nothing interesting to read here. 
 
 > I can also write a sentence without any kind of punctuation which is a pain to read of course and you should stop reading this as it is really painful to read.
 
 This is a sentence with no rhythm : it can be a *stylistic* choice.
 
-> Mary had a little lamb. One day the lamb disapperead. But Mary had a great kebab that day.
+> Mary had a little lamb. One day the lamb disappeared. But Mary had a great kebab that day.
 
-Here, we have a "good" sentence : consonance, disonance, rhythm and resolution. But the resolution might not be the on expected.
+Here, we have a "good" sentence : consonance, dissonance, rhythm and resolution. But the resolution might not be the on expected.
 
 Musical ideas can also be written has dialogues : it is known as *call and response*.
 
@@ -152,7 +152,7 @@ For the moment, we will try to write different phrases on a single chord : a C m
 
 TODO : backing track
 
-*Remark:* disonances are "stronger" when placed strong beats.
+*Remark:* dissonances are "stronger" when placed strong beats.
 
 #### 2.2.4 Do It Yourself
 

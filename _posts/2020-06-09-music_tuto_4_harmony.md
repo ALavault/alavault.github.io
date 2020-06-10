@@ -11,7 +11,7 @@ feature-img: "assets/img/thumbnails/guitar.jpg"   # Add a thumbnail image on blo
 
 This post tries to describe the basics of music. Today, basic chords and harmony on the major scale.
 
-## 1. Scalability or scale hability ?
+## 1. Scalability or scale ability ?
 
 We are going to see our first scale : the C major scale !
 
@@ -114,7 +114,7 @@ There are two triads in Happy Birthday : C and F. Try to play the chords with yo
 
 ### 5.2 Guitar
 
-Normal problem with the guitar, you can play the note at several places. And playing triads "stacked" can force unwanted finger streching.
+Normal problem with the guitar, you can play the note at several places. And playing triads "stacked" can force unwanted finger stretching.
 
 Because of this we are going to play *spread triads* : instead of playing C-E-G, we will play C-G-E
 

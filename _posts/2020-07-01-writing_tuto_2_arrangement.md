@@ -13,7 +13,7 @@ This post tries to describe the basics of writing music. Today, arrangement.
 
 ## 1. What is an arrangement ?
 
-## 2. Typical pop song arrangment
+## 2. Typical pop song arrangement
 
 ---
 

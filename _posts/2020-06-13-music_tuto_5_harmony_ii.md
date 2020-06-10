@@ -14,7 +14,7 @@ This post tries to describe the basics of music. Today, intervals, the natural m
 
 In Western music, the most common scheme for naming intervals gives two properties of the interval: the quality (perfect, major, minor, augmented, diminished) and the number (unison, second, third, etc.).
 
-Let us build a table, counting the number of half-tone from a root note. Not all itnervals are given, only the most commonly used.
+Let us build a table, counting the number of half-tone from a root note. Not all intervals are given, only the most commonly used.
 
 > Number of semitones | Number | Quality 
 > 0                   | Unison | Perfect
@@ -35,7 +35,7 @@ Let us build a table, counting the number of half-tone from a root note. Not all
 
 ## 2. Naming intervals in a scale
 
-To use our newfound knowledge on intervals, let's use the C major scale.
+To use our new-found knowledge on intervals, let's use the C major scale.
 
 > C-D-E-F-G-A-B
 
@@ -49,11 +49,11 @@ This set of intervals *defines* the major scale.
 
 *But if I start on a different note, like F for instance, while keeping the notes from the C major scale, I will not get the same intervals* 
 
-Yes. This is called a mode. By the way, the scale you will get by starting of F is called the *Lydian scale* and can be described as a *major scale with an augmented fourth*. This will be detailled in another post.
+Yes. This is called a mode. By the way, the scale you will get by starting of F is called the *Lydian scale* and can be described as a *major scale with an augmented fourth*. This will be detailed in another post.
 
 ## 3. Natural and relative minor
 
-Major and natural minor scales are intrisincally related.
+Major and natural minor scales are intrinsically related.
 
 We can define a natural minor scale (note : this is typically called "minor scale") as the following set of intervals :
 
@@ -65,9 +65,9 @@ The *relative minor* scale of a certain major scale is the minor scale sharing i
 
 *Hint :* Look a third below the root.
 
-## 4. Consonnance and disonnance
+## 4. Consonance and dissonance
 
-Intervals can also be categorized in terms of consonnance and disonnance. 
+Intervals can also be categorized in terms of consonance and dissonance. 
 
 Consonance is typically associated with sweetness and are generally considered pleasing; dissonance on the other hand is associated with harshness and tension.
 
@@ -84,12 +84,12 @@ There are 4 types  :
 3. Soft Dissonances 
     * major 2nds minor 7ths
     * Perfect fourth
-4. Sharp disonnances
+4. Sharp dissonances
    * minor 2nds and major 7ths
 
-*Err... Some things are repeating...* Yes. Consonances and disonnaces (the *sonance*) are relative to the music they are used in.
+*Err... Some things are repeating...* Yes. Consonances and dissonances (the *sonance*) are relative to the music they are used in.
 
-A tritone in medieval music is a blasphemy while it is almost consonnant in jazz.
+A tritone in medieval music is a blasphemy while it is almost consonant in jazz.
 
 A fourth is sometimes consonant, sometimes dissonant.
 
@@ -139,7 +139,7 @@ Let's take a C major triad (C-E-G). If we stack another third, with respect to t
 
 We then have C-E-G-B. Play this on your instrument of choice.
 
-For guitar players I suggest the following voicings :
+For guitar players I suggest the following voicing :
 
 ```
    Cmaj7
@@ -194,7 +194,7 @@ If we want to write a half-diminished chord, we can't. Unless we write it down w
 
 We can also continue to stack thirds : we will end with the 9th, 11th and 13th.
 
-*Exercice :* Experiments with stacking thirds. Note your feelings about the differents chords.
+*Exercice :* Experiments with stacking thirds. Note your feelings about the difference chords.
 
 *Hint :* I like to see extend chords as polychords (i.e. two chords played on top of each other). For instance, a C*maj13* can be thought of as a C*maj7* on the bass topped by a D*min* triad.
 

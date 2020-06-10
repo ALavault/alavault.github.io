@@ -34,7 +34,7 @@ Advantages :
 
 Drawbacks :
 * requires sitting straight
-* unconfortable to play full chords
+* uncomfortable to play full chords
 
 DIY :
 * TODO
@@ -184,7 +184,7 @@ Each diagram represents the guitar neck viewed from the front.
 
 * From left to right, the vertical lines represents the strings from the lowest/6th to the highest/1st.
 * The bold horizontal line represents the nut
-* The thin horintal lines represents the fret
+* The thin horizontal lines represents the fret
   
 And now to transfer this to the guitar :
 
@@ -200,7 +200,7 @@ You should also your fretting finger position : your fingers should curve gracef
 
 ### 2.3 Your first chord progression
 
-We are going to play the progession C major - A minor - D minor - Gmajor
+We are going to play the progression C major - A minor - D minor - G major
 
 1. Play each chord one after the other. Start slowly ! Mute all the strings before transitioning to another one.
 2. Now play each chords 4 times before transitioning the other. 

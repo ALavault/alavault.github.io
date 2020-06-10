@@ -15,6 +15,8 @@ This post tries to describe the basics of mixing music. Today, an perception tes
 
 ## 2. Visualizing audio
 
+This part will talk about visual cues to better understand audio.
+
 ### 2.1 Time-frequency duality
 
 ### 2.2 Spectra
