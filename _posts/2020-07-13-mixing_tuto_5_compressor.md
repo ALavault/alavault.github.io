@@ -13,11 +13,11 @@ This post tries to describe the basics of mixing music. Today, the compressor.
 
 ## 1. Inside a compressor
 
-A *dynamic range compressor*, commonly refered as *compressor* is a device or software designed to reduce the volume of loud sounds or amplifies quiet sounds : it is effectively reducing/compressing an audio signal's dynamic range. 
+A *dynamic range compressor*, commonly referred as *compressor* is a device or software designed to reduce the volume of loud sounds or amplifies quiet sounds : it is effectively reducing/compressing an audio signal's dynamic range. 
 
 ![inside_comp](/assets/img/posts/comp.jpg){:class="img-responsive"}
 
-The picture above shows the two main structure of compressors : feedback and feedforward. Feedback compressor are generally older in design than feedforward compressors.
+The picture above shows the two main structure of compressors : feedback and feed-forward. Feedback compressor are generally older in design than feed-forward compressors.
 
 The *detector circuit* is a circuit (generally an enveloppe detector) used to control the VCA.
 
@@ -52,7 +52,7 @@ The picture below shows the difference between a hard knee and a soft knee :
 
 * Input gain : if you need to. Self explanatory.
 * Gain : using a compressor will lead to *gain reduction* : to compensate for the loss, this gain control (also known as *makeup gain*) is used to match compressed and uncompressed signals in terms of loudness.
-* Mix : in percents. A 0% mix means the non compressed signal, 100% the compressed signal. By mixing in between, you can get intersting effects with extreme compression. More on that later.
+* Mix : in percent. A 0% mix means the non compressed signal, 100% the compressed signal. By mixing in between, you can get intersting effects with extreme compression. More on that later.
 * Attack : Time the compressor will take to achieve most of the gain reduction.
 * Release : Time the compressor will take to roughly go back to 0dB of gain reduction after the signal goes under the threshold.
 * Auto/Adaptative : Special controls for specials cases.
@@ -66,9 +66,9 @@ Let's look at the rest.
 
 The sidechain circuit of a compressor if the union of the enveloppe detector and the gain control circuit. It also means we can control the compressor based on another signal.
 
-*Sidechain (No sidechain)* : default state. The signal compressed by the compressor is the signal entering it. If another channel was selected, the gain reduction would be induced by this auxilary channel.
+*Sidechain (No sidechain)* : default state. The signal compressed by the compressor is the signal entering it. If another channel was selected, the gain reduction would be induced by this auxiliary channel.
 
-*Lowcut/Highcut* : sometimes, it is undesirable to have the compressor triggering on certain frequency : for instance, you may want your drum compression to not trigger when the kick plays because it makes everything duck. You will use these filters for this : by raising the lowcut, you will get the compression you need on the rest of the kit but the kick.
+*Low-cut/High-cut* : sometimes, it is undesirable to have the compressor triggering on certain frequency : for instance, you may want your drum compression to not trigger when the kick plays because it makes everything duck. You will use these filters for this : by raising the lowcut, you will get the compression you need on the rest of the kit but the kick.
 
 ### 2.3  Let's leave it there.
 
@@ -170,7 +170,7 @@ You see generally limiters used as the last effect on the master bus (just befor
 
 ## 5. My special picks 
 
-* TDR Kotelnikov : first thing to do : eead The F***ing Manual. But an amazingly clean and powerful compressor : the first thing I put on the master bus.
+* TDR Kotelnikov : first thing to do : read The F***ing Manual. But an amazingly clean and powerful compressor : the first thing I put on the master bus.
 * Analog Obsession Buster : an emulation of the SSL G-compressor. I use it mostly on the drum bus to tame the whole drum kit.
 * Analog Obsession Fetish : an emulation of the 1176 but can get quite heavy on the CPU. Great on vocals.
 * Sonic Anomaly SLAX : a opto-style compressor with options. Great to bring vocals forward while giving them a nice colour.

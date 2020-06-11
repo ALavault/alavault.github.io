@@ -15,14 +15,25 @@ This post tries to describe the basics of mixing music. Today, common compressio
 
 We have seen that a compressor is an automated gain reducer. So, the most immediate use is *dynamic control*. But we will also see that it can be used in other ways, to give colour as well as movement to a track.
 
-## 2. Dynamic control
-### 2.1 Punch
+## 2. Hearing compression
 
-### 2.2 Control
+Before going any further, we will try to hear what a compressor can do before anything else.
 
-## 3. Density and colour
+And what is better than an extreme setting, right ?
 
-## 4. Movement
+For starters, we will need a few signals to work with :
+
+TODO
+
+
+## 3. Dynamic control
+### 3.1 Punch
+
+### 3.2 Control
+
+## 4. Density and colour
+
+## 5. Movement
 
 
 ---
