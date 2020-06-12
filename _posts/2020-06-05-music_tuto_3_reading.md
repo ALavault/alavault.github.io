@@ -2,6 +2,7 @@
 layout: post
 title: Simply music Part 3 - Reading music
 tags: [Simply Music]
+categories: [Music basics]
 author: alavault
 thumbnail: "assets/img/thumbnails/sheet.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/sheet.jpg"   # Add a thumbnail image on blog view

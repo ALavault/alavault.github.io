@@ -2,6 +2,7 @@
 layout: post
 title: Simply Mixing Part 6 - Compression I
 tags: [Simply Mixing]
+categories: [Mixing]
 author: alavault
 thumbnail: "assets/img/thumbnails/ssl_cs.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/ssl_cs.jpg"   # Add a thumbnail image on blog view
@@ -22,6 +23,11 @@ Before going any further, we will try to hear what a compressor can do before an
 And what is better than an extreme setting, right ?
 
 For starters, we will need a few signals to work with :
+
+* Overheads : TODO
+* Snare : TODO
+* Guitar : TODO
+* Bass : TODO
 
 TODO
 

@@ -2,6 +2,7 @@
 layout: post
 title: Simply Music Part 6- The lead sheet format
 tags: [Simply Music]
+categories: [Music basics]
 author: alavault
 thumbnail: "assets/img/thumbnails/realbook.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/realbook.jpg"   # Add a thumbnail image on blog view

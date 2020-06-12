@@ -2,6 +2,7 @@
 layout: post
 title: Simply Guitar Part 1 - First steps
 tags: [Simply Guitar]
+categories: [Guitar]
 author: alavault
 thumbnail: "assets/img/thumbnails/guitar_3.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/guitar_3.jpg"   # Add a thumbnail image on blog view

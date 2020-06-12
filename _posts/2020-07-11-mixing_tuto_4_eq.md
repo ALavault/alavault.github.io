@@ -2,6 +2,7 @@
 layout: post
 title: Simply Mixing Part 4 - Equalizers
 tags: [Simply Mixing]
+categories: [Mixing]
 author: alavault
 thumbnail: "assets/img/thumbnails/proq.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/proq.jpg"   # Add a thumbnail image on blog view

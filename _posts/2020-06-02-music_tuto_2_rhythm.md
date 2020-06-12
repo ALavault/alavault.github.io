@@ -2,6 +2,7 @@
 layout: post
 title: Simply Music Part 2 - Rhythm
 tags: [Simply Music]
+categories: [Music basics]
 author: alavault
 thumbnail: "assets/img/thumbnails/drums.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/drums.jpg"   # Add a thumbnail image on blog view

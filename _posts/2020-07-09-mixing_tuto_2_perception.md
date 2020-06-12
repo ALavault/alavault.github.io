@@ -2,6 +2,7 @@
 layout: post
 title: Simply Mixing Part 2 - Perception
 tags: [Simply Mixing]
+categories: [Mixing]
 author: alavault
 thumbnail: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on blog view
@@ -12,6 +13,16 @@ feature-img: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on 
 This post tries to describe the basics of mixing music. Today, an perception test.
 
 ## 1. Psychoacoustics
+
+Before talking about anything technical about mixing, let's talk about your main tool : your ears.
+
+### 1.1 Anatomy
+
+### 1.2 Frequential perception
+
+### 1.3 Frequency masking
+
+
 
 ## 2. Visualizing audio
 

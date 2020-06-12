@@ -2,6 +2,7 @@
 layout: post
 title: Simply Music Part 8 - Harmony III
 tags: [Simply Music]
+categories: [Music basics]
 author: alavault
 thumbnail: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/cassette.jpg"   # Add a thumbnail image on blog view

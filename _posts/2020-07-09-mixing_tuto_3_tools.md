@@ -2,6 +2,7 @@
 layout: post
 title: Simply Mixing Part 3 - Tools
 tags: [Simply Mixing]
+categories: [Mixing]
 author: alavault
 thumbnail: "assets/img/thumbnails/rack.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/rack.jpg"   # Add a thumbnail image on blog view
@@ -76,6 +77,10 @@ TODO
 ## 5. Modulations
 
 TODO
+
+## 6. The decibel
+
+
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.

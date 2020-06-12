@@ -2,6 +2,7 @@
 layout: post
 title: Simply Writing Part 2 - Basic arrangement
 tags: [Simply Writing]
+categories: [Songwriting]
 author: alavault
 thumbnail: "assets/img/thumbnails/arrengement.jpg"   # Add a thumbnail image on blog view
 feature-img: "assets/img/thumbnails/arrengement.jpg"   # Add a thumbnail image on blog view

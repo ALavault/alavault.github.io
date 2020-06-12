@@ -2,6 +2,7 @@
 layout: post
 title: Simply Writing Part 1 - Basics
 tags: [Simply Writing]
+categories: [Songwriting]
 author: alavault
 ---
 
