@@ -235,12 +235,23 @@ Have you heard of reference tracks ? Time to go listen to them. Ask yourself the
 
 Fine tune until matched closely : you will work your ear as well as practising EQ and compression.
 
+Check your master bus from time to time : if you are squashing your limiter, it may explain some problems.
+
 #### 7.2.2 Your sound
 
-Here comes the fun part : finding your own "voice".
+Here comes the fun part : finding your own "sound".
 
+Experiments with plugins : try using hardware emulation or put constraints (like only stock plugins or only one channel strip).
 
+You will discover things and you could say at this point : I like this on that, I don't like this on that.
 
+Take notes just to be sure you do not forget. 
+
+If you find a good setting, save it as a preset.
+
+This is your first mix, you will not have a sound yet. But you will refine your craft until you get something unique and personal.
+
+I feel like a guru...
 
 
 ---
