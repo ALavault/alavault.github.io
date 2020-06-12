@@ -231,7 +231,17 @@ TODO
 
 Have you heard of reference tracks ? Time to go listen to them. Ask yourself the following questions :
 * What are the relatives levels between the drums ?
-* Does my technical work is on par (in terms on tonal balance).
+* Does your technical work is on par with the reference (in terms on tonal balance) ?
+
+Fine tune until matched closely : you will work your ear as well as practising EQ and compression.
+
+#### 7.2.2 Your sound
+
+Here comes the fun part : finding your own "voice".
+
+
+
+
 
 ---
 
