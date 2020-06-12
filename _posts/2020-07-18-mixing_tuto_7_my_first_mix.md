@@ -192,10 +192,19 @@ If your answer is "I don't know" or "Yes", put a compressor on and try.
 
 If your answer is "No" put a compressor on anyway. Just to be sure your intuition was right.
 
-
-
-
 ##### Other effects ?
+
+You may want to add some reverb to get a looooonnnnnggggg kick. This might be a bad idea.
+
+*Why ?* Putting reverb on direct signal will lengthen the signal and its bleed. Plus, reverb tend to blur the low end.
+
+If you want to put reverb anyway, I would suggest yo put a short reverb (<1s) at a extremely small level (push the mix/send until you hear the effect clearly then back it off until you don't hear it anymore) and in the mix.
+
+A thing to keep in mind, reverb tends to make everything sound good in solo.
+
+*A delay then ?* Actually, a *slapback delay* (<150ms, feedback=0%) can be a good choice. Again, set your level in context.
+
+*(insert any other effect) ?* Try it out. It might work.
 
 #### 7.1.2 Snare Drum
 
