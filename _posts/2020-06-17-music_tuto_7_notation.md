@@ -26,7 +26,7 @@ You should write *everything* you create. While recording yourself is a great wa
 
 Well, the title says it all. Write a transcription of this song.
 
-This is how I would proceed.
+This is how *I* would proceed.
 
 ### 2.1 The structure
 

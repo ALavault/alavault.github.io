@@ -49,7 +49,7 @@ The *casual position* is due to the more relaxed position of the player on the i
 
 Advantages :
 * More confortable to play in general
-* struming and power chords are easier to play
+* strumming and power chords are easier to play
 
 Drawbacks :
 * generally implies hunchback
