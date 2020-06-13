@@ -237,7 +237,7 @@ Fine tune until matched closely : you will work your ear as well as practising E
 
 Check your master bus from time to time : if you are squashing your limiter, it may explain some problems.
 
-#### 7.2.2 Your sound
+#### 7.2.2 The quest for your sound
 
 Here comes the fun part : finding your own "sound".
 
