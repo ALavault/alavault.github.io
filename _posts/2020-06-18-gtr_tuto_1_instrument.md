@@ -24,7 +24,7 @@ There are two main ways of holding a guitar while sitting down. We will call the
 
 #### 1.1.1 The classical way
 
-![classical-position](/assets/img/posts/placeholder.png){:class="img-responsive"}
+![classical-position](/assets/img/posts/classical_guitar_posture.jpg){:class="img-responsive"}
 
 The *classical position* is called like this because it is highly common among classical guitar players.
 
@@ -37,13 +37,18 @@ Drawbacks :
 * requires sitting straight
 * uncomfortable to play full chords
 
-DIY :
-* TODO
+DIY (for the right-handed)
+* put the guitar on your left leg. If possible, raise your left leg with a support (the leg of a chair, an actual guitar footrest...)
+* keep a straight spine
+* Put your left hand onto the neck. Your elbow should make a 90 degree angle (Your right arm should support the guitar, not your left hand.)
+* You are ready to go !
+
+For the left-handed, reverse the position. Or play right handed. Both are fine.
 
 
 #### 1.1.2 The casual way
 
-![casual-position](/assets/img/posts/placeholder.png){:class="img-responsive"}
+![casual-position](/assets/img/posts/holdingGuitar.png){:class="img-responsive"}
 
 The *casual position* is due to the more relaxed position of the player on the instrument. We could also call it the "campfire position".
 
@@ -55,8 +60,10 @@ Drawbacks :
 * generally implies hunchback
 * does not translate well with playing standing up
 
-DIY :
-* TODO
+DIY (for the right handed) :
+* Put the guitar on your right leg.
+* Put the guitar parallel to your belly. Then, angle the headstock slightly forward (around 30-40 degrees).
+* Put your left hand on to the neck. Your right arm should support the guitar, not your left hand.
 
 Since this article is more focus on non-classical playing, I would suggest you to start with the *casual position*.
 
@@ -79,6 +86,7 @@ On a standard 6 string guitar, the tuning is, from low to high, E-A-D-G-B-E (or 
 Your guitar has a *headstock* with *tuning machines*. These are used to tighten or loossen the string up to the desired pitch.
 
 *Exercice :* 
+
 1. Pluck a string of your choice. Find the tuning machine connected to this string. 
 2. Turn the tuning machine peg (aka tuning peg) 1/4 turn (or less) in one direction of your choice : does the pitch becomes higher or lower ?
 3. Turn a 1/4 turn (or less) in the other direction : does the pitch becomes higher or lower ?
@@ -93,7 +101,7 @@ String Number | 6 | 5 | 4 | 3 | 2 | 1
 Note name     | E2| A2| D3| G3| B3| E4
 
 DIY : Let's tune your guitar !
-1. Pluck the 6th string (the lowest).
+1. Pluck the 6th string (the lowest/biggest).
 2. Turn the tuning peg is one direction : is the pitch lower or higher now ?
 3. Check the tuner : if tuned, it should indicate E2. Please note that some tuner only indicate E.
    1. Turn the tuning peg to match the note.
