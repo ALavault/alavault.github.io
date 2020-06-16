@@ -24,6 +24,7 @@ Before talking about anything technical about mixing, let's talk about your main
 
 
 
+
 ## 2. Visualizing audio
 
 This part will talk about visual cues to better understand audio.
