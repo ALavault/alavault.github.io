@@ -4,8 +4,8 @@ title: Simply Mixing Part 1 - Introduction
 tags: [Simply Mixing]
 categories: [Mixing]
 author: alavault
-thumbnail: "assets/img/thumbnails/ssl_6k.jpg"   # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/ssl_6k.jpg"   # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/ssl_6k.jpg" # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/ssl_6k.jpg" # Add a thumbnail image on blog view
 ---
 
 # Simply Mixing Part 1 - Introduction
@@ -22,7 +22,7 @@ Since this series is aimed at beginners, we will try to keep the investments to 
 
 ## 2. Artistic engineering
 
-Mixing is just like any other engineering job : it requires *technical abilities* to get it right and *creative abilities* to make it awesome.
+Mixing is just like any other engineering job : it requires _technical abilities_ to get it right and _creative abilities_ to make it awesome.
 
 Technical abilities are easy to get : how filters work, how a compressor works, what are the loudness standard etc...
 
@@ -58,5 +58,3 @@ On the artistic side :
 Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
 
 If you liked this, by all means, share the word with the world \o/
-
-
