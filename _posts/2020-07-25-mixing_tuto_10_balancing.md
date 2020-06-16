@@ -108,34 +108,35 @@ So, a cheat-list :
 
 ## 5. A word on metering
 
-Most DAW show *peak meters* which means it shows the value of the highest peak found at a certain time.
+Most DAW show _peak meters_ which means it shows the value of the highest peak found at a certain time.
 
 But for human hearing, volume is mostly bound to the average volume.
 
-The roughest measurement of an "average" is the RMS value (*Root mean squared*) over generally 300ms.
+The roughest measurement of an "average" is the RMS value (_Root mean squared_) over generally 300ms.
 
-*Exercice :* In your mix, put the snare drum and the guitar in solo. Level them such as their max peak levels are the same. The guitar will be way louder because they have a higher average value while the snare being mostly a transient has a lower average value.
+_Exercice :_ In your mix, put the snare drum and the guitar in solo. Level them such as their max peak levels are the same. The guitar will be way louder because they have a higher average value while the snare being mostly a transient has a lower average value.
 
-Of course, RMS metering is not the best loudness measurement possible. The most up to date is described in the EBU R 128 standard where the *Loudness Unit* is defined (if it the RMS on a filtered signal to put it simply). But before the R128 standard, a first try was the *K-system* of Bob Katz.
+Of course, RMS metering is not the best loudness measurement possible. The most up to date is described in the EBU R 128 standard where the _Loudness Unit_ is defined (if it the RMS on a filtered signal to put it simply). But before the R128 standard, a first try was the _K-system_ of Bob Katz.
 
 Anyway, keep in mind that your meters are "lying". And red lights means (generally) nothing.
 
-
 ## 6. Automation
 
-Sometimes, a *static mix* does not cut it : too much compromises. What if we could make a mix evolving throughout the song.
+Sometimes, a _static mix_ does not cut it : too much compromises. What if we could make a mix evolving throughout the song.
 
-Well, we can. This is call *automation* and it basically automating parameters like volume, pan, sends, mute, solo or plugins.
+Well, we can. This is call _automation_ and it basically automating parameters like volume, pan, sends, mute, solo or plugins.
 
 With balancing, we will only look at volume automation.
 
 Each DAW has its way of writing automation : check their documentation.
 
-They are two main objectives with automation : excitement or balance.
+They are three main objectives with automation : excitement, balance or correction.
 
 By "balance", I mean automating volume to keep a vocal performance consistant or to ride a part for a section. These are "long" automation.
 
 By "excitement", I mean short automation to make a lead guitar rise to its solo or to ride the toms during an awesome fills. These are "short" automation.
+
+By "correction", I mean correcting problems happening in specific spots while the rest gives satisfying results. Think of a fast double kick pattern : a high-pass should be applied to avoid a low-end build up making a mess (and riding the rooms down too) while keeping the rest of the song unchanged.
 
 Of course, these are personnal and should be use if and only if the mix needs it.
 
