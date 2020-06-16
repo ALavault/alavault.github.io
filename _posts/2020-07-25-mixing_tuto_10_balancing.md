@@ -84,6 +84,7 @@ So, a little cheat-list :
 - Tom fills should be heard : not doing will result in weak transitions, destroying the song and its emotional impact.
 - Room mics should be mixed between background and supporting with a role of sonic glue : if you mute the rooms and your drum mix falls apart, it is (somewhat) a good sign.
 - Cymbals (and by extension overheads) are almost surely not the center of attention : mix them under the kick and snare as a supporting element to give the drum kit a sense of cohesion.
+- By bussing the kick, snare and toms, it makes it easier to adjust the level of the whole package rather than each track.
 
 _Remark :_ Musically, cymbals are generally accenting beats : not having them is likely to destroy the _groove_ of your track.
 
