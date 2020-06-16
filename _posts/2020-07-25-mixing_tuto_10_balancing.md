@@ -36,7 +36,7 @@ In a mix (and music in general), we can identify several elements :
 _Exercice :_ Go back to your mix and play with the vocAnywals.
 
 - Pull the fader down all the way
-- Raise it till it starts to be audible - it becomes a texture, a detail.
+- Raise it till it starts to be audible - it becomes a texture, a detail. Mute it on and off and check if you notice a difference (spoiler : you should)
 - Raise it more to make it support the rest of the mix
 - Again, push the fader until it grabs somewhat your attention without being leading the song
 - Push the fader until it leads the song while keeping the clarity of the mix
@@ -47,6 +47,8 @@ While doing this exercice, try to "feel" the different loudness level and how it
 _Note :_ If you feel your mix is unbalanced after this exercice, go back to it and balance it "properly".
 
 _Visualization :_ The fader can be seen as a _focus fader_ rather than an actual _volume fader_.
+
+_Remark_ : in my experience, there is around 3-4dB between each "level".
 
 ## 2. Making choices
 
@@ -60,8 +62,11 @@ This is your vision, and your mix should show that.
 
 *Exercice :* Listen to a song you like and write the feelings you get from it. Listen *critically* to find the balance of the different elements. Does this balance satisfy you ?
 
-*Exerce :* Go back to your first mix and try to take a step back and build your *vision*. Try to make it happen !
+*Exercice :* Go back to your first mix and try to take a step back and build your *vision*. Try to make it happen !
 
+## 3. The drums
+
+s
 
 ---
 
