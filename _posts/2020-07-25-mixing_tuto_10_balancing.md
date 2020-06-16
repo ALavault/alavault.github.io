@@ -106,8 +106,6 @@ So, a cheat-list :
 - If you are mixing a counterpoint/answer, it should be noticed but not leading (second row element)
 - Some vocal tracks may look like harmonies but are in fact doubles of the lead : they should be treated as part of the lead group.
 
-
-
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
