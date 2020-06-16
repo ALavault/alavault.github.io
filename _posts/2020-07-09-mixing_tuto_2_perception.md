@@ -18,11 +18,11 @@ Before talking about anything technical about mixing, let's talk about your main
 
 ### 1.1 Anatomy
 
-### 1.2 Frequential perception
+### 1.2 Frequency perception
 
 ### 1.3 Frequency masking
 
-
+### 1.4 Space perception
 
 ## 2. Visualizing audio
 

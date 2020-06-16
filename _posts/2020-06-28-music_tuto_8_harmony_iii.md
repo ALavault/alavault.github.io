@@ -177,7 +177,7 @@ Note somewhere some adjectives you would use to describe the modes.
 
 Use your own words. It will be a first step to your own musical voice ;)
 
-### 2.3 Who use that anyway ?
+### 2.3 Who uses that anyway ?
 
 Ok. A list :
 * Ionian : whatever is described as major

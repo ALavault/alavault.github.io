@@ -16,9 +16,9 @@ This post tries to describe the content of this series on mixing. Today, a quick
 
 This series will focus on mixing in the digital realm. To make it simple, using a computer and processing with the computer.
 
-It is possible to mix using *analog gear*, but these tend to be more expensive and harder to setup. 
+It is possible to mix using *analogue gear*, but these tend to be more expensive and harder to set-up. 
 
-Since this series aim at beginners, we will try to keep the investments to a minimum.
+Since this series is aimed at beginners, we will try to keep the investments to a minimum.
 
 ## 2. Artistic engineering
 
@@ -30,6 +30,26 @@ But to get everything to the next level, a good dose of creativity is required a
 
 Setting levels needs *taste* and a *trained ear*. You do not need to have perfect pitch (it can help).
 
+You should also be able at some point to mix (no pun intended) both your technique with an artistic view of the song.
+
+## 3. What you will learn 
+
+You will learn a few things. 
+
+On the technical side :
+
+- The basics of digital audio processing
+- How to use the most common processing units
+- Editing audio
+- Basic psychoacoustics applied to mixing
+- Preparing a mix
+
+On the artistic side :
+
+- Finding your "sound"
+- Using common processors and effects to create interest
+- Balancing instruments with respect to an artistic vision
+- Building your creative process
 
 
 
