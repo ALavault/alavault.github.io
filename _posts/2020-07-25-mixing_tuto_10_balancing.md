@@ -64,7 +64,7 @@ _Exercice :_ Listen to a song you like and write the feelings you get from it. L
 
 _Exercice :_ Go back to your first mix and try to take a step back and build your _vision_. Try to make it happen !
 
-## 3. The drums
+## 3. Case study - Drums
 
 Mixing (real) drums is a job within the job. So, let's talk about it.
 
@@ -89,6 +89,24 @@ So, a little cheat-list :
 _Remark :_ Musically, cymbals are generally accenting beats : not having them is likely to destroy the _groove_ of your track.
 
 _Tip :_ During tom fills, ride the room mics up. It makes them bigger, if that is what you are looking after. 3-4dB should do the trick.
+
+## 4. Case study - Vocals
+
+Balancing between lead and backing vocals is tricky and can change drastically the feel of the song.
+
+A rule of thumb is the more backing you have, the more epic it is. The less you have, the more intimate it is.
+
+Most of the time, harmonies and background vocal are panned : look what already occupies the spot (cymbals, stereo synth, guitars...) and balance accoringly.
+
+So, a cheat-list :
+
+- Harmonies smooth the performance (in terms of details and dynamics) of the lead and give more width. Balance according to your vision.
+- Pan your harmonies further to the sides the higher they are : it will give width while keeping a centered low-end.
+- Full pan might not be a good idea : it may clash with other instruments. Find the best compromise between width and clarity of the instruments.
+- If you are mixing a counterpoint/answer, it should be noticed but not leading (second row element)
+- Some vocal tracks may look like harmonies but are in fact doubles of the lead : they should be treated as part of the lead group.
+
+
 
 ---
 
