@@ -106,6 +106,28 @@ So, a cheat-list :
 - If you are mixing a counterpoint/answer, it should be noticed but not leading (second row element)
 - Some vocal tracks may look like harmonies but are in fact doubles of the lead : they should be treated as part of the lead group.
 
+## 5. A word on metering
+
+Most DAW show *peak meters* which means it shows the value of the highest peak found at a certain time.
+
+But for human hearing, volume is mostly bound to the average volume.
+
+The roughest measurement of an "average" is the RMS value (*Root mean squared*) over generally 300ms.
+
+*Exercice :* In your mix, put the snare drum and the guitar in solo. Level them such as their max peak levels are the same. The guitar will be way louder because they have a higher average value while the snare being mostly a transient has a lower average value.
+
+Of course, RMS metering is not the best loudness measurement possible. The most up to date is described in the EBU R 128 standard where the *Loudness Unit* is defined (if it the RMS on a filtered signal to put it simply). But before the R128 standard, a first try was the *K-system* of Bob Katz.
+
+Anyway, keep in mind that your meters are "lying". And red lights means (generally) nothing.
+
+
+## 6. Automation
+
+Sometimes, a *static mix* does not cut it : to much compromises. What if wwe could make a mix evolving throughout the song.
+
+Well, we can. This is call *automation* and it basically automating parameters like volume, pan, sends or equalizers.
+
+
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
