@@ -123,10 +123,23 @@ Anyway, keep in mind that your meters are "lying". And red lights means (general
 
 ## 6. Automation
 
-Sometimes, a *static mix* does not cut it : to much compromises. What if wwe could make a mix evolving throughout the song.
+Sometimes, a *static mix* does not cut it : too much compromises. What if we could make a mix evolving throughout the song.
 
-Well, we can. This is call *automation* and it basically automating parameters like volume, pan, sends or equalizers.
+Well, we can. This is call *automation* and it basically automating parameters like volume, pan, sends, mute, solo or plugins.
 
+With balancing, we will only look at volume automation.
+
+Each DAW has its way of writing automation : check their documentation.
+
+They are two main objectives with automation : excitement or balance.
+
+By "balance", I mean automating volume to keep a vocal performance consistant or to ride a part for a section. These are "long" automation.
+
+By "excitement", I mean short automation to make a lead guitar rise to its solo or to ride the toms during an awesome fills. These are "short" automation.
+
+Of course, these are personnal and should be use if and only if the mix needs it.
+
+It is a great way to get your mixes to the next level though.
 
 ---
 
