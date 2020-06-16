@@ -52,21 +52,42 @@ _Remark_ : in my experience, there is around 3-4dB between each "level".
 
 ## 2. Making choices
 
-Mixing is is mostly a succession of trade-offs. *You* are here to make these tradeoffs.
+Mixing is is mostly a succession of trade-offs. _You_ are here to make these tradeoffs.
 
-But before making tradeoffs we need to have all the elements at our disposal to create a *vision* : what do you *hear* ?
+But before making tradeoffs we need to have all the elements at our disposal to create a _vision_ : what do you _hear_ ?
 
 By "What do you hear ?", I mean do you think of something anthemic, something intimate, something tense...
 
 This is your vision, and your mix should show that.
 
-*Exercice :* Listen to a song you like and write the feelings you get from it. Listen *critically* to find the balance of the different elements. Does this balance satisfy you ?
+_Exercice :_ Listen to a song you like and write the feelings you get from it. Listen _critically_ to find the balance of the different elements. Does this balance satisfy you ?
 
-*Exercice :* Go back to your first mix and try to take a step back and build your *vision*. Try to make it happen !
+_Exercice :_ Go back to your first mix and try to take a step back and build your _vision_. Try to make it happen !
 
 ## 3. The drums
 
-s
+Mixing (real) drums is a job within the job. So, let's talk about it.
+
+Most drum recordings have two kinds of tracks : point mics and ambiance mics. Points mics are the kick, the snare and the toms in general. Ambiance mics comprise the overheads and the room mics.
+
+By putting the point mics to loud, it will make the drums sound disconnected and unreal. On the other hand, mixing the ambiance mics to loud will destroy any kind of clarity, especially because of the cymbals.
+
+Also, do not put anything on top of the other tracks so much it feels disconnected : a hi-hat way too loud can destroy your track, even in trap music. Same with shakers.
+
+So, a little cheat-list :
+
+- The kick should match the song : energetic and punchy for Machine Head, soft and pillowy for jazz.
+- Kick and snare should be roughly at the same level : you can get away with a small gap of course, but no snare solo please.
+- Snare drum and vocals share some frequencies (200 and 3k roughly) : mix the snare accordingly.
+- Snare drum sound is specific to every genre : deep metal snare in rock, 808 in hip-hop. Do your homework.
+- Toms are special beasts : they episodic low-end. Mix then not so loud it pumps your master limiter/compressor.
+- Tom fills should be heard : not doing will result in weak transitions, destroying the song and its emotional impact.
+- Room mics should be mixed between background and supporting with a role of sonic glue : if you mute the rooms and your drum mix falls apart, it is (somewhat) a good sign.
+- Cymbals (and by extension overheads) are almost surely not the center of attention : mix them under the kick and snare as a supporting element to give the drum kit a sense of cohesion.
+
+_Remark :_ Musically, cymbals are generally accenting beats : not having them is likely to destroy the _groove_ of your track.
+
+_Tip :_ During tom fills, ride the room mics up. It makes them bigger, if that is what you are looking after. 3-4dB should do the trick.
 
 ---
 
