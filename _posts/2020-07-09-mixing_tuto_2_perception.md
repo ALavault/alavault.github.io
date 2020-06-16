@@ -4,8 +4,8 @@ title: Simply Mixing Part 2 - Perception
 tags: [Simply Mixing]
 categories: [Mixing]
 author: alavault
-thumbnail: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/focusrite.jpg"   # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/focusrite.jpg" # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/focusrite.jpg" # Add a thumbnail image on blog view
 ---
 
 # Simply Mixing Part 2 - Perception
@@ -22,9 +22,6 @@ Before talking about anything technical about mixing, let's talk about your main
 
 ### 1.3 Frequency masking
 
-
-
-
 ## 2. Visualizing audio
 
 This part will talk about visual cues to better understand audio.
@@ -40,5 +37,3 @@ This part will talk about visual cues to better understand audio.
 Do you have questions ? Or some interesting comments ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
 
 If you liked this, by all means, share the word with the world \o/
-
-
