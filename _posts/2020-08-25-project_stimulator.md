@@ -44,7 +44,9 @@ No need to backward engineer things : woo-hoo !
 
 Let's read the manual [here](http://www.empiricallabs.com/manuals/distressor_manual.pdf)
 
-The "heart" of the circuit here is the distortion module : I think I will experiment with 2nd and 3rd harmonic generator
+The "heart" of the circuit here is the distortion module : I think I will experiment with 2nd and 3rd harmonic generators because I have never done that before.
+
+The conversion from discrete to opamp should be not so hard.
 
 
 
