@@ -26,7 +26,7 @@ Another typical structure in jazz is AABA : the *Rhythm Changes* follows this ki
 
 *Storytime :* the song ABACAB, by Genesis, is named after the structure of the song.
 
-*Exercice :* Listen to your favourite song, and try to write the general structure. When a part is repeated but with slight variations, add a number besides it (for instance A1-B-A2-C)
+*Exercise :* Listen to your favourite song, and try to write the general structure. When a part is repeated but with slight variations, add a number besides it (for instance A1-B-A2-C)
 
 ### 1.2 What's inside a part
 
