@@ -106,7 +106,7 @@ Another thing to keep in mind :
 
 *And what about the other notes ?* You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
 
-*Exercice *: 
+*Exercise *: 
 1. play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
 2. play an F in 1/4 over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
 3. play an Ab in 1/4 over the A part. Having only dissonances lead the phrase nowhere.
@@ -143,7 +143,7 @@ Musical ideas can also be written has dialogues : it is known as *call and respo
 
 While not being the most interesting dialogue. And you can have several voices as well (J.S. Bach was quite good at that).
 
-*Exercice :* Watch a TV show or a movie you like, without the sound. Try to "sing" the dialogues.
+*Exercise :* Watch a TV show or a movie you like, without the sound. Try to "sing" the dialogues.
 
 *Remark :* TODO ?
 
