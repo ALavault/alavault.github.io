@@ -10,7 +10,7 @@ feature-img: "assets/img/thumbnails/guitar_2.jpg"   # Add a thumbnail image on b
 
 # Simple Guitar Part 2 : Going further
 
-This post tries to describe the basics of guitar. Today, strenghening the basics.
+This post tries to describe the basics of guitar. Today, strengthening the basics.
 
 Requirements : a guitar (with six strings) and Simply Guitar part 1.
 
@@ -52,7 +52,7 @@ Let us read all of this :
 
 *Remark* : The "e" notation is used to avoid confusion with the lowest E.
 
-*Exercice :* Write the tablature for the A major chord as well as the D minor chord (see part 1)
+*Exercise :* Write the tablature for the A major chord as well as the D minor chord (see part 1)
 
 *Answer :*
 
@@ -90,7 +90,7 @@ A|-----------8-10-12---------------------------------
 E|---8-10-12-----------------------------------------
 ```
 
-*Exercice :* 
+*Exercise :* 
 1. While practising these scale pattern, remark the notes are only C,D,E,F,G,A,B.
 2. These patterns can be transposed up and down the neck. Play the G major scale with both fingering.
    (*Hint : The G on the A string is at 10, you have a G on the E string at 3)
@@ -105,7 +105,7 @@ And if there is one pattern you should know it is this one :
 
 ![pattern](/assets/img/posts/strum.png){:class="img-responsive"}
 
-The squares and the V indicate the strumming pattern : square for downstrokes, V for upstrokes.
+The squares and the V indicate the strumming pattern : square for down-strokes, V for upstrokes.
 
 Note the down strokes are on the beat while the upstrokes are on the downbeats.
 : not doing so is equivalent 
@@ -120,7 +120,7 @@ A somewhat weird "trick" I can give you to make your transitions between chords 
 
 If you do so on the last downbeat, you will have time to reposition your fingers and it is not going to be picked up by the listener.
 
-*Exercice :* 
+*Exercise :* 
 1. While playing "the pattern", play the chords as written. It is hard to transition efficiently as higher tempos
 
 ```
@@ -151,7 +151,7 @@ E|-----------------|-----------------|-3---3-3---3-3-0-|---||
    D                 Cadd9             G                 D
 ```
 
-These chords have some commons fingers between them (e.g the 3-3 at the top of the Cadd9 and the G chord). Try to keep them in place : the less you move, the faster and the smoother you will be able to transition.
+These chords have some commons fingers between them (e.g the 3-3 at the top of the C*add9* and the G chord). Try to keep them in place : the less you move, the faster and the smoother you will be able to transition.
 
 *Remark :* You do not need to play the open strings hit exactly as written. Experimenting with this is a great learning experience.
 

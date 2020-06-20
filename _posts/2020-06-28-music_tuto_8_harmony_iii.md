@@ -108,8 +108,6 @@ But we have F instead of F# and C instead of C#: the 2nd is lowered as well as t
 
 We can then defined the *locrian mode* as a *minor scale with lowered 2nd and 5th*.
 
-
-
 ## 2. "Hearing" the modes
 
 We are doing a little exercice to "hear" the differents modes by playing their implied harmony.
