@@ -91,7 +91,7 @@ The triads are :
 C major : C-E-G
 A minor : A-C-E
 D minor : D-F-A
-G major (7): G-B-D-(F)
+G major (G7): G-B-D-(F)
 ```
 
 All these are chords from the C major scale : we can use this scale as our base set of notes.
