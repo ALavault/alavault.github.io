@@ -138,7 +138,7 @@ Musical ideas can also be written has dialogues : it is known as *call and respo
 
 > Did you buy the groceries ?
 > No, I didn't.
-> And did you wash your hands ?
+> At least, did you wash your hands ?
 > Yes, I did.
 
 While not being the most interesting dialogue. And you can have several voices as well (J.S. Bach was quite good at that).
