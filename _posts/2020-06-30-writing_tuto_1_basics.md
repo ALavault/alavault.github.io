@@ -96,7 +96,7 @@ G major (G7): G-B-D-(F)
 
 All these are chords from the C major scale : we can use this scale as our base set of notes.
 
-*Chord tones and non-chord tones* : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonance is...uninteresting. It is bland.
+*Chord tones and non-chord tones* : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonance is...uninteresting. It is bland. It is like a story without a disruptive element.
 
 Another thing to keep in mind :
 
