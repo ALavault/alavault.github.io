@@ -107,9 +107,9 @@ Another thing to keep in mind :
 *And what about the other notes ?* You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
 
 *Exercise *: 
-1. play an E in 1/4 over the A part. Feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
-2. play an F in 1/4 over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
-3. play an Ab in 1/4 over the A part. Having only dissonances lead the phrase nowhere.
+1. play an E in 1/4 notes over the A part. Hear/feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
+2. play an F in 1/4 notes over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
+3. play an Ab in 1/4 notes over the A part. Having only dissonances lead the phrase nowhere.
 4. play the following phrase in 1/4 notes : G-F-E-F. 
 
 
