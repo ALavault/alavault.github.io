@@ -132,7 +132,7 @@ This is a sentence with no rhythm : it can be a *stylistic* choice.
 
 > Mary had a little lamb. One day the lamb disappeared. But Mary had a great kebab that day.
 
-Here, we have a "good" sentence : consonance, dissonance, rhythm and resolution. But the resolution might not be the on expected.
+Here, we have a "good" sentence : consonance, dissonance, rhythm and resolution. But the resolution might not be the one you expected.
 
 Musical ideas can also be written has dialogues : it is known as *call and response*.
 
