@@ -12,9 +12,9 @@ This post describes the basics of songwriting. Well, rather an introduction to t
 
 Requirements : an instrument (piano or guitar appreciated), knowledge from Simply Music 1-4 (reading music, basic harmony)
 
-## 1. What makes a song a song ?
+## 1. What makes a song a song
 
-We can define a song as a *structured* composition whose parts are built of *harmony*, *rhythm* and *melody*.
+We can define a song as a _structured_ composition whose parts are built of _harmony_, _rhythm_ and _melody_.
 
 ### 1.1 Structure
 
@@ -22,15 +22,15 @@ A song, and in fact most of western music, is a structured composition.
 
 A typical pop song structure is Verse-Chorus-Verse-Chorus-Bridge-Chorus which can be summed up as ABABCB.
 
-Another typical structure in jazz is AABA : the *Rhythm Changes* follows this kind of structure..
+Another typical structure in jazz is AABA : the _Rhythm Changes_ follows this kind of structure..
 
-*Storytime :* the song ABACAB, by Genesis, is named after the structure of the song.
+_Storytime :_ the song ABACAB, by Genesis, is named after the structure of the song.
 
-*Exercise :* Listen to your favourite song, and try to write the general structure. When a part is repeated but with slight variations, add a number besides it (for instance A1-B-A2-C)
+_Exercise :_ Listen to your favourite song, and try to write the general structure. When a part is repeated but with slight variations, add a number besides it (for instance A1-B-A2-C)
 
 ### 1.2 What's inside a part
 
-A *part* can be defined by three elements : its *harmony*, its *rhythm* and its *melody*.
+A _part_ can be defined by three elements : its _harmony_, its _rhythm_ and its _melody_.
 
 #### 1.2.1 Harmony
 
@@ -67,9 +67,9 @@ This harmony is not exactly common in modern songs, but since the focus is to wr
 
 Listen to the backing track.
 
-*What should I 'listen' to ?* Find where the changes occurs and have a feel of which notes feels good.
+_What should I 'listen' to ?_ Find where the changes occurs and have a feel of which notes feels good.
 
-This requires to work on your *inner ear*. It may sounds like some esoteric stuff, but every musician has a voice inside their heads.
+This requires to work on your _inner ear_. It may sounds like some esoteric stuff, but every musician has a voice inside their heads.
 
 Also keep in mind this :
 
@@ -83,7 +83,7 @@ But I find one, either record yourself singing it or write it down (it's even be
 
 If you don't feel confident in your inner ear yet, let us do a bit of harmonic analysis !
 
-*Part A* :
+_Part A_ :
 
 The triads are :
 
@@ -96,45 +96,44 @@ G major (G7): G-B-D-(F)
 
 All these are chords from the C major scale : we can use this scale as our base set of notes.
 
-*Chord tones and non-chord tones* : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonance is...uninteresting. It is bland. It is like a story without a disruptive element.
+_Chord tones and non-chord tones_ : Depending on which chord is playing, certain notes are inside of the chord or not. Using chord tones is really consonant and allows for powerful resolutions. But having a melody with only consonance is...uninteresting. It is bland. It is like a story without a disruptive element.
 
 Another thing to keep in mind :
 
 > Dissonance is emotion.
 
-*Where should I put my dissonances ?* At the end of the part. But these dissonances should be resolved afterwards (not doing so can give an uneasy feeling, which can be desirable depending of the stylistic choice).
+_Where should I put my dissonances ?_ At the end of the part. But these dissonances should be resolved afterwards (not doing so can give an uneasy feeling, which can be desirable depending of the stylistic choice).
 
-*And what about the other notes ?* You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
+_And what about the other notes ?_ You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
 
-*Exercise *: 
+_Exercise _:
+
 1. play an E in 1/4 notes over the A part. Hear/feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
 2. play an F in 1/4 notes over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
 3. play an Ab in 1/4 notes over the A part. Having only dissonances lead the phrase nowhere.
 4. play the following phrase in 1/4 notes : G-F-E-F : succession of dissonances and consonances makes it somewhat interesting
 
-
-
 #### 2.2.2 Musical phrases
 
-Writing a melody is exactly like writing sentences. A melody is composed of *phrases*.
+Writing a melody is exactly like writing sentences. A melody is composed of _phrases_.
 
 > If I write a sentence, I will write a build up, letting you think something interesting is at the end.
 
-This is a sentence with "dissonances" but no resolution : it will feel bad, *unless* you are going for this (useful to end a song)
+This is a sentence with "dissonances" but no resolution : it will feel bad, _unless_ you are going for this (useful to end a song)
 
 > I can write about lemon pie. Everybody likes lemon pie.
 
-This is a "consonant" sentence : nothing interesting to read here. 
+This is a "consonant" sentence : nothing interesting to read here.
 
 > I can also write a sentence without any kind of punctuation which is a pain to read of course and you should stop reading this as it is really painful to read.
 
-This is a sentence with no rhythm : it can be a *stylistic* choice.
+This is a sentence with no rhythm : it can be a _stylistic_ choice.
 
 > Mary had a little lamb. One day the lamb disappeared. But Mary had a great kebab that day.
 
 Here, we have a "good" sentence : consonance, dissonance, rhythm and resolution. But the resolution might not be the one you expected.
 
-Musical ideas can also be written has dialogues : it is known as *call and response*.
+Musical ideas can also be written has dialogues : it is known as _call and response_.
 
 > Did you buy the groceries ?
 > No, I didn't.
@@ -143,9 +142,9 @@ Musical ideas can also be written has dialogues : it is known as *call and respo
 
 While not being the most interesting dialogue. And you can have several voices as well (J.S. Bach was quite good at that).
 
-*Exercise :* Watch a TV show or a movie you like, without the sound. Try to "sing" the dialogues.
+_Exercise :_ Watch a TV show or a movie you like, without the sound. Try to "sing" the dialogues.
 
-*Remark :* TODO ?
+_Remark :_ TODO ?
 
 #### 2.2.3 Your first phrase.
 
@@ -153,7 +152,7 @@ For the moment, we will try to write different phrases on a single chord : a C m
 
 TODO : backing track
 
-*Remark:* dissonances are "stronger" when placed strong beats.
+_Remark:_ dissonances are "stronger" when placed strong beats.
 
 #### 2.2.4 Do It Yourself
 
@@ -168,5 +167,3 @@ Oh, and sing what you play is you are using an instrument : it will help build y
 Do you have any questions ? Do you want to complain if your fingers hurt ? Click [here !](mailto:apeiron.prod@gmail.com?subject=[Simple Guitar]) to write a mail !
 
 If you liked this, by all means, share the word with the world \o/
-
-
