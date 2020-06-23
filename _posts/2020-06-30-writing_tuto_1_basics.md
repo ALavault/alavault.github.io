@@ -106,7 +106,7 @@ _Where should I put my dissonances ?_ At the end of the part. But these dissonan
 
 _And what about the other notes ?_ You can of course use notes outside of the scale ! Try the Ab for instance over the C major chord.
 
-_Exercise _:
+_Exercise_:
 
 1. play an E in 1/4 notes over the A part. Hear/feel the difference when the E is a chord tone (on C and Am) and when its not (Dm and G)
 2. play an F in 1/4 notes over the A part. Having the dissonance at the beginning while resolving on Dm feels somewhat odd.
@@ -146,7 +146,7 @@ _Exercise :_ Watch a TV show or a movie you like, without the sound. Try to "sin
 
 _Remark :_ TODO ?
 
-#### 2.2.3 Your first phrase.
+#### 2.2.3 Your first phrase
 
 For the moment, we will try to write different phrases on a single chord : a C major.
 
