@@ -120,7 +120,7 @@ Of course, RMS metering is not the best loudness measurement possible. The most 
 
 Note that some people will ue VU meters for RMS measurement. This is because old analogue meters where too slow to show the peaks and were actually giving an approximation of the RMS value.
 
-*Note :* VU stand for *Voltage Unit*
+_Note :_ VU stand for _Voltage Unit_
 
 Anyway, keep in mind that your meters are "lying". And red lights means (generally) nothing.
 
