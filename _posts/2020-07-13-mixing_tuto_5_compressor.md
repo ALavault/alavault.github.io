@@ -157,6 +157,8 @@ Originally integrated to the SSL G-series consoles, this compressor made a name 
 
 Not as coloured as the 1176 or the LA-2A, the SSL G compressor is clean yet punchy.
 
+Listen closely, you will hear it brighening things up. Or eating the low end if you are going too far.
+
 It is the closest match to the "basic" digital compressor.
 
 A note on the *Auto* release : this is a special case where the compressor release fast on fast moving signals and slower on slow moving signals.

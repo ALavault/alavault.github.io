@@ -116,7 +116,11 @@ The roughest measurement of an "average" is the RMS value (_Root mean squared_) 
 
 _Exercice :_ In your mix, put the snare drum and the guitar in solo. Level them such as their max peak levels are the same. The guitar will be way louder because they have a higher average value while the snare being mostly a transient has a lower average value.
 
-Of course, RMS metering is not the best loudness measurement possible. The most up to date is described in the EBU R 128 standard where the _Loudness Unit_ is defined (if it the RMS on a filtered signal to put it simply). But before the R128 standard, a first try was the _K-system_ of Bob Katz.
+Of course, RMS metering is not the best loudness measurement possible. The most up to date is described in the EBU R 128 standard where the _Loudness Unit_ is defined (if it the RMS on a filtered signal to put it simply). But before the R128 standard, a first try was the _K-system_ of Bob Katz : it was the same idea of a filtered RMS calculation but the R128 went way further.
+
+Note that some people will ue VU meters for RMS measurement. This is because old analogue meters where too slow to show the peaks and were actually giving an approximation of the RMS value.
+
+*Note :* VU stand for *Voltage Unit*
 
 Anyway, keep in mind that your meters are "lying". And red lights means (generally) nothing.
 
