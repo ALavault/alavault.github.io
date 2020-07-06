@@ -178,10 +178,10 @@ A major chord with a minor seventh is also known as *dominant chord*. The minor 
 For the guitar players, some voicings.
 
 ```
-   C7    Cmin7
+   C7  Cmin7
 E|-------------
 B|-8--5---8--4-
-G|-9--4---8--3-
+G|-8--3---8--3-
 D|-9--5---8--5-
 A|----3------3-
 E|-8------8----
