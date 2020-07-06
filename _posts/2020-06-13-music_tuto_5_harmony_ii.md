@@ -110,9 +110,7 @@ Now, your turn !
 
 There are no wrong or right answer though. And keep this sheet and note the evolution in your taste during your musical journey !
 
-See you next time !
 
-And I accept donation to buy Arnold Schönberg "Treaty of Harmony" :)
 
 ## 5. Suspension, seventh chords and ninth cloud
 
@@ -206,6 +204,10 @@ Same with a Fmaj13(#11) : it can be seen as a F*maj7* topped of by a G major tri
 Of course, nothing force us to use chords built on thirds (aka tertiary harmony). We can use fourth or fifth. Even seconds.
 
 *Exercice :* Have fun and experiment. Quartal (based on fourth) are somewhat common is modern fusion (e.g. Plini - Electric Sunrise) : start here.
+
+See you next time !
+
+And I accept donation to buy Arnold Schönberg "Treaty of Harmony" :)
 
 ---
 
