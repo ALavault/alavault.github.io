@@ -112,7 +112,7 @@ There are no wrong or right answer though. And keep this sheet and note the evol
 
 See you next time !
 
-And I accept donation to Arnold Schönberg "Treaty of Harmony" :)
+And I accept donation to buy Arnold Schönberg "Treaty of Harmony" :)
 
 ## 5. Suspension, seventh chords and ninth cloud
 
