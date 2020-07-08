@@ -27,7 +27,9 @@ The ear canal of the outer ear is separated from the air-filled tympanic cavity 
 
 The middle ear contains three small bones (malleus, incus and stapes) called the ossicles involved in the mechanical transmission of sound.
 
-The middle ear is connected to the throat at the nasopharynx, via the pharyngeal opening of the Eustachian tube. The inner ear contains the otolith organs (the utricle and saccule) and the semicircular canals belonging to the vestibular system, as well as the cochlea of the auditory system.
+The middle ear is connected to the throat at the nasopharynx, via the pharyngeal opening of the Eustachian tube. 
+
+The inner ear contains the otolith organs (the utricle and saccule) and the semicircular canals belonging to the vestibular system, as well as the cochlea of the auditory system.
 
 ### 1.2 Frequency perception
 
@@ -65,11 +67,21 @@ This is related to space acoustics.
 
 This part will talk about visual cues to better understand audio.
 
-### 2.1 Time-frequency duality
+### 2.1 Fourier Transform
+
+It would be great it we had something that could turn raw audio into an object dependant of the frequency...
+
+Well, something like this exists and is known as the *Fourier Transform*. In other words, math time.
+
+*No ! Maths ! My greatest enemy !* You are not alone. Maths are my greatest enemy too. But bear with me.
+
+The Fourier transform allows us to change of domain
 
 ### 2.2 Spectra
 
-### 2.3 A non-spectral based visualization technique ?
+A *spectrum* is a plot of the intensity with respect to the frequency. To obtain the spectrum of a sound, we need to change its domain from time to freequency with the Fourier Transform.
+
+TODO
 
 ---
 
