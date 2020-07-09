@@ -61,7 +61,9 @@ This is more straightforward. Temporal masking occurs when a sudden sound makes 
 
 ### 1.4 Space perception 
 
-This is related to space acoustics.
+This is related to space acoustics. 
+
+TODO
 
 ## 2. Visualizing audio
 
