@@ -75,7 +75,9 @@ Well, something like this exists and is known as the *Fourier Transform*. In oth
 
 *No ! Maths ! My greatest enemy !* You are not alone. Maths are my greatest enemy too. But bear with me.
 
-The Fourier transform allows us to change of domain
+The Fourier transform allows us to change of domain : we can go from temporal domain to the frequency domain.
+
+TODO
 
 ### 2.2 Spectra
 
