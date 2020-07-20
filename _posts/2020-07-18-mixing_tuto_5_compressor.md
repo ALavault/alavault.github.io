@@ -8,7 +8,7 @@ thumbnail: "assets/img/thumbnails/distressor.jpg"   # Add a thumbnail image on b
 feature-img: "assets/img/thumbnails/distressor.jpg"   # Add a thumbnail image on blog view
 ---
 
-# Simply Mixing Part 5 - The compressors
+# Simply Mixing Part 5 - The compressor
 
 This post tries to describe the basics of mixing music. Today, the compressor.
 
