@@ -4,8 +4,8 @@ title: Simply Mixing Part 6 - Balancing
 tags: [Simply Mixing]
 categories: [Mixing]
 author: alavault
-thumbnail: "assets/img/thumbnails/ssl_cs.jpg" # Add a thumbnail image on blog view
-feature-img: "assets/img/thumbnails/ssl_cs.jpg" # Add a thumbnail image on blog view
+thumbnail: "assets/img/thumbnails/ssl_fader.jpg" # Add a thumbnail image on blog view
+feature-img: "assets/img/thumbnails/ssl_fader.jpg" # Add a thumbnail image on blog view
 ---
 
 # Simply Mixing Part 6 - Balancing
