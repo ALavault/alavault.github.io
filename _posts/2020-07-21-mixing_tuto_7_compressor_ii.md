@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simply Mixing Part 6 - Compression I
+title: Simply Mixing Part 7 - Compression II
 tags: [Simply Mixing]
 categories: [Mixing]
 author: alavault
@@ -8,7 +8,7 @@ thumbnail: "assets/img/thumbnails/ssl_cs.jpg"   # Add a thumbnail image on blog 
 feature-img: "assets/img/thumbnails/ssl_cs.jpg"   # Add a thumbnail image on blog view
 ---
 
-# Simply Mixing Part 6 - Compression I
+# Simply Mixing Part 7 - Compression II
 
 This post tries to describe the basics of mixing music. Today, common compressions uses.
 

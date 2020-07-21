@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simply Mixing Part 7 - My first mix I
+title: Simply Mixing Part 8 - My first mix I
 tags: [Simply Mixing]
 categories: [Mixing]
 author: alavault
@@ -8,7 +8,7 @@ thumbnail: "assets/img/thumbnails/ssl_cs.jpg" # Add a thumbnail image on blog vi
 feature-img: "assets/img/thumbnails/ssl_cs.jpg" # Add a thumbnail image on blog view
 ---
 
-# Simply Mixing Part 7 - My first mix I
+# Simply Mixing Part 8 - My first mix I
 
 ## 1. The song
 
@@ -84,7 +84,7 @@ _Can I put distortion on my master bus ?_ Yes, you can. But keep in mind it may 
 
 I personnaly use the following master bus chain :
 
-> Pre-fader : Full-band compressor - EQ + saturation - Multiband Compressor
+> Pre-fader : Full-band compressor - EQ (+ saturation) - Multiband Compressor
 > Post-fader : clipper - limiter
 
 _Err... That's a lot..._ Yes. Maybe. But it sounds good. So, I keep it that way. For the moment, we will keep it simple, just one limiter.
@@ -95,7 +95,7 @@ _I don't have a limiter..._ I am pretty sure every DAW has one if you search wel
 
 All yours tracks are routed, your limiter is set : let's listen to the song, all faders at 0.
 
-Listen to the song while watching your limiter : if the gain reduction is over -2/3dB, reduce the volume of your busses by such amount.
+Listen to the song while watching your limiter : if the gain reduction is over -2/3dB, reduce the volume of your busses by such amount until the gain reduction happens on the highest transients.
 
 _Listening to the song ? Anyone can do that._ I mean _activelly listening_. Take mental or physical notes of what you think is wrong (e.g the guitar feels painful, the vocals are dark and too quiet etc...)
 

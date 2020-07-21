@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simply Mixing Part 7 - My first mix I
+title: Simply Mixing Part 6 - Balancing
 tags: [Simply Mixing]
 categories: [Mixing]
 author: alavault
@@ -8,7 +8,7 @@ thumbnail: "assets/img/thumbnails/ssl_cs.jpg" # Add a thumbnail image on blog vi
 feature-img: "assets/img/thumbnails/ssl_cs.jpg" # Add a thumbnail image on blog view
 ---
 
-# Simply Mixing Part 10 - Balancing
+# Simply Mixing Part 6 - Balancing
 
 Now we have a first mix ready, let's work on balancing.
 
