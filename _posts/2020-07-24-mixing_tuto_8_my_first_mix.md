@@ -364,6 +364,20 @@ I feel like a guru...
 
 ## Bonus : My favourite references 
 
+Here is a little list with the title and why I use them.
+
+* Avenged Sevenfold - The Stage (toms and low end quality)
+* Avenged Sevenfold - Natural Born Killer (4-on-the-floor beat, low end)
+* Dream Theater - This Is The Life (ballad, synth and dynamic changes)
+* Dream Theater - On the Backs of Angels (mid-tempo, synth and dense arrengement)
+* 3 Days Grace - The Mountain (Raw and dark sound, drum levels)
+* Stratovarius - Nemesis (Synth and guitars balance)
+* Stratovarius - Unbreakable (Low tuning chuging guitars and synths)
+* Silona - Learning How to Fly (Female vocals, atmospheric elements) 
+* Scorpions - Rock You Like a Hurricane [2011 version] (minimalist style of arrangement, punch)
+* Accept - Teutonic Terror/Pandemix (tight rock sound)
+* Brand X - A Longer April (in case of jazz)
+
 ---
 
 Do you have questions ? Or some interesting comments ? Click [here](mailto:apeiron.prod@gmail.com?subject=[Simple Music]) to write a mail.
