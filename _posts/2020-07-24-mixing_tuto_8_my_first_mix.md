@@ -198,13 +198,21 @@ If you want to put reverb anyway, I would suggest yo put a short reverb (<1s) at
 
 A thing to keep in mind, reverb tends to make everything sound good in solo.
 
-_A delay then ?_ Actually, a _slapback delay_ (<150ms, feedback=0%) can be a good choice. Again, set your level in context.
+_A delay then ?_ Actually, a _slapback delay_ (<150ms, feedback=0-1%) can be a good choice. Again, set your level in context.
 
 _(insert any other effect) ?_ Try it out. It might work.
 
 #### 7.1.2 Snare Drum
 
-TODO
+There are two mics for the snare : a top mic and a bottom mic.
+
+The top microphone is used to capture the stick attack and the sound of the shell.
+
+The bottom microphone is used to capture the sound of the actual snare wires.
+
+Problem : these mics are... bleedy.
+
+
 
 #### 7.1.3 Overheads
 
@@ -219,6 +227,47 @@ TODO
 TODO
 
 #### 7.1.6 Toms
+
+Well, these toms have a lot of of bleed... Like, a lot.
+
+We can do several things :
+
+* gate them : finding a sweet spot will be a pain and will not sound great...
+* edit them : cut the audio file when the toms do not play, leaving only the interesting stuff : tedious but works great.
+* leave them be : embrace the bleed.
+
+I would go with either editing or leaving them. 
+
+To make your job harder, we will edit these toms !
+
+*Oh, great...* Yes, editing is tedious and not immediately rewarding. But it will give you an advantage over other lazy mixers.
+
+To edit the toms, we have two different ways :
+
+* consider the toms as a group
+* consider each tom individually
+
+By editing the toms as a group, we will have a bit of bleed from unused toms but it should not be a problem.
+
+By editing each toms individually, we can achieve great control over the decay, but it takes more time.
+
+Because I am nice, we are going to edit them as a group !
+
+*Oh, great. Again...* Don't be so grumpy. Let see how we do it !
+
+1. Find where the tom fills happen and where the next crash cymbal hit happens : these is our snippet.
+2. Cut every tom track between these points.
+3. Put small fades in and out to avoid clicks and pops.
+
+By having our toms as a group, we don't care about gating them.
+
+*But toms rings...* Yes. This is why overheads and room tracks are here : they will fade right into it.
+
+#### 7.1.7 A word about samples
+
+*I heard people use samples instead of the real mics* Yes, it's true. Is it cheating ? No. 
+
+*Why don't we use some ?* This is a tutorial. Learn how to do it on "real" stuff before. Afterwards, you can add samples.
 
 ### 7.2 The sound of music
 
@@ -248,6 +297,9 @@ If you find a good setting, save it as a preset.
 This is your first mix, you will not have a sound yet. But you will refine your craft until you get something unique and personal.
 
 I feel like a guru...
+
+
+## Bonus : My favourite references 
 
 ---
 
