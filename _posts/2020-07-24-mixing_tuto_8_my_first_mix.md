@@ -174,11 +174,11 @@ Here is a list of (approximate) interesting frequencies to boost or cut :
 - 40-60Hz = fundamental
 - 500Hz = basket-ball
 - 1-2kHz = Beater knock
-- 8-10k = click
+- 5-10k = click
 
 Experiment : find areas that sounds good/bad, cut/them boost them.
 
-Have fun, but kick in mind it should sound like a kick drum in the end.
+Have fun, but *kick* in mind it should sound like a kick drum in the end (yeah, puns...)
 
 ##### Compressing the kick
 
@@ -210,21 +210,84 @@ The top microphone is used to capture the stick attack and the sound of the shel
 
 The bottom microphone is used to capture the sound of the actual snare wires.
 
-Problem : these mics are... bleedy.
+*Problem* : these mics are... bleedy.
 
+*Solution* : Gate the top, keep the bottom as is.
 
+*Wait, what ?* The bottom mic is *secondary* : having bleed in it is not as problematic as in the top snare since it is going to be quieter than the top snare. We can use it as "glue fader".
+
+So....
+
+1. Check the phase between the two mics : flip the phase of the bottom with respect to the top. Keep the one the one with the most low end.
+2. Gate the top snare mic. You should still hear the ghost notes though.
+3. EQ it.
+4. Compress it if necessary
+5. EQ the bottom snare.
+6. Balance them together. The bottom snare should be lower in volume than the top snare.
+
+*No compression on the bottom mic ?* You can do that, but the bottom mic is already "compressed" by design.
+
+Tips :
+* EQ zones for the snare top : 200, 2k, 8k. HP@120 (these are rough guidelines)
+* Compression on snare drum bus : to add punch, use a compressor with a mix capability with high gain redution, slow attack (30ms) and fast release (100ms). Mix the heavily compressed signal with the dry using the mix knob. This is used to glue both mics while getting some punch.
 
 #### 7.1.3 Overheads
 
-TODO
+Since we have a room mic, we are going to treat the overheads as cymbals mics.
+
+*Which means high-passing at 2000 Hz ?* I would rather not do that. This is a "live" feeling track, having something else than cymbals in the overheads will provide this feeling.
+
+*But the snare is poking out is there...* Let's squash it down then ! I would personnaly use a limiter in order to bring the snare at the same level as the cymbals.
+
+You can also use fast compressors (e.g. 1176/Distressor) to squash it down.
+
+When you have your dynamics balanced, let's EQ it : cymbals have some harsh resonances in the 4-6k area, mostly on crash cymbals hits. This is a zone to keep in mind when EQ-ing.
+
+To avoid smearing in the low end, you can highpass or reduce the low end. You can also leave it as is.
+
+See, we don't highpass everything !
+
+You can put reverb on the overheads if you think the cymbals don't ring for long enough.
 
 #### 7.1.4 Room mics
 
-TODO
+Since we have already cymbals in the overheads, we will filter them here.
+
+*But it's part of the sound...* I think of room mics as reverb tracks : I will filter the things I don't think you be extended i.e. kick and cymbals.
+
+As a rough start, highpass and lowpass at 200 and 6000.
+
+Putting your room tracks into a reverb can yield interesting results ;)
+
+Tip : You can use sidechained upward compression to make the snare poke inside the room mics.
+
+*What ?* Put an upward compressor/expander on your room tracks. Sidechain it with the snare top. Adjust so when the snare hits, the upward compressor raises the room by around 2-3 dB.
+
+While subtle, it is a good way to get a "bigger" snarew quickly.
+
+
 
 #### 7.1.5 Percussions and hi-hat
 
-TODO
+No cowbell here. 
+
+Which is GREAT !
+
+But a hi-hat and a tambourine....
+
+First thing first, find where the hi-hat is in the overheads (it is left).
+
+Then, pan the hi-hat to the left where you think it is well placed in the stereo field (in case of doubt, pan it full left).
+
+EQ it.
+
+Bring it at a level where it gives more details to the hi-hat already present in the overheads.
+
+For the tambourine, same deal. Except it is not in the overheads.
+
+Compress the tambourine to avoid spikes (dynamic control) and EQ it. Feather it in a bit. It is a *background element*. Loud tambourine is a crime according to the Geneva Convention you know...
+
+
 
 #### 7.1.6 Toms
 
