@@ -64,11 +64,21 @@ Another way of doing it uses parallel processing. You can experiment with :
 
 I personnaly have a channel ready with an 1176 in British mode if I need more distortion. I don't use it all the time, but here, it can be helpful.
 
+In terms of balance, the vocals should be the thing on top of the track : push the fader accordingly !
+
 ## 4. Slithering snakes and S
 
 If you EQ a lot of top end, you find a lot of whistling noise on s and f for instance. These are called *sibilants*.
 
 To get rid of them, you can use a de-esser : it is simply a multiband compressor applying compression on the "s" region (between 3-10k depending on the recording and singer).
+
+I would go with de-essing track by track and with just a little bit of work (6dB of max gain reduction achieves good results in general).
+
+I don't think these vocals are very sibilant so you may not need a de-esser.
+
+If you want one, you can search the web. The Dead Duck plugin bunble has one and it is free.
+
+
 
 
 
