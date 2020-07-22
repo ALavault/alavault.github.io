@@ -78,6 +78,25 @@ I don't think these vocals are very sibilant so you may not need a de-esser.
 
 If you want one, you can search the web. The Dead Duck plugin bunble has one and it is free.
 
+## 5. Preset for vocals
+
+In case you wanted a start point, hear you go :
+
+On the tracks :
+
+* Saturation : Airwindows Channel7 - Neve @ 100%
+* Pre-EQ/filter : Stock EQ
+* Vocal riding : Sonic Anomaly VOLA2 
+* Limiter : Stock plugin/Loudmax
+
+On the bus :
+
+* EQ : Analog Obsession SSQ
+* Fast compression : Analog Obsession Fetish - ratio@4:1, attack@3, release@7, up to 12dB of gain reduction (listen please)
+* Slow/leveling compression : Analog Obsession LALA
+* Special EQ : lkjb Luftikus (with 40k shelf)
+* Limiter :stock/Loudmax
+
 
 
 
