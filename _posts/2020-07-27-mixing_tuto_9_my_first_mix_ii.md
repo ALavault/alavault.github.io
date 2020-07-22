@@ -85,6 +85,8 @@ I would use a setting similar to the "parallel punch" setting from the drum para
 
 Also, you can use an EQ to bring some lows and top (guideline : 150,8k)
 
+I would suggest you use analog modeled plugin again since they bring intersting distortion.
+
 ### 2.2 Using the DIs
 
 A word on these DIS : we can do a few things with them. The two big things are :
@@ -97,6 +99,10 @@ For the first application, just feather the DIs with the same panning as the cor
 For the second one, you can use amp simulations to craft the sound you want or get a quad tracked rhythm guitars. I would do that on the solo DI since I think it lacks gain to cut through. But do as you please.
 
 ## 3. Noisy things with keys
+
+There is something called "Hammond". That's an organ. And organs are bad.
+
+*Why ?* 
 
 
 
