@@ -332,6 +332,38 @@ By having our toms as a group, we don't care about gating them.
 
 *Why don't we use some ?* This is a tutorial. Learn how to do it on "real" stuff before. Afterwards, you can add samples.
 
+#### 7.1.8 Parallel compression
+
+Parallel processing uses *sends* to a channel/bus where some processing happens. In the case of *parallel compression*, there is a compressor on this channel.
+
+We can achieve to things with parallel compression : bring more sustain or enhance the transients. These imply two differents settings.
+
+As a rule of thumb, set up a compressor on a channel where you send part or all of your drum tracks (I personnaly sends only the shelled drums and the room tracks).
+
+To get some sustain, I would suggest the following settings :
+
+* Threshold : enough to get 8-12 dB of compression
+* Ratio : 2-4:1 ratio (low to medium)
+* Attack : fast (<3ms)
+* Release : fast-medium (50-400ms)
+
+To get more punch :
+
+* Threshold : enough to get 8-12 dB of compression
+* Ratio : 4-10:1 ratio (medium to high)
+* Attack : slow (> 10 ms)
+* Release : fast-medium (50-400ms)
+
+To get an even more interesting sound, you can put an EQ before : I would put two shelves at 60 and 8k with 3-6dB for instance.
+
+Analog modeled compressor are well suited with this application since they also bring distortion.
+
+Keep in mind that the raw sound is meh. But it should be brought under the direct drum tracks to give more life. 
+
+I personnally like VladG Molot : (get it here !)[https://www.tokyodawn.net/vladg-molot-compressor/]
+
+Oh, by the way, use dual-mono compressor : it will keep your drum stereo width.
+
 ### 7.2 The sound of music
 
 #### 7.2.1 Reference time
