@@ -102,7 +102,17 @@ For the second one, you can use amp simulations to craft the sound you want or g
 
 There is something called "Hammond". That's an organ. And organs are bad.
 
-*Why ?* 
+*Why ?* I don't like the sound.
+
+Anyway, let's think of the position of the organ in the mix : foreground, middle ground or background ?
+
+For me, it's going to be a background element.
+
+So, filter, EQ and compression.
+
+*Why compress it ?* To make it take less space : it is a background element that should not peak through. Actually, I should have said *limiting*.
+
+
 
 
 
