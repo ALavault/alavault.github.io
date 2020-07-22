@@ -133,7 +133,7 @@ Reference track will you ideas on how to set up your levels, how your instrument
 
 Mixing without references, at least in the beginning, will cost you time and effort. By checking regurarly, you can get a comparison on where you are.
 
-But, you should _level match_ : your references should be played at the same loudness as the track.
+But, you should _level match_ : your references should be played at the same loudness as the track you are mixing.
 
 For the song we are mixing, you can find the actual mix. Use it as a reference.
 
