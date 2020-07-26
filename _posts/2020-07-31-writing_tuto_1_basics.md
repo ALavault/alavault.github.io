@@ -34,15 +34,27 @@ A _part_ can be defined by three elements : its _harmony_, its _rhythm_ and its 
 
 #### 1.2.1 Harmony
 
-TODO
+Harmony is used in music writing as a skeleton of chords, each chords flowing,or not, with each other. 
+
+The harmony of a part should follow a sequence of consonnance and disonnance to be somewhat intersting. This gives a background for the rest.
 
 #### 1.2.2 Rhythm
 
-TODO
+Rhythm is the temporal organization of musical events. I think.
+
+Anyway, rhythm organizes (by definition) the harmony and the melody. 
+
+Different rhythm can give different feeling : rushing a chord gives anticipation or angst, dragging a more laid back feel.
+
 
 #### 1.2.3 Melody
 
-TODO
+Most of modern music writing is melody driven : it is the statement built on top of the harmony and with rhythm.
+
+Of course, like any spoken statement, in can be a tautology or something interesting. And everything in betwen !
+
+
+
 
 ## 2. Writing our first song
 
