@@ -71,7 +71,7 @@ Open Hi-Hat : {% include open-embed.html src="/assets/audio/supp_mat/synthesis/o
 
 # Tensorflow-compatible AudioCommons descriptors
 
-Our Tesorflow-compatible descriptors are available at : [here](https://www.youtube.com/watch?v=0fO7hQaQczg)
+Our Tesorflow-compatible descriptors are available [here](https://www.youtube.com/watch?v=0fO7hQaQczg)
 
 | Command | Description |
 | --- | --- |
