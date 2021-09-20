@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.2.1
+    Copyright 2016-2019 Sylhare
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+<style>
+  img {
+    max-width: 100%;
+    object-fit: contain
+  }
+</style>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)-->
+    <script defer=true src="/assets/js/main.min.js"></script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://alavault.github.io/404.html">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="Simple Stuff" href="https://alavault.github.io/feed.xml"/>
+    
+    
+
+    <!-- KaTeX 0.8.3 -->
+    <!-- if you have any issue check https://github.com/KaTeX/KaTeX -->
+    
+    <script src="/assets/js/vendor/katex.min.js"></script>
+    
+
+    <!-- Google Analytics -->
+    
+    <!-- End Google Analytics -->
+
+    <!-- seo tags -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>404 Page not found | Simple Stuff</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="404 Page not found" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tutorials and learning ressources" />
+<meta property="og:description" content="Tutorials and learning ressources" />
+<link rel="canonical" href="https://alavault.github.io/404.html" />
+<meta property="og:url" content="https://alavault.github.io/404.html" />
+<meta property="og:site_name" content="Simple Stuff" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="404 Page not found" />
+<script type="application/ld+json">
+{"description":"Tutorials and learning ressources","url":"https://alavault.github.io/404.html","@type":"WebPage","headline":"404 Page not found","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta property="og:image" content="https://alavault.github.io/assets/img/pexels/triangular.jpeg " />
+</head>
+
+<style>
+    .videoWrapper {
+        position: relative;
+        padding-bottom: 56.333%;
+        height: 0;
+        background: black;
+    }
+
+    .videoWrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+</style>
+
+<script>
+    function get_youtube_id(url) {
+        var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
+        return (url.match(p)) ? RegExp.$1 : false;
+    }
+    function vimeo_embed(url, el) {
+        var id = false;
+        $.ajax({
+            url: 'https://vimeo.com/api/oembed.json?url=' + url,
+            async: true,
+            success: function (response) {
+                if (response.video_id) {
+                    id = response.video_id;
+                    if (url.indexOf('autoplay=1') !== -1) var autoplay = 1; else var autoplay = 0;
+                    if (url.indexOf('loop=1') !== -1) var loop = 1; else var loop = 0;
+                    var theInnerHTML = '<div class="videoWrapper"><iframe src="https://player.vimeo.com/video/' + id + '/?byline=0&title=0&portrait=0';
+                    if (autoplay == 1) theInnerHTML += '&autoplay=1';
+                    if (loop == 1) theInnerHTML += '&loop=1';
+                    theInnerHTML += '" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>';
+                    el.innerHTML = theInnerHTML;
+                }
+            }
+        });
+    }
+    function video_embed() {
+        var p = document.getElementsByTagName('p');
+        for (var i = 0; i < p.length; i++) {
+            //check if this is an external url (that starts with https:// or http://
+            if (p[i].innerHTML.indexOf("http://") == 0 ||
+                p[i].innerHTML.indexOf("https://") == 0) {
+                var youtube_id = get_youtube_id(p[i].innerHTML);
+                if (youtube_id) {
+                    if (p[i].innerHTML.indexOf('autoplay=1') !== -1) var autoplay = 1; else var autoplay = 0;
+                    if (p[i].innerHTML.indexOf('loop=1') !== -1) var loop = 1; else var loop = 0;
+                    var theInnerHTML = '<div class="videoWrapper"><iframe width="720" height="420" src="https://www.youtube.com/embed/' + youtube_id + '?rel=0&showinfo=0';
+                    if (autoplay == 1) theInnerHTML += '&autoplay=1';
+                    if (loop == 1) theInnerHTML += '&loop=1&playlist=' + youtube_id + '&version=3';
+                    if (p[i].innerHTML.indexOf('start=') !== -1) theInnerHTML += '&start=' + p[i].innerHTML.substring(p[i].innerHTML.indexOf('start=') + 6);
+                    theInnerHTML += '" frameborder="0" allowfullscreen></iframe></div>';
+                    p[i].innerHTML = theInnerHTML;
+                }
+                if (p[i].innerHTML.indexOf('vimeo.com') !== -1) {
+                    //ask vimeo for the id and place the embed
+                    vimeo_embed(p[i].innerHTML, p[i]);
+                }
+            }
+        }
+    }
+    video_embed();
+
+    function wav_embed() {
+        var p = document.getElementsByTagName('p');
+        for (var i = 0; i < p.length; i++) {
+            if (p[i].innerHTML.indexOf('.wav') !== -1) {
+                var str = p[i].innerHTML.split('?');
+                if (str.length == 1) str[1] = '';
+                var str1 = str[1];
+                str1 = str1.replace('&', '').replace('&', '');
+                str1 = str1.replace('autoplay=1', '').replace('autoplay=0', '');
+                str1 = str1.replace('loop=1', '').replace('loop=0', '');
+                str1 = str1.replace('controls=0', '').replace('controls=1', '');
+
+                if (str[0].lastIndexOf('.wav', str[0].length - 4) === str[0].length - 4 && str1.length == 0) {
+                    if (str[1].indexOf('autoplay=1') !== -1) var autoplay = 1; else var autoplay = 0;
+                    if (str[1].indexOf('loop=1') !== -1) var loop = 1; else var loop = 0;
+                    if (str[1].indexOf('controls=0') !== -1) var controls = 0; else var controls = 1;
+                    var newInnerHTML = '<audio';
+                    if (autoplay == 1) newInnerHTML += ' autoplay';
+                    if (loop == 1) newInnerHTML += ' loop';
+                    if (controls == 1) newInnerHTML += ' controls';
+                    newInnerHTML += '><source src="' + str[0] + '" type="audio/mpeg">Your browser does not support the audio element.</audio>';
+                    p[i].innerHTML = newInnerHTML;
+                }
+            }
+        }
+    }
+    wav_embed();
+</script>
+
+<body>
+  <header class="site-header">
+
+    <!-- Logo and title -->
+	<div class="branding">
+        
+		<a href="/">
+			<img alt="logo img" class="avatar" src="/assets/img/triangle.png" />
+		</a>
+        
+
+		<h1 class="site-title">
+			<a aria-label="Simple Stuff" href="/">
+        Simple Stuff
+      </a>
+		</h1>
+	</div>
+
+    <!-- Toggle menu -->
+    <nav class="clear">
+    <a aria-label="pull" id="pull" class="toggle" href="#">
+    <i class="fa fa-bars fa-lg"></i>
+    </a>
+
+    <!-- Menu -->
+    <ul class="hide">
+        
+        
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="About" title="About" href="/about/">
+                     About 
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Categories" title="Categories" href="/categories/">
+                     Categories 
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Downloads" title="Downloads" href="/download/">
+                     Downloads 
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Gallery" title="Gallery" href="/gallery/">
+                     Gallery 
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Portfolio" title="Portfolio" href="/portfolio/">
+                     Portfolio 
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Search" title="Search" href="/search/">
+                     <i class="fa fa-search" aria-hidden="true"></i>
+                    
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="StyleWaveGAN" title="StyleWaveGAN" href="/stylewavegan/">
+                     StyleWaveGAN 
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Tags" title="Tags" href="/tags/">
+                     <i class="fa fa-tags" aria-hidden="true"></i>
+                    
+                </a>
+            </li>
+            
+            
+            
+        
+            
+            
+        
+            
+            
+        
+    </ul>
+
+	</nav>
+</header>
+
+  <div class="content">
+    <article >
+
+  <header id="main" style="background-image: url('')">
+    <h1 id="404+Page+not+found" class="title">
+    404 Page not found
+    </h1>
+    
+  </header>
+
+  <section class="post-content">
+  
+	<p>Sorry, the requested page wasn’t found on the server.</p>
+
+  
+  </section>
+
+
+  <!-- Tag list for portfolio -->
+  
+  
+
+
+<footer>
+  <div class="tag-list"></div>
+</footer>
+
+
+</article>
+
+  </div>
+  <footer class="site-footer">
+    <p class="text">
+        Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                
+
+
+<li>
+    <a href="mailto:apeiron.prod@gmail.com" title="Email">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="https://github.com/alavault" title="Follow on GitHub">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </ul>
+            </div>
+</footer>
+
+
+
+</body>
+
+</html>
