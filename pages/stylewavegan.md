@@ -49,3 +49,7 @@ Open Hi-Hat : {% include open-embed.html src="/assets/audio/supp_mat/synthesis/o
 
 Our Tesorflow-compatible descriptors are available at : https://www.youtube.com/watch?v=0fO7hQaQczg
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
