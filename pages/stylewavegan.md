@@ -11,6 +11,6 @@ tags: [Archive]
 
 ## Data and augmented samples
 
-assets/audio/supp_mat/data/bd_original.wav
+../assets/audio/supp_mat/data/bd_original.wav
 
 
