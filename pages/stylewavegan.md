@@ -12,6 +12,6 @@ tags: [Archive]
 ## Data and augmented samples
 
 <audio controls>
-  <source src="{{ include.src }}" type="audio/mpeg">
+  <source src="audio/supp_mat/data/bd_original.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
