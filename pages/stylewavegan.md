@@ -10,3 +10,8 @@ tags: [Archive]
 # StyleWaveGAN: Style-based synthesis of drum sounds with extensive	controls using generative adversarial networks
 
 ## Data and augmented samples
+
+<audio controls>
+  <source src="{{ include.src }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
