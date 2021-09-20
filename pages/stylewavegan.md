@@ -45,6 +45,7 @@ Open Hi-Hat : {% include open-embed.html src="/assets/audio/supp_mat/synthesis/o
 | 80 | Snare Drum : {% include open-embed.html src="/assets/audio/supp_mat/brightness_effect/sd_brightness_80_1.wav
 " %} {% include open-embed.html src="/assets/audio/supp_mat/brightness_effect/sd_brightness_80_2.wav" %}|
 
+# Tensorflow-compatible AudioCommons descriptors
 
-
+Our Tesorflow-compatible descriptors are available at : https://www.youtube.com/watch?v=0fO7hQaQczg
 
