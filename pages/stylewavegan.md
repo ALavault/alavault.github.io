@@ -8,6 +8,16 @@ tags: [Archive]
 ---
 # StyleWaveGAN: Style-based synthesis of drum sounds with extensive	controls using generative adversarial networks
 
+		StyleWaveGAN is a style based drum sound generator
+		that is a variation of StyleGAN, a state-of-the-art image generator 
+		by Karras et al. By conditioning StyleWaveGAN on both the type of drum and several audio descriptors, we are able to synthesize waveforms
+		faster than real-time on a GPU directly in CD quality up to a duration of 1.5s
+		while retaining a great amount of control over the generation. We also introduce
+		an alternative to the progressive growing of GANs and experimented on the effect
+		of dataset balancing for generative tasks. The experiments are carried out on an
+		augmented subset of a publicly available dataset comprised of different drums
+		and cymbals.
+
 ## Data and augmented samples
 <table>
 <thead>
@@ -71,7 +81,7 @@ Open Hi-Hat : {% include open-embed.html src="/assets/audio/supp_mat/synthesis/o
 
 # Tensorflow-compatible AudioCommons descriptors
 
-Our Tesorflow-compatible descriptors are available [here](https://www.youtube.com/watch?v=0fO7hQaQczg)
+Our Tensorflow-compatible descriptors are available [here](https://www.youtube.com/watch?v=0fO7hQaQczg)
 
 | Command | Description |
 | --- | --- |
