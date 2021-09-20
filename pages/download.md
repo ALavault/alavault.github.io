@@ -11,15 +11,13 @@ Download page :
 # Plugins 
 Built for Windows 10 VST
 
-## Non-Linear Encoder Pair
+## Foldback Distortion
 
-Based on Airwindows Console but without the hard-clipping
-* HyperConsole - [Download Win VST](#)
-* Hyper ConsoleDrive - [Download Win VST](#)
+In development
 
 ## Channel Strip
 
-In development : a one stop shop, for convenience and sonic performance !
+In development
 
 # Documents
 
