@@ -9,6 +9,30 @@ tags: [Archive]
 # StyleWaveGAN: Style-based synthesis of drum sounds with extensive	controls using generative adversarial networks
 
 ## Data and augmented samples
+<table>
+<thead>
+	<tr>
+		<th>Drum Type</th>
+		<th>Original</th>
+		<th>Lowest augmentation parameters</th>
+		<th>Highest augmentation parameters</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Column 1</td>
+		<td>Column 2</td>
+		<td>Column 3</td>
+		<td>Column 4</td>
+	</tr>
+	<tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+		<td>Column 5</td>
+	</tr>
+</tbody>
+</table>
+
 
 | Drum Type | Original | Lowest augmentation parameters | Highest augmentation parameters |
 | ---      | ---      | ---      | --- |
