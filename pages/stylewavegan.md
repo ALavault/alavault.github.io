@@ -11,7 +11,6 @@ tags: [Archive]
 
 ## Data and augmented samples
 
-../assets/audio/supp_mat/data/bd_original.wav
+{% include embed-audio.html src="/assets/audio/supp_mat/data/bd_original.wav" %}
 
-https://www.youtube.com/watch?v=9F49XgzlZgA
 
