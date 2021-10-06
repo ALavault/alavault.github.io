@@ -18,6 +18,12 @@ of dataset balancing for generative tasks. The experiments are carried out on an
 augmented subset of a publicly available dataset comprised of different drums
 and cymbals.
 
+
+## Tensorflow-compatible AudioCommons descriptors
+
+Our Tensorflow-compatible descriptors are available [here](https://github.com/ALavault/tf_timbral_models)
+
+
 ## Data and augmented samples
 <table>
 <thead>
@@ -132,7 +138,4 @@ and cymbals.
 </table>
 
 
-# Tensorflow-compatible AudioCommons descriptors
-
-Our Tensorflow-compatible descriptors are available [here](https://www.youtube.com/watch?v=0fO7hQaQczg)
 
