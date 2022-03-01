@@ -8,16 +8,10 @@ tags: [Archive]
 ---
 # StyleWaveGAN: Style-based synthesis of drum sounds using generative adversarial networks for higher audio quality
 
-In this paper we introduce StyleWaveGAN, a style-based drum sound generator
-that is a variation of StyleGAN, a state-of-the-art image generator. By conditioning StyleWaveGAN on the type of drum, we are able to synthesize waveforms
-faster than real-time on a GPU directly in CD quality up to a duration of 1.5s
-while retaining some control over the generation. We also introduce
-an alternative to the progressive growing of GANs and experimented on the effect
-of dataset balancing for generative tasks. The experiments are carried out on an
-augmented subset of a publicly available dataset comprised of different drums
-and cymbals. We evaluate against two recent drum generators,
-WaveGAN and NeuroDrum, demonstrating significantly improved generation quality (measured with the
-Frechet Audio Distance) as well as perceptive testing.
+We introduce StyleWaveGAN, a style-based drum sound generator that is a variation of StyleGAN, a state-of-the-art image generator. By conditioning StyleWaveGAN on the type of drum, we are able to synthesize waveforms
+faster than real-time on a GPU directly in CD quality up to a duration of 1.5s while retaining some control over the generation. We also introduce an alternative to the progressive growing of GANs and experimented on the effect
+of dataset balancing for generative tasks. The experiments are carried out on an augmented subset of a publicly available dataset comprised of different drums and cymbals. We evaluate against two recent drum generators,
+WaveGAN and NeuroDrum, demonstrating significantly improved generation quality (measured with the Frechet Audio Distance) as well as perceptive testing.
 
 
 ## Data and augmented samples
