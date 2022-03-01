@@ -1,6 +1,6 @@
 --- 
 layout: page
-title : StyleWaveGAN 
+title : StyleWaveGAN-eusipco
 permalink: /stylewavegan_eusipco/
 subtitle: "StyleWaveGAN : a style-based drum sound generator" 
 feature-img: "assets/img/pexels/computer.jpeg"
