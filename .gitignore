@@ -16,3 +16,4 @@ _development_tool
 Gemfile.lock
 *.gem
 .vscode/**
+assets/audio/supp_mat/synthesis/process.py
