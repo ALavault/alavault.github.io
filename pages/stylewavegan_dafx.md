@@ -103,11 +103,11 @@ We evaluate our control method with statistical metrics as well as measurement a
 <tbody>
 	<tr>
 		<td>Brightness</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/synthesis/bd_synthesis_1.wav" %} {% include open-embed.html src="/assets/audio/supp_mat/synthesis/bd_synthesis_2.wav" %}</td>
+		<td>Delta = 0.9 {% include open-embed.html src="/assets/audio/supp_mat/descriptor_effect/snare_1_brightness_55.050_0.850.wav" %}; Delta = 6.7  {% include open-embed.html src="/assets/audio/supp_mat/descriptor_effect/snare_1_brightness_55.050_-6.730.wav" %}</td>
 	</tr>
     <tr>
 		<td>Depth</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/synthesis/sd_synthesis_1.wav" %} {% include open-embed.html src="/assets/audio/supp_mat/synthesis/sd_synthesis_2.wav" %}</td>
+		<td>Delta = 1.8{% include open-embed.html src="/assets/audio/supp_mat/descriptor_effect/snare_3_depth_60.280_-1.860.wav" %}; Delta = 8.9 {% include open-embed.html src="/assets/audio/supp_mat/descriptor_effect/snare_3_depth_60.280_8.900.wav" %}</td>
 	</tr>
     <tr>
 		<td>Warmth</td>
