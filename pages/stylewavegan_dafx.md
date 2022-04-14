@@ -118,4 +118,47 @@ We evaluate our control method with statistical metrics as well as measurement a
 </table>
 
 
+## Psychophysical evaluation results
 
+In this section, we are showing all the graphs of CDF obtained through our perceptive evaluation of control quality.
+<table>
+<thead>
+	<tr>
+		<th>Descriptors</th>
+		<th>Q20</th>
+		<th>Q50</th>
+		<th>Q80</th>
+
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Brightness (Combined)</td>
+		<td><img src="/assets/figures/brightness_abs_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_abs_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_abs_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>Brightness (Positive)</td>
+		<td><img src="/assets/figures/brightness_pos_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_pos_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_pos_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>Brightness (Negative)</td>
+		<td><img src="/assets/figures/brightness_neg_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_neg_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_neg_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>Brightness (Whole range)</td>
+		<td><img src="/assets/figures/brightness_all_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_all_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/brightness_all_ss2.png" alt=""/></td>
+	</tr>
+
+</tbody>
+</table>
+
+
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
