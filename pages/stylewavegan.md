@@ -1,5 +1,6 @@
 --- 
 layout: page
+hide: true
 title : StyleWaveGAN 
 permalink: /stylewavegan/
 subtitle: "StyleWaveGAN : a style-based drum sound generator" 
