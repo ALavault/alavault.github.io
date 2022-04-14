@@ -156,6 +156,55 @@ In this section, we are showing all the graphs of CDF obtained through our perce
 		<td><img src="/assets/figures/brightness_all_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/brightness_all_ss2.png" alt=""/></td>
 	</tr>
+	<tr>
+		<td>Depth (Combined)</td>
+		<td><img src="/assets/figures/depth_abs_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_abs_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_abs_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>Brightness (Positive)</td>
+		<td><img src="/assets/figures/depth_pos_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_pos_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_pos_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>depth (Negative)</td>
+		<td><img src="/assets/figures/depth_neg_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_neg_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_neg_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>depth (Whole range)</td>
+		<td><img src="/assets/figures/depth_all_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_all_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/depth_all_ss2.png" alt=""/></td>
+	</tr>
+
+	<tr>
+		<td>Brightness (Combined)</td>
+		<td><img src="/assets/figures/warmth_abs_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_abs_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_abs_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>warmth (Positive)</td>
+		<td><img src="/assets/figures/warmth_pos_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_pos_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_pos_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>warmth (Negative)</td>
+		<td><img src="/assets/figures/warmth_neg_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_neg_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_neg_ss2.png" alt=""/></td>
+	</tr>
+	<tr>
+		<td>warmth (Whole range)</td>
+		<td><img src="/assets/figures/warmth_all_ss0.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_all_ss1.png" alt=""/></td>
+		<td><img src="/assets/figures/warmth_all_ss2.png" alt=""/></td>
+	</tr>
 
 </tbody>
 </table>
