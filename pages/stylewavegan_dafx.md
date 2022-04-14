@@ -164,44 +164,44 @@ In this section, we are showing all the graphs of CDF obtained through our perce
 		<td><img src="/assets/figures/depth_abs_ss2.png" alt=""/></td>
 	</tr>
 	<tr>
-		<td>Brightness (Positive)</td>
+		<td>Depth (Positive)</td>
 		<td><img src="/assets/figures/depth_pos_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/depth_pos_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/depth_pos_ss2.png" alt=""/></td>
 	</tr>
 	<tr>
-		<td>depth (Negative)</td>
+		<td>Depth (Negative)</td>
 		<td><img src="/assets/figures/depth_neg_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/depth_neg_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/depth_neg_ss2.png" alt=""/></td>
 	</tr>
 	<tr>
-		<td>depth (Whole range)</td>
+		<td>Depth (Whole range)</td>
 		<td><img src="/assets/figures/depth_all_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/depth_all_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/depth_all_ss2.png" alt=""/></td>
 	</tr>
 
 	<tr>
-		<td>Brightness (Combined)</td>
+		<td>Warmth (Combined)</td>
 		<td><img src="/assets/figures/warmth_abs_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_abs_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_abs_ss2.png" alt=""/></td>
 	</tr>
 	<tr>
-		<td>warmth (Positive)</td>
+		<td>Warmth (Positive)</td>
 		<td><img src="/assets/figures/warmth_pos_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_pos_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_pos_ss2.png" alt=""/></td>
 	</tr>
 	<tr>
-		<td>warmth (Negative)</td>
+		<td>Warmth (Negative)</td>
 		<td><img src="/assets/figures/warmth_neg_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_neg_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_neg_ss2.png" alt=""/></td>
 	</tr>
 	<tr>
-		<td>warmth (Whole range)</td>
+		<td>Warmth (Whole range)</td>
 		<td><img src="/assets/figures/warmth_all_ss0.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_all_ss1.png" alt=""/></td>
 		<td><img src="/assets/figures/warmth_all_ss2.png" alt=""/></td>
@@ -209,6 +209,3 @@ In this section, we are showing all the graphs of CDF obtained through our perce
 
 </tbody>
 </table>
-
-
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
