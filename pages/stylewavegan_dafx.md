@@ -1,6 +1,7 @@
 --- 
 layout: page
 title : StyleWaveGAN
+hide: true;
 permalink: /stylewavegan_dafx/
 subtitle: "StyleWaveGAN : a style-based drum sound generator" 
 feature-img: "assets/img/pexels/computer.jpeg"
