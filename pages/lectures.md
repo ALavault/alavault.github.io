@@ -9,4 +9,4 @@ tags: []
 Lectures :
 
 # Data Analysis - ESIREM
-Final project : [here](assets/pdf/enonce.pdf)
+Final project : [here](../assets/pdf/enonce.pdf)
