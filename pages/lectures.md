@@ -6,7 +6,6 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: []
 ---
 
-Lectures :
-
-# Data Analysis - ESIREM
-Final project : [here](../assets/pdf/enonce.pdf)
+# TP Analyse de données - ESIREM 
+Eléments de cours (par Guillaume Lemaitre, INRIA) : [https://github.com/glemaitre/datascience_starter_course](https://github.com/glemaitre/datascience_starter_course)
+Projet final : [Enonce](../assets/pdf/enonce.pdf)
