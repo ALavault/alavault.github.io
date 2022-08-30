@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads
-permalink: /download/
+permalink: /apeira_drums/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
