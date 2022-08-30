@@ -23,5 +23,5 @@ Projet entre Apeira Technologies et l'IRCAM. Financé partiellement par l'ANRT v
 
 ## Publications associées
 
-- Antoine Lavault, Axel Roebel, & Matthieu Voiry : “StyleWaveGAN: Style-Based Synthesis of Drum Sounds with Extensive Controls using Generative Adversarial Network” in Sound And Music Computing (2022), Accepted for publication, accessible under https://arxiv.org/abs/2204.00907
+- Lavault, Antoine, Roebel, Axel, & Voiry, Matthieu. (2022, June 7). Stylewavegan: Style-Based Synthesis of Drum Sounds With Extensive Controls Using Generative Adversarial Networks. (Proceedings of the 19th Sound and Music Computing Conference, 2022) https://doi.org/10.5281/zenodo.6573361
 - Antoine Lavault, Axel Roebel, & Matthieu Voiry : “StyleWaveGAN: Style-based synthesis of drum sounds using generative adversarial networks for higher audio quality” in EUSIPCO (2022), Accepted for publication
