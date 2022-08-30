@@ -4,6 +4,8 @@ permalink: /research/
 title: Research
 ---
 
+ResearchGate : [https://www.researchgate.net/profile/Antoine-Lavault/research](https://www.researchgate.net/profile/Antoine-Lavault/research)
+
 # Optimisation automatique par CFD de la position d'un cycliste
 
 ## Description
