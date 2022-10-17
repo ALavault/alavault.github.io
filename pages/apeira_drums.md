@@ -25,9 +25,9 @@ For reviewers only : direct link [here](https://apeira-test.s3.eu-west-3.amazona
 | Ride            | Zildjian K Jazz Ride 20"                          |
 | Crash 1A        | Sabian AAX Studio Crash 14                        |
 | Crash 1B        | Sabian AAX Studio Crash 14                        |
-| Crash 2A        | Sabian AAX Studio Crash 14                        |
-| Crash 2B        | Sabian AAX Studio Crash 14                        |
-| Crash 3         | ZZ                                                |
+| Crash 2A        | Sabian AAXPlosion Crash 16                        |
+| Crash 2B        | Sabian AA Medium Crash 18                         |
+| Crash 3         | Zildjian A-Custom Crash                           |
 | China           | Sabian Pro Series China 20                        |
 | Special         | Nicolas Guaglianone Signature (Machined AA Crash) |
 
@@ -69,7 +69,7 @@ For the Focusrite ISA and the Mike-E compression setting, :
 | Toms Yamaha 22 | Remo CSX               | )                           |
 | Toms Yamaha 20 | Remo CSX               | )                           |
 
-# Recording setup and miscanelous images
+# Recording setup and miscellaneous images
 
 | Description                 | Image                                                         |
 | --------------------------- | ------------------------------------------------------------- |
