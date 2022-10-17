@@ -18,7 +18,7 @@ Projet final : [Enonce](../assets/pdf/enonce.pdf)
 
 ## Lectures
 
-Lecture 1 - Boolean logic and combinatorial logic - [Slides](../assets/data/MSCV...)
+Lecture 1 - Boolean logic and combinatorial logic - [Slides](../assets/data/MSCV_Intro_Logic.pdf)
 
 ## Tutorials
 
