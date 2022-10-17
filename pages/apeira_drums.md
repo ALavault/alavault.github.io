@@ -12,24 +12,24 @@ For reviewers only : direct link [here](https://apeira-test.s3.eu-west-3.amazona
 
 # Drums and Cymbals List
 
-| Name           | Description                                       |
-| -------------- | ------------------------------------------------- |
-| Kick Yamaha 22 | Yamaha Stage Custom 22x17                         |
-| Kick Yamaha 20 | Yamaha Stage Custom 20x17                         |
-| Snare Yamaha 1 | Yamaha Stage Custom 14x5.5                        |
-| Toms 10 (1&2)  | Yamaha Stage Custom 10x7                          |
-| Toms 12 (1&2)  | Yamaha Stage Custom 12x8                          |
-| Toms 14 (1&2)  | Yamaha Stage Custom 14x13                         |
-| Toms 16 (1&2)  | Yamaha Stage Custom 16x15                         |
-| Hi-hat         | Zildjian K-Custom Dark Hat 13"                    |
-| Ride           | Zildjian K Jazz Ride 20"                          |
-| Crash 1A       | Sabian AAX Studio Crash 14                        |
-| Crash 1B       | Sabian AAX Studio Crash 14                        |
-| Crash 2A       | Sabian AAX Studio Crash 14                        |
-| Crash 2B       | Sabian AAX Studio Crash 14                        |
-| Crash 3        | ZZ                                                |
-| China          | Sabian Pro Series China 20                        |
-| Special        | Nicolas Guaglianone Signature (Machined AA Crash) |
+| Name            | Description                                       |
+| --------------- | ------------------------------------------------- |
+| Kick Yamaha 22  | Yamaha Stage Custom 22x17                         |
+| Kick Yamaha 20  | Yamaha Stage Custom 20x17                         |
+| Snare Yamaha 1  | Yamaha Stage Custom 14x5.5                        |
+| Toms 10 (22&20) | Yamaha Stage Custom 10x7                          |
+| Toms 12 (22&20) | Yamaha Stage Custom 12x8                          |
+| Toms 14 (22&20) | Yamaha Stage Custom 14x13                         |
+| Toms 16 (22)    | Yamaha Stage Custom 16x15                         |
+| Hi-hat          | Zildjian K-Custom Dark Hat 13"                    |
+| Ride            | Zildjian K Jazz Ride 20"                          |
+| Crash 1A        | Sabian AAX Studio Crash 14                        |
+| Crash 1B        | Sabian AAX Studio Crash 14                        |
+| Crash 2A        | Sabian AAX Studio Crash 14                        |
+| Crash 2B        | Sabian AAX Studio Crash 14                        |
+| Crash 3         | ZZ                                                |
+| China           | Sabian Pro Series China 20                        |
+| Special         | Nicolas Guaglianone Signature (Machined AA Crash) |
 
 # Microphone List
 
@@ -69,4 +69,11 @@ For the Focusrite ISA and the Mike-E compression setting, :
 | Toms Yamaha 22 | Remo CSX               | )                           |
 | Toms Yamaha 20 | Remo CSX               | )                           |
 
-# Recording setup
+# Recording setup and miscanelous images
+
+| Description                 | Image                                                         |
+| --------------------------- | ------------------------------------------------------------- |
+| Recording Setup (Yamaha 22) | ![](../assets/img/apeira_drums/../../apeira_drums/setup1.jpg) |
+| Recording Setup (Yamaha 22) | ![](../assets/img/apeira_drums/../../apeira_drums/setup2.jpg) |
+| Recording Setup (Yamaha 20) | ![](../assets/img/apeira_drums/../../apeira_drums/setup3.jpg) |
+| Snare Drums                 | ![](../assets/img/apeira_drums/../../apeira_drums/snares.jpg) |
