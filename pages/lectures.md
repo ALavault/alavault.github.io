@@ -20,17 +20,17 @@ Projet final : [Enonce](../assets/pdf/enonce.pdf)
 
 Lecture 1 - Boolean logic and combinatorial logic - [Slides](../assets/data/MSCV_Intro_Logic.pdf)
 
-Lecture 2 - Sequential logic - [Slides](../assets/data/MSCV_)
+Lecture 2 - Sequential logic - [Slides](../assets/data/MSCV_Sequential_logic-1.pdf_)
 
-Lecture 3 - Memory and Timing in Sequential Circuits - [Slides](../assets/data/MSCV)
+Lecture 3 - Memory and Timing in Sequential Circuits - [Slides](../assets/data/MSCV_Memory_and_Timing.pdf)
 
-Lecture 4 - Introduction to VHDL - [Slides](../assets/data/MSCV_)
+Lecture 4 - Introduction to VHDL - [Slides](../assets/data/MSCV_Intro_VHDL.pdf)
 
-Lecture 5 - More VHDL - [Slides](../assets/data/MSCV_)
+Lecture 5 - More VHDL - [Slides](../assets/data/MSCV_VHDL_Addendum.pdf)
 
 ## Tutorials
 
-Tutorial 1 - Boolean logic and combinatorial logic - [Exercise sheet w/ solutions](../assets/data/Tutorial_1.pdf)
+Tutorial 1 - Boolean logic and combinatorial logic - [Exercise sheet](../assets/data/Tutorial_1.pdf)n[Exercise sheet w/ solutions](../assets/data/Tutorial_1.pdf)
 
 Tutorial 2 - Sequential Logic - [Exercise sheet](../assets/data/Tutorial_2.pdf)
 
