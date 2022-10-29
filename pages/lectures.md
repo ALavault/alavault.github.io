@@ -38,6 +38,6 @@ Tutorial 2 - Sequential Logic - [Exercise sheet](../assets/data/Tutorial_2.pdf);
 
 Final Project : Image Processing in VHDL [Project](../assets/data/Tu)
 
-Quickstart : [Quickstart guide](../assets/data/Tu), [quickstart.vhdl](../assets/data/Tu), [nexys4.xdr](../assets/data/Tu)
+Quickstart : [Quickstart guide](../assets/data/Tu),[Project files](../assets/data/Tu),
 
 Lab 1
