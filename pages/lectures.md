@@ -1,9 +1,11 @@
 ---
+
 layout: page
 title: Lectures
 permalink: /lectures/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: []
+
 ---
 
 # TP Analyse de données (21/22) - ESIREM (L3)
@@ -26,14 +28,20 @@ Lecture 3 - Memory and Timing in Sequential Circuits - [Slides](../assets/data/M
 
 Lecture 4 - Introduction to VHDL - [Slides](../assets/data/MSCV_)
 
+Lecture 5 - More VHDL - [Slides](../assets/data/MSCV_)
+
 ## Tutorials
 
 Tutorial 1 - Boolean logic and combinatorial logic - [Exercise sheet w/ solutions](../assets/data/Tutorial_1.pdf)
 
-Tutorial 2 - Sequential Logic - [Exercise sheet w/ solutions](../assets/data/Tutorial_2.pdf)
+Tutorial 2 - Sequential Logic - [Exercise sheet](../assets/data/Tutorial_2.pdf)
+
+Tutorial 2 - Sequential Logic - [Solutions](../assets/data/Tutorial_2-Solutions.pdf)
 
 ## Lab work
 
 Final Project : Image Processing in VHDL [Project](../assets/data/Tu)
+
+Quickstart : [Quickstart guide](../assets/data/Tu), [quickstart.vhdl](../assets/data/Tu), [nexys4.xdr](../assets/data/Tu)
 
 Lab 1
