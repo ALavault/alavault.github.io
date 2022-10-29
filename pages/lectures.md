@@ -32,9 +32,7 @@ Lecture 5 - More VHDL - [Slides](../assets/data/MSCV_VHDL_Addendum.pdf)
 
 Tutorial 1 - Boolean logic and combinatorial logic - [Exercise sheet](../assets/data/Tutorial_1.pdf)n[Exercise sheet w/ solutions](../assets/data/Tutorial_1.pdf)
 
-Tutorial 2 - Sequential Logic - [Exercise sheet](../assets/data/Tutorial_2.pdf)
-
-Tutorial 2 - Sequential Logic - [Solutions](../assets/data/Tutorial_2-Solutions.pdf)
+Tutorial 2 - Sequential Logic - [Exercise sheet](../assets/data/Tutorial_2.pdf)[Solutions](../assets/data/Tutorial_2-Solutions.pdf)
 
 ## Lab work
 
