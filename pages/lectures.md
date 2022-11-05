@@ -38,6 +38,10 @@ Tutorial 2 - Sequential Logic - [Exercise sheet](../assets/data/Tutorial_2.pdf);
 
 Final Project : Image Processing in VHDL [Project](../assets/data/Tu)
 
-Quickstart : [Quickstart guide](../assets/data/Tu),[Project files](../assets/data/Tu),
+Quickstart/Lab1 : [Quickstart guide](../assets/data/Tu),[Project files](../assets/data/Tu),
 
-Lab 1
+Lab 2 : [Basic VHDL](../assets/data/Tu)
+
+Lab 3 : [Car Alarm](../assets/data/Tu)
+
+Lab 4 : [Audio DSP on FPGA](../assets/data/Tu)
