@@ -134,7 +134,7 @@ Snare 1: {% include open-embed.html src="/assets/audio/supp_mat/data/tt.wav" %}
 
 </tbody>
 </table>
-d
+
 ## Velocity Control
 
 Snare Crescendo: {% include open-embed.html src="/assets/audio/supp_mat/data/ms20_snare_1.wav" %}
