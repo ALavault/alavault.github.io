@@ -30,27 +30,27 @@ tags: [Archive]
 	<tr>
 		<td>Rack Tom</td>
 		<td>Yamaha Stage Custom 10" </td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/Tom 10_44_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Floor Tom</td>
 		<td>Yamaha Stage Custom 16" </td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/Tom 16_68_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Snare Drum (wires on)</td>
 		<td>Yamaha Stage Custom 14x5.5", played with drumsticks </td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/Snare 4041 Top_90_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Snare Drum (wires off)</td>
 		<td>Yamaha Stage Custom 14x5.5", played with mallets </td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/Snare 57 Top_218_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Kick Drum</td>
 		<td>Mapex Black Panther Velvetone 22"x18"</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/Kick 91_16_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Crash Cymbal, low velocity</td>
