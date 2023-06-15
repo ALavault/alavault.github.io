@@ -9,6 +9,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
 
+[create an anchor](#Velocity-Control)
+
 # Introduction
 
 <table>
@@ -229,8 +231,6 @@ tags: [Archive]
 </table>
 
 ## Velocity Control
-
-[create an anchor](#anchors-in-markdown)
 
 Snare Crescendo: {% include open-embed.html src="/assets/audio/supp_mat/data/ms20_snare_1.wav" %}
 
