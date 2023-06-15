@@ -10,7 +10,62 @@ tags: [Archive]
 
 # Introduction
 
-Snare 1: {% include open-embed.html src="/assets/audio/supp_mat/data/tt.wav" %}
+<table>
+<thead>
+	<tr>
+		<th>Drum Type</th>
+		<th>Description</th>
+		<th>Lowest augmentation parameters</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Rack Tom</td>
+		<td>Yamaha Stage Custom 10" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Floor Tom</td>
+		<td>Yamaha Stage Custom 16" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Snare Drum (wires on)</td>
+		<td>Yamaha Stage Custom 14x5.5", played with drumsticks </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Snare Drum (wires off)</td>
+		<td>Yamaha Stage Custom 14x5.5", played with mallets </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Kick Drum</td>
+		<td>Mapex Black Panther Velvetone 22"x18"</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Crash Cymbal, low velocity</td>
+		<td>Sabian 16" AAX AAXplosion Crash</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Crash Cymbal, high velocity</td>
+		<td>Sabian 16" AAX AAXplosion Crash</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Closed Hi-hat</td>
+		<td>Zildjian K-Custom Dark Hat 13"</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Open Hi-hat</td>
+		<td>Zildjian K-Custom Dark Hat 13"</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+</tbody>
+</table>
 
 # Databases
 
