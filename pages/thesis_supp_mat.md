@@ -1,8 +1,8 @@
 ---
 layout: page
 hide: true
-title: Generative Adversarial Networks for Synthesis and
-Control of Drum Sounds
+title: "Generative Adversarial Networks for Synthesis and
+Control of Drum Sounds"
 permalink: /stylewavegan_phd/
 subtitle: "Sound Example Pagef"
 feature-img: "assets/img/pexels/computer.jpeg"
