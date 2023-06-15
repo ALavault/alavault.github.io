@@ -9,7 +9,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
 
-[create an anchor](#Velocity-Control)
+[create an anchor](#velocity-control)
 
 # Introduction
 
