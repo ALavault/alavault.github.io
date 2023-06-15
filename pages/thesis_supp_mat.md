@@ -15,7 +15,7 @@ tags: [Archive]
 	<tr>
 		<th>Drum Type</th>
 		<th>Description</th>
-		<th>Lowest augmentation parameters</th>
+		<th>Audio</th>
 	</tr>
 </thead>
 <tbody>
@@ -116,6 +116,43 @@ tags: [Archive]
 </table>
 
 ## Apeira Drums
+
+<table>
+<thead>
+	<tr>
+		<th>Drum Type</th>
+		<th>Description</th>
+		<th>Audio</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Kick Drum trigger</td>
+		<td>Yamaha Stage Custom 22" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Snare Drum Trigger</td>
+		<td>Yamaha Stage Custom 14" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Tom Trigger</td>
+		<td>Yamaha Stage Custom 10" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Snare Drum Trigger, low velocity</td>
+		<td>Yamaha Stage Custom 14" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Snare Drum Trigger, high velocity</td>
+		<td>Yamaha Stage Custom 14" </td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+	</tr>
+</tbody>
+</table>
 
 # StyleWaveGAN
 
