@@ -1,16 +1,17 @@
---- 
+---
 layout: page
 hide: true
-title : StyleWaveGAN 
+title: StyleWaveGAN
 permalink: /stylewavegan/
-subtitle: "StyleWaveGAN : a style-based drum sound generator" 
+subtitle: "StyleWaveGAN : a style-based drum sound generator"
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
-# StyleWaveGAN: Style-based synthesis of drum sounds with extensive	controls using generative adversarial networks
+
+# StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks
 
 StyleWaveGAN is a style based drum sound generator
-that is a variation of StyleGAN, a state-of-the-art image generator 
+that is a variation of StyleGAN, a state-of-the-art image generator
 by Karras et al. By conditioning StyleWaveGAN on both the type of drum and several audio descriptors, we are able to synthesize waveforms
 faster than real-time on a GPU directly in CD quality up to a duration of 1.5s
 while retaining a great amount of control over the generation. We also introduce
@@ -19,13 +20,12 @@ of dataset balancing for generative tasks. The experiments are carried out on an
 augmented subset of a publicly available dataset comprised of different drums
 and cymbals.
 
-
 ## Tensorflow-compatible AudioCommons descriptors
 
 Our Tensorflow-compatible descriptors are available [here](https://github.com/ALavault/tf_timbral_models)
 
-
 ## Data and augmented samples
+
 <table>
 <thead>
 	<tr>
@@ -94,15 +94,14 @@ Our Tensorflow-compatible descriptors are available [here](https://github.com/AL
 	</tr>
     <tr>
 		<td>Closed Hi-Hat</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/synthesis/chh_synthesis_1.wav" %} {% include open-embed.html src="/assets/audio/supp_mat/synthesis/chh_synthesis_2.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/synthesis/chh_synthesis_1.wav" %} {% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_CHH_HH_199_1.wav" %}</td>
 	</tr>
     <tr>
 		<td>Open Hi-Hat</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/synthesis/ohh_synthesis_1.wav" %} {% include open-embed.html src="/assets/audio/supp_mat/synthesis/ohh_synthesis_2.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/synthesis/ohh_synthesis_1.wav" %} {% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_OHH_HH_231_1.wav" %}</td>
 	</tr>
 </tbody>
 </table>
-
 
 ## Descriptor effect : brightness
 
@@ -137,6 +136,3 @@ Our Tensorflow-compatible descriptors are available [here](https://github.com/AL
 
 </tbody>
 </table>
-
-
-

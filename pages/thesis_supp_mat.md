@@ -55,22 +55,22 @@ tags: [Archive]
 	<tr>
 		<td>Crash Cymbal, low velocity</td>
 		<td>Sabian 16" AAX AAXplosion Crash</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/pp_Crash_M900 Omni_138_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Crash Cymbal, high velocity</td>
 		<td>Sabian 16" AAX AAXplosion Crash</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_Crash_M900 Omni_144_1" %}</td>
 	</tr>
 	<tr>
 		<td>Closed Hi-hat</td>
 		<td>Zildjian K-Custom Dark Hat 13"</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_CHH_HH_199_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Open Hi-hat</td>
 		<td>Zildjian K-Custom Dark Hat 13"</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/data/bd_augmented_extreme_params_low.wav" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_OHH_HH_231_1.wav" %}</td>
 	</tr>
 </tbody>
 </table>
