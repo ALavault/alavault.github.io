@@ -60,7 +60,7 @@ tags: [Archive]
 	<tr>
 		<td>Crash Cymbal, high velocity</td>
 		<td>Sabian 16" AAX AAXplosion Crash</td>
-		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_Crash_M900 Omni_144_1" %}</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_Crash_M900 Omni_144_1.wav" %}</td>
 	</tr>
 	<tr>
 		<td>Closed Hi-hat</td>
