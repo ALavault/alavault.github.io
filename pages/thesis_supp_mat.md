@@ -137,6 +137,8 @@ Snare 1: {% include open-embed.html src="/assets/audio/supp_mat/data/tt.wav" %}
 
 ## Velocity Control
 
+<p hidden id="main-content"></p>
+
 Snare Crescendo: {% include open-embed.html src="/assets/audio/supp_mat/data/ms20_snare_1.wav" %}
 
 # Hybrid Synthesis
