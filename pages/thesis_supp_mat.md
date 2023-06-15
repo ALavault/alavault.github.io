@@ -9,7 +9,12 @@ feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
 
-[create an anchor](#velocity-control)
+[Introduction](#introduction)
+[Databases](#databases)
+[StyleWaveGAN](#basic-stylewavegan)
+[Timbral Control](#timbral-control)
+[Velocity Control](#velocity-control)
+[Hybrid Synthesis](#hybrid-synthesis)
 
 # Introduction
 
