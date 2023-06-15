@@ -1,9 +1,10 @@
 ---
 layout: page
 hide: true
-title: StyleWaveGAN
+title: Generative Adversarial Networks for Synthesis and
+Control of Drum Sounds
 permalink: /stylewavegan_phd/
-subtitle: "StyleWaveGAN etc"
+subtitle: "Sound Example Pagef"
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
