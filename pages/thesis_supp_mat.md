@@ -53,6 +53,26 @@ tags: [Archive]
 		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/Kick 91_16_1.wav" %}</td>
 	</tr>
 	<tr>
+		<td>Crash Cymbal</td>
+		<td>Sabian 14" AAX Studio Crash</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_Crash_M900 Omni_28_1.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Ride Cymbal</td>
+		<td>Zildjian K Jazz Ride 20"</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_Ride_M900 Omni_168_1.wav" %}</td>
+	</tr>
+	<tr>
+		<td>Ride Cymbal, crashed</td>
+		<td>Zildjian K Jazz Ride 20"</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_wsh_Ride_M900 Omni_172_1.wav" %}</td>
+	</tr>
+	<tr>
+		<td>China Cymbal</td>
+		<td>Sabian Pro Series China 20"</td>
+		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/fff_Special_M900 Omni_52_1.wav" %}</td>
+	</tr>
+	<tr>
 		<td>Crash Cymbal, low velocity</td>
 		<td>Sabian 16" AAX AAXplosion Crash</td>
 		<td>{% include open-embed.html src="/assets/audio/supp_mat/introduction/pp_Crash_M900 Omni_138_1.wav" %}</td>
