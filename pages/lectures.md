@@ -31,9 +31,9 @@ Tutorial 4 - Basic System Engineering in VHDL - [Exercise sheet](../assets/data/
 
 ## Lab work
 
-Quickstart/Lab1 : [Quickstart guide](../assets/data/Tu),[Project files](../assets/data/Tu),
+Quickstart/Lab1 : [Quickstart guide](../assets/data/Lab_1.pdf), [Project files](../assets/data/Lab_1.zip),
 
-Lab 2 : [Basic VHDL](../assets/data/Tu)
+Lab 2 : [Basic VHDL](../assets/data/Lab_2.pdf)
 
 ## Projects
 
