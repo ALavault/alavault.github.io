@@ -37,9 +37,9 @@ Lab 2 : [Basic VHDL](../assets/data/Lab_2.pdf)
 
 ## Projects
 
-Final Project 22/23: Image Processing in VHDL [Project](../assets/data/Tu)
+Final Project 22/23: Image Processing in VHDL [Project](../assets/data/Final_Project__22_RTIC.pdf)
 
-Final Project 23/24: A CPU in VHDL [Project](../assets/data/Tu)
+Final Project 23/24: A CPU in VHDL [Project](../assets/data/Final_Project__23_RTIC.pdf)
 
 # Analyse de Données (22/23, 23/24) - Polytech Dijon
 
