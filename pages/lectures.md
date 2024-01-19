@@ -79,7 +79,7 @@ Sujet 2022-2023 : [Notebook](../assets/data/DataAna_Exam/notebook.ipynb)
 
 *Les slides de cours présentées ici sont liés à des notebooks Jupyter d'exemple qui sont présentés à la fin de chaque section. L'idée est ici d'illustrer de manière dynamique les concepts vu juste avant.*
 
-Cours : [Slides](../assets/data/MSCV_MLDL_Remedial.pdf)
+Cours de révision : [Slides](../assets/data/MSCV_MLDL_Remedial.pdf)
 
 Notebooks d'accompagnement du cours : [Notebook ML](../assets/data/torch_tutorial_ml.ipynb) [Notebook DL](../assets/data/torch_tutorial_mlp-cnn.ipynb)
 
