@@ -21,7 +21,7 @@ Projet avec Apeira Technologies.
 
 ## Description
 
-Projet entre Apeira Technologies et l'IRCAM. Financé partiellement par l'ANRT, financé par une bourse CIFRE.
+Projet entre Apeira Technologies et l'IRCAM. Financé partiellement par l'ANRT-bourse CIFRE.
 
 *Project between Apeira Technologies and IRCAM. Partially funded by the ANRT, financed by a CIFRE grant.*
 
@@ -34,5 +34,5 @@ Projet entre Apeira Technologies et l'IRCAM. Financé partiellement par l'ANRT, 
 ## Manuscrit de thèse
 
 * Manuscrit (en anglais) :
-* Rapport (Pr. Philippe Depalle) :
-* Rapport (Pr. Vesa Välimäki) :
+* Rapport (Pr. Philippe Depalle) : [Rapport](../assets/data/rapport__ED130_LAVAULT_Antoine_140721Depalle.pdf)
+* Rapport (Pr. Vesa Välimäki) : [Rapport](../assets/data/rapport__ED130_LAVAULT_Antoine_140721(3).pdf)
