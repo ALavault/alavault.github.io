@@ -6,6 +6,13 @@ title: Research
 
 ResearchGate : [https://www.researchgate.net/profile/Antoine-Lavault/research](https://www.researchgate.net/profile/Antoine-Lavault/research)
 
+# Manuscrit de thèse
+
+* Manuscrit (en anglais) :
+* Rapport (Pr. Philippe Depalle) : [Rapport](../assets/data/rapport__ED130_LAVAULT_Antoine_140721Depalle.pdf)
+* Rapport (Pr. Vesa Välimäki) : [Rapport](../assets/data/rapport__ED130_LAVAULT_Antoine_140721(3).pdf)
+
+
 # Optimisation automatique par CFD de la position d'un cycliste
 
 ## Description
@@ -31,8 +38,3 @@ Projet entre Apeira Technologies et l'IRCAM. Financé partiellement par l'ANRT-b
 - Antoine Lavault, Axel Roebel, Matthieu Voiry. StyleWaveGAN: Style-based synthesis of drum sounds using generative adversarial networks for higher audio quality. 30th European Signal Processing Conference (EUSIPCO 2022), Aug 2022, Belgrade, Serbia. 
 - Antoine Lavault, Axel Roebel, Matthieu Voiry. SUBJECTIVE EVALUATION OF SOUND QUALITY AND CONTROL OF DRUM SYNTHESIS WITH STYLEWAVEGAN. 25th International Conference on Digital Audio Effects (DAFx20in22), Sep 2022, Vienna, Austria. 
 
-## Manuscrit de thèse
-
-* Manuscrit (en anglais) :
-* Rapport (Pr. Philippe Depalle) : [Rapport](../assets/data/rapport__ED130_LAVAULT_Antoine_140721Depalle.pdf)
-* Rapport (Pr. Vesa Välimäki) : [Rapport](../assets/data/rapport__ED130_LAVAULT_Antoine_140721(3).pdf)
