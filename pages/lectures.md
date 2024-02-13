@@ -5,7 +5,7 @@ permalink: /lectures/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: []
 ---
-# Real Time Imaging and Control (22/23, 23/24) - MSCV/Polytech Dijon (M2)
+# Real Time Imaging and Control (22/23, 23/24) - MSCV Vibot/Polytech Dijon (M2)
 
 ## Lectures
 
@@ -73,7 +73,7 @@ Classification et Evaluation : [Notebook](../assets/data/Classification/notebook
 Sujet 2022-2023 : [Notebook](../assets/data/DataAna_Exam/notebook.ipynb)
 
 
-# Advanced Image Analysis/Machine and Deep Learning (23/24) - MSCV/Polytech Dijon (M2)
+# Advanced Image Analysis/Machine and Deep Learning (23/24) - MSCV Vibot/Polytech Dijon (M2)
 
 ## Cours
 
