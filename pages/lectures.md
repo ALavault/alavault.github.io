@@ -47,11 +47,11 @@ Final Project 23/24: A CPU in VHDL [Project](../assets/data/Final_Project__23_RT
 
 *Les slides de cours présentées ici sont liés à des notebooks Jupyter d'exemple qui sont présentés à la fin de chaque section. L'idée est ici d'illustrer de manière dynamique les concepts vu juste avant.*
 
-Regression - [Slides](../assets/data/ESIREM_Regression.pdf) [Notebook d'exemple](../assets/data/regression.ipynb)
+Regression - [Slides](../assets/data/ESIREM_Regression.pdf); [Notebook d'exemple](../assets/data/regression.ipynb)
 
-Clustering et Réduction de dimension - [Slides](../assets/data/ESIREM_Cluster_DimRed) [Notebook d'exemple](../assets/data/clustering.ipynb)
+Clustering et Réduction de dimension - [Slides](../assets/data/ESIREM_Cluster_DimRed); [Notebook d'exemple](../assets/data/clustering.ipynb)
 
-Classification et Evaluation - [Slides](../assets/data/ESIREM_Classif_Test.pdf) [Notebook d'exemple](../assets/data/classification.ipynb)
+Classification et Evaluation - [Slides](../assets/data/ESIREM_Classif_Test.pdf); [Notebook d'exemple](../assets/data/classification.ipynb)
 
 
 ## TP
@@ -81,7 +81,7 @@ Sujet 2022-2023 : [Notebook](../assets/data/DataAna_Exam/notebook.ipynb)
 
 Cours de révision : [Slides](../assets/data/MSCV_MLDL_Remedial.pdf)
 
-Notebooks d'accompagnement du cours : [Notebook ML](../assets/data/torch_tutorial_ml.ipynb) [Notebook DL](../assets/data/torch_tutorial_mlp-cnn.ipynb)
+Notebooks d'accompagnement du cours : [Notebook ML](../assets/data/torch_tutorial_ml.ipynb); [Notebook DL](../assets/data/torch_tutorial_mlp-cnn.ipynb)
 
 ## TD/Tutorial
 
